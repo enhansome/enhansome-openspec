@@ -1,0 +1,1201 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Key Concepts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Core Workflow"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Getting Started Guide",
+          "description": "Official getting started documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T15:38:32Z",
+            "owner": "Fission-AI",
+            "repo": "OpenSpec",
+            "stars": 64783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSpec",
+          "description": "Official OpenSpec CLI. Spec-driven development (SDD) for AI coding assistants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T15:38:32Z",
+            "owner": "Fission-AI",
+            "repo": "OpenSpec",
+            "stars": 64783
+          }
+        }
+      ],
+      "title": "Official Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenSpecUI",
+          "description": "Web interface for OpenSpec workflows with live mode and static export support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T18:01:57Z",
+            "owner": "jixoai",
+            "repo": "openspecui",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spek",
+          "description": "Read-only viewer with BDD highlighting and full-text search for web, VS Code, and IntelliJ.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T10:30:10Z",
+            "owner": "spekhq",
+            "repo": "spek",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-ui",
+          "description": "Real-time Kanban dashboard for tracking changes across multiple repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-27T00:29:56Z",
+            "owner": "ToruAI",
+            "repo": "openspec-ui",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "speclens",
+          "description": "Desktop reader for tracing requirement evolution and commenting on specs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T07:38:37Z",
+            "owner": "dansreis",
+            "repo": "speclens",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dossier",
+          "description": "Keyboard-driven TUI for navigating proposals, designs, specs, and tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-23T08:44:58Z",
+            "owner": "fselich",
+            "repo": "dossier",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-webui",
+          "description": "Interactive browser UI for browsing and managing specifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T19:06:18Z",
+            "owner": "oioi555",
+            "repo": "openspec-webui",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-viewer",
+          "description": "Browser viewer with live reload, markdown rendering, and full-text search.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-05T16:58:17Z",
+            "owner": "MusicAdam",
+            "repo": "openspec-viewer",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Specboard",
+          "description": "Web dashboard for monitoring progress across workspaces with swimlane visualization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-17T06:38:05Z",
+            "owner": "sflueckiger",
+            "repo": "specboard",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "UIs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "spec-gen",
+          "description": "Reverse-engineers OpenSpec specs from existing codebases via static analysis and LLMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T12:33:09Z",
+            "owner": "clay-good",
+            "repo": "OpenLore",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ralphy-openspec",
+          "description": "Combines OpenSpec with Ralph Loop for iterative AI-assisted coding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-27T08:00:59Z",
+            "owner": "wenqingyu",
+            "repo": "ralphy-openspec",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coding Corgi Flow",
+          "description": "OpenSpec GitFlow with structured AI workflows and issue tracking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T02:38:39Z",
+            "owner": "ricoyudog",
+            "repo": "Coding_Corgi_flow",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitguardex",
+          "description": "Runs parallel coding agents in isolated worktrees with OpenSpec auto-wired.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T10:46:11Z",
+            "owner": "opencue",
+            "repo": "gitguardex",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-agents",
+          "description": "State-machine multi-agent framework built on OpenSpec docs. (Chinese)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-05-03T08:37:56Z",
+            "owner": "gmf520",
+            "repo": "openspec-agents",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-playwright",
+          "description": "Playwright E2E testing with a self-healing three-agent pipeline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T13:06:53Z",
+            "owner": "wxhou",
+            "repo": "openspec-playwright",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmniDev Kit",
+          "description": "Toolkit combining OpenSpec with cross-session memory and project intelligence.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-19T03:42:50Z",
+            "owner": "zayeagle",
+            "repo": "omnidev-kit",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSpec.sh",
+          "description": "Minimal POSIX shell implementation of OpenSpec CLI for environments without Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-19T18:07:25Z",
+            "owner": "biancalana",
+            "repo": "OpenSpec.sh",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "veriplan",
+          "description": "Formal verification of plans by translating requirements to LTL for SPIN.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T10:00:32Z",
+            "owner": "autonomous-toaster",
+            "repo": "veriplan",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "openflow",
+          "description": "OpenCode companion plugin combining OpenSpec with Superpowers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-04T12:27:30Z",
+            "owner": "fastknifes",
+            "repo": "openflow",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opencode-plugin-openspec",
+          "description": "OpenCode plugin with Architect mode for spec-only writes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-24T08:21:37Z",
+            "owner": "Octane0411",
+            "repo": "opencode-plugin-openspec",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClawSpec",
+          "description": "OpenClaw plugin bringing OpenSpec workflows into chat with background execution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-29T13:22:11Z",
+            "owner": "bytegh",
+            "repo": "clawspec",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-plugin-sdd",
+          "description": "Claude Code plugin for SDD with ADRs, OpenSpec specs, and sprint planning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T10:39:58Z",
+            "owner": "joestump",
+            "repo": "claude-plugin-sdd",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flokay",
+          "description": "Claude Code and Cursor plugin with plan-then-implement workflow and subagent dispatch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-29T19:35:42Z",
+            "owner": "Codagent-AI",
+            "repo": "agent-skills",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-mcp",
+          "description": "MCP server exposing the OpenSpec CLI as tools, with a Kanban web dashboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-12T08:00:59Z",
+            "owner": "Lumiaqian",
+            "repo": "openspec-mcp",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-for-copilot",
+          "description": "VS Code extension integrating OpenSpec with GitHub Copilot Chat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-22T00:09:18Z",
+            "owner": "atman-33",
+            "repo": "openspec-for-copilot",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSpec-Zed",
+          "description": "Zed editor extension adding OpenSpec workflow slash commands to the Assistant panel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-13T23:30:30Z",
+            "owner": "uwzis",
+            "repo": "OpenSpec-Zed",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-superpowers-opencode",
+          "description": "Superpowers and OpenSpec combined in OpenCode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T12:03:18Z",
+            "owner": "moyaspace",
+            "repo": "openspec-superpowers-opencode",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-skills",
+          "description": "Spec-Driven Development skills for Claude Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-25T16:32:21Z",
+            "owner": "chyiiiiiiiiiiii",
+            "repo": "openspec-skills",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec.nvim",
+          "description": "Neovim control surface for OpenSpec workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-04T15:02:26Z",
+            "owner": "ctchen222",
+            "repo": "openspec.nvim",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-connoisseur",
+          "description": "Claude Code plugin uniting skills, rules, and hooks with OpenSpec.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-27T13:41:29Z",
+            "owner": "eugeniosegala",
+            "repo": "claude-connoisseur",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec.el",
+          "description": "Emacs interface for OpenSpec workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-02-06T21:37:48Z",
+            "owner": "Zacalot",
+            "repo": "openspec.el",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "intellij-openspec",
+          "description": "IntelliJ IDEA plugin for OpenSpec, available on the JetBrains Marketplace.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-08T13:04:43Z",
+            "owner": "johnnyblabs",
+            "repo": "intellij-openspec",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opencode-openspec",
+          "description": "OpenSpec spec-driven development plugin for OpenCode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-01T05:47:52Z",
+            "owner": "AngDrew",
+            "repo": "opencode-openspec",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-ext",
+          "description": "VS Code and Cursor extension with a visual dashboard for changes and specs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T02:57:04Z",
+            "owner": "RandyZ",
+            "repo": "openspec-ext",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-tdd",
+          "description": "Plugin for Claude Code, OpenCode, and Pi generating failing tests from specs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-30T22:02:20Z",
+            "owner": "yuritoledo",
+            "repo": "openspec-tdd",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opsx-feature-dev",
+          "description": "Claude Code and Copilot plugin with a 7-phase feature development workflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-10T10:53:59Z",
+            "owner": "mbertani",
+            "repo": "opsx-feature-dev",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-ui-vscode",
+          "description": "VS Code/Cursor extension with a visual dashboard, Mermaid diagrams, and artifact comments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-17T13:41:39Z",
+            "owner": "coderj001",
+            "repo": "openspec-ui-vscode",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vitepress-plugin-openspec",
+          "description": "VitePress plugin rendering OpenSpec folders as doc pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-12T15:39:38Z",
+            "owner": "stritti",
+            "repo": "vitepress-plugin-openspec",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "OpenSpec as Integration or Plugin"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "spec-superflow",
+          "description": "OpenSpec planning with Superpowers execution across 17 platforms. (Chinese)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T04:13:01Z",
+            "owner": "MageByte-Zero",
+            "repo": "spec-superflow",
+            "stars": 739
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flow-kit",
+          "description": "Workflow kit merging BMAD, Spec-Kit, OpenSpec, GSD, and Superpowers. (Chinese)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-13T07:25:34Z",
+            "owner": "rihebty",
+            "repo": "flow-kit",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-schemas by JiangWay",
+          "description": "Community schemas including a superpowers-bridge integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-10T09:01:42Z",
+            "owner": "JiangWay",
+            "repo": "openspec-schemas",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "superpowers-openspec-team-skills",
+          "description": "Self-learning team skill library. (Chinese)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-06-12T06:34:23Z",
+            "owner": "SYZ-Coder",
+            "repo": "superpowers-openspec-team-skills",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-plus",
+          "description": "Agentic skills improving discovery, requirements, design decisions, and execution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T14:50:46Z",
+            "owner": "sudokar",
+            "repo": "openspec-plus",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-schemas",
+          "description": "Custom workflow schemas including minimalist and event-driven templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T10:11:02Z",
+            "owner": "intent-driven-dev",
+            "repo": "openspec-schemas",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HyperSpec",
+          "description": "Workflow skill coordinating OpenSpec specs with Superpowers TDD. (Chinese)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-05T14:14:39Z",
+            "owner": "wind7rui",
+            "repo": "HyperSpec",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperSpec",
+          "description": "Drop-in schema integrating Superpowers execution discipline for traceable workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-26T20:05:17Z",
+            "owner": "danielhanold",
+            "repo": "superspec",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-spec-driven-superpowers",
+          "description": "Adds superpowers-style planning and readiness gates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-27T08:42:12Z",
+            "owner": "Veath",
+            "repo": "openspec-spec-driven-superpowers",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-schemas by kmhalvin",
+          "description": "Subagent-driven development and QRSPI multi-phase reasoning schemas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-09T00:19:26Z",
+            "owner": "kmhalvin",
+            "repo": "openspec-schemas",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-reviewed-workflow",
+          "description": "Adds a review gate between proposal and spec phases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-27T02:48:45Z",
+            "owner": "griffithkk3-del",
+            "repo": "openspec-reviewed-workflow",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "e2e-runbooks",
+          "description": "Capability-level e2e runbooks with behaviour-only assertions and token accounting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-25T10:13:33Z",
+            "owner": "Lukk17",
+            "repo": "openspec-schemas",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Schemas & Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Harness-Starter",
+          "description": "Claude Code harness template with OpenSpec SDD workflow. (Chinese)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-03T08:01:55Z",
+            "owner": "chenklein26-maker",
+            "repo": "Harness-Starter",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "intent-driven-template",
+          "description": "Template with ADRs, C4 diagrams, Gherkin, and TDD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T15:32:50Z",
+            "owner": "intent-driven-dev",
+            "repo": "intent-driven-template",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "speccoding-template",
+          "description": "Full-stack AI dev template with OpenSpec and Superpowers. (Chinese)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-03T03:48:21Z",
+            "owner": "beautifulSoup",
+            "repo": "speccoding-template",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nuxt-supabase-starter",
+          "description": "Nuxt and Supabase starter with OpenSpec-based AI workflow. (Chinese)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T15:50:42Z",
+            "owner": "YuDefine",
+            "repo": "nuxt-supabase-starter",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opencode-onboard",
+          "description": "Prepares codebases for AI by wiring OpenCode, OpenSpec, and codegraph.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-29T13:34:53Z",
+            "owner": "PlainConceptsPlatform",
+            "repo": "opencode-onboard",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Templates & Starters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenSpec-practise",
+          "description": "Practical guide to OpenSpec v1.3.0 with SDD examples. (Chinese/English)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-05T06:16:15Z",
+            "owner": "ForceInjection",
+            "repo": "OpenSpec-practise",
+            "stars": 577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSpec + Beads",
+          "description": "Cheatsheet for OpenSpec with Beads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T02:30:07Z",
+            "owner": "cameronsjo",
+            "repo": "spec-compare",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spec-compare",
+          "description": "Comparison of six SDD tools with decision frameworks and scoring matrices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T02:30:07Z",
+            "owner": "cameronsjo",
+            "repo": "spec-compare",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSpec-cn",
+          "description": "Chinese translation of the OpenSpec documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-05T06:04:14Z",
+            "owner": "sohaha",
+            "repo": "studyzy-OpenSpec-cn",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSpec-Docs-zh",
+          "description": "Chinese community documentation for OpenSpec.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-26T03:16:27Z",
+            "owner": "radebit",
+            "repo": "OpenSpec-Docs-zh",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "genai-development-techniques",
+          "description": "Evidence-based comparison of AI coding methodologies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T21:03:58Z",
+            "owner": "olivomarco",
+            "repo": "genai-development-techniques",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-practice",
+          "description": "Practice project demonstrating the OpenSpec workflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-07T03:33:07Z",
+            "owner": "gqcn",
+            "repo": "openspec-practice",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-tutorial",
+          "description": "Beginner tutorial for OpenSpec. (Taiwanese)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-09T01:09:44Z",
+            "owner": "aiyinluya",
+            "repo": "openspec-tutorial",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspec-learning-guide",
+          "description": "Chinese learning guide for getting started with OpenSpec.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-05T03:55:16Z",
+            "owner": "xiaojian98",
+            "repo": "openspec-learning-guide",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Articles & Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "novel-writer-openspec",
+          "description": "OpenSpec for fiction with character and plot specs. (Chinese)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-24T00:21:16Z",
+            "owner": "wordflowlab",
+            "repo": "novel-writer-openspec",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSpec-Video",
+          "description": "Spec-as-Code framework compiling Markdown specs into AI video generation job queues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T16:00:13Z",
+            "owner": "mr7thing",
+            "repo": "openspec-video",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Exotic Use Cases"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spec-Kit",
+          "description": "GitHub's official SDD toolkit with CLI, templates, scaffolding, and AI integrations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:29:09Z",
+            "owner": "github",
+            "repo": "spec-kit",
+            "stars": 127267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Get Shit Done",
+          "description": "Spec-driven workflow with multi-agent orchestration and wave-based parallel execution.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-05-31T17:46:54Z",
+            "owner": "gsd-build",
+            "repo": "get-shit-done",
+            "stars": 64703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BMAD-METHOD",
+          "description": "Agile AI-driven development using formal specs as single source of truth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T17:17:23Z",
+            "owner": "bmad-code-org",
+            "repo": "BMAD-METHOD",
+            "stars": 51862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kiro",
+          "description": "AWS agentic IDE converting natural language into structured specs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-22T16:23:59Z",
+            "owner": "kirodotdev",
+            "repo": "Kiro",
+            "stars": 4180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spec Kitty",
+          "description": "SDD CLI workflow with Kanban dashboard, Git worktree isolation, and auto-merge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:49:39Z",
+            "owner": "Priivacy-ai",
+            "repo": "spec-kitty",
+            "stars": 1503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProductSpec",
+          "description": "Open standard for capturing software intent before implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-19T03:24:03Z",
+            "owner": "gokulrajaram",
+            "repo": "ProductSpec",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tessl SDD Tile",
+          "description": "Tile teaching MCP-compatible AI agents to write specs before coding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-30T17:28:43Z",
+            "owner": "tesslio",
+            "repo": "spec-driven-development-tile",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FullSpec",
+          "description": "Spec-driven framework turning ideas into code through formal analysis chains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T03:33:46Z",
+            "owner": "NSEvteev",
+            "repo": "FullSpec",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSpecification",
+          "description": "Web-based take on Kiro IDE's Spec Mode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-03T01:40:27Z",
+            "owner": "spenceriam",
+            "repo": "OpenSpecification",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pi-sdd-kit",
+          "description": "Spec-driven development as skills for the Pi coding agent, with approval gates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-04T05:05:25Z",
+            "owner": "felipefontoura",
+            "repo": "pi-sdd-kit",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ContractSpec",
+          "description": "OpenSpec-compatible contract-driven workflow for AI full-stack development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-09T03:12:14Z",
+            "owner": "Pluviobyte",
+            "repo": "ContractSpec",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dataspec",
+          "description": "AI-native data development tool, an OpenSpec for data teams. (Chinese)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-03T02:11:21Z",
+            "owner": "raydez",
+            "repo": "dataspec",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spectr",
+          "description": "Validatable spec-driven development inspired by OpenSpec and Kiro.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-29T21:55:42Z",
+            "owner": "connerohnesorge",
+            "repo": "spectr",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Competitors & Comparisons"
+    },
+    {
+      "description": "Contributions welcome! Please read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:32:53.203Z",
+    "original_repository": "speclib/awesome-openspec",
+    "original_repository_sha": "7fbf54073161e3921390f0d72a34f2831e91141d",
+    "enhanced_repository": "enhansome/enhansome-openspec",
+    "enhanced_repository_description": null,
+    "title": "Awesome OpenSpec with stars"
+  }
+}
