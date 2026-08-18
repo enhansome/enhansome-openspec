@@ -24,7 +24,7 @@
             "last_commit": "2026-08-17T01:46:12Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 65198
+            "stars": 65370
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-08-17T01:46:12Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 65198
+            "stars": 65370
           }
         }
       ],
@@ -55,7 +55,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T14:05:57Z",
+            "last_commit": "2026-08-18T18:59:41Z",
             "owner": "jixoai",
             "repo": "openspecui",
             "stars": 100
@@ -72,7 +72,7 @@
             "last_commit": "2026-08-17T00:59:55Z",
             "owner": "spekhq",
             "repo": "spek",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -125,7 +125,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T22:54:38Z",
+            "last_commit": "2026-08-18T16:05:42Z",
             "owner": "oioi555",
             "repo": "openspec-webui",
             "stars": 12
@@ -176,7 +176,7 @@
             "last_commit": "2026-08-17T13:17:45Z",
             "owner": "clay-good",
             "repo": "OpenLore",
-            "stars": 284
+            "stars": 285
           }
         },
         {
@@ -243,7 +243,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T15:17:06Z",
+            "last_commit": "2026-08-18T14:38:23Z",
             "owner": "wxhou",
             "repo": "openspec-playwright",
             "stars": 8
@@ -257,7 +257,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-19T03:42:50Z",
+            "last_commit": "2026-08-18T02:39:28Z",
             "owner": "zayeagle",
             "repo": "omnidev-kit",
             "stars": 5
@@ -434,7 +434,7 @@
             "last_commit": "2026-01-25T16:32:21Z",
             "owner": "chyiiiiiiiiiiii",
             "repo": "openspec-skills",
-            "stars": 10
+            "stars": 11
           }
         },
         {
@@ -515,7 +515,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T02:57:04Z",
+            "last_commit": "2026-08-18T08:08:26Z",
             "owner": "RandyZ",
             "repo": "openspec-ext",
             "stars": 6
@@ -594,7 +594,7 @@
             "last_commit": "2026-08-16T13:01:03Z",
             "owner": "MageByte-Zero",
             "repo": "spec-superflow",
-            "stars": 747
+            "stars": 749
           }
         },
         {
@@ -608,7 +608,7 @@
             "last_commit": "2026-05-13T07:25:34Z",
             "owner": "rihebty",
             "repo": "flow-kit",
-            "stars": 389
+            "stars": 388
           }
         },
         {
@@ -622,7 +622,7 @@
             "last_commit": "2026-06-10T09:01:42Z",
             "owner": "JiangWay",
             "repo": "openspec-schemas",
-            "stars": 213
+            "stars": 216
           }
         },
         {
@@ -636,7 +636,7 @@
             "last_commit": "2026-06-12T06:34:23Z",
             "owner": "SYZ-Coder",
             "repo": "superpowers-openspec-team-skills",
-            "stars": 188
+            "stars": 189
           }
         },
         {
@@ -664,7 +664,7 @@
             "last_commit": "2026-08-16T14:16:53Z",
             "owner": "intent-driven-dev",
             "repo": "openspec-schemas",
-            "stars": 88
+            "stars": 89
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2026-07-05T14:14:39Z",
             "owner": "wind7rui",
             "repo": "HyperSpec",
-            "stars": 75
+            "stars": 74
           }
         },
         {
@@ -768,7 +768,7 @@
             "last_commit": "2026-07-03T08:01:55Z",
             "owner": "chenklein26-maker",
             "repo": "Harness-Starter",
-            "stars": 120
+            "stars": 119
           }
         },
         {
@@ -782,7 +782,7 @@
             "last_commit": "2026-08-16T10:06:58Z",
             "owner": "intent-driven-dev",
             "repo": "intent-driven-template",
-            "stars": 107
+            "stars": 110
           }
         },
         {
@@ -807,7 +807,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T13:05:09Z",
+            "last_commit": "2026-08-18T19:03:31Z",
             "owner": "YuDefine",
             "repo": "nuxt-supabase-starter",
             "stars": 45
@@ -844,7 +844,7 @@
             "last_commit": "2026-08-05T06:16:15Z",
             "owner": "ForceInjection",
             "repo": "OpenSpec-practise",
-            "stars": 579
+            "stars": 580
           }
         },
         {
@@ -858,7 +858,7 @@
             "last_commit": "2026-08-12T02:30:07Z",
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 115
+            "stars": 116
           }
         },
         {
@@ -872,7 +872,7 @@
             "last_commit": "2026-08-12T02:30:07Z",
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 115
+            "stars": 116
           }
         },
         {
@@ -1007,10 +1007,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T19:03:04Z",
+            "last_commit": "2026-08-18T18:41:12Z",
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 129782
+            "stars": 130088
           }
         },
         {
@@ -1024,7 +1024,7 @@
             "last_commit": "2026-05-31T17:46:54Z",
             "owner": "gsd-build",
             "repo": "get-shit-done",
-            "stars": 64686
+            "stars": 64680
           }
         },
         {
@@ -1035,10 +1035,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T17:39:00Z",
+            "last_commit": "2026-08-18T08:34:11Z",
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 51991
+            "stars": 52028
           }
         },
         {
@@ -1052,7 +1052,7 @@
             "last_commit": "2026-06-22T16:23:59Z",
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4191
+            "stars": 4195
           }
         },
         {
@@ -1063,10 +1063,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T15:56:48Z",
+            "last_commit": "2026-08-18T19:03:30Z",
             "owner": "Priivacy-ai",
             "repo": "spec-kitty",
-            "stars": 1519
+            "stars": 1520
           }
         },
         {
@@ -1191,7 +1191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:06:34.145Z",
+    "last_updated": "2026-08-18T19:05:41.959Z",
     "original_repository": "speclib/awesome-openspec",
     "original_repository_sha": "7fbf54073161e3921390f0d72a34f2831e91141d",
     "enhanced_repository": "enhansome/enhansome-openspec",
