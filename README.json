@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Key Concepts"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Core Workflow"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -20,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1032459340,
             "language": "TypeScript",
             "last_commit": "2026-08-17T01:46:12Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 65370
+            "stars": 65466
           }
         },
         {
@@ -34,18 +25,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1032459340,
             "language": "TypeScript",
             "last_commit": "2026-08-17T01:46:12Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 65370
+            "stars": 65466
           }
         }
       ],
       "title": "Official Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -54,8 +46,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1103589952,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T18:59:41Z",
+            "last_commit": "2026-08-19T06:55:28Z",
             "owner": "jixoai",
             "repo": "openspecui",
             "stars": 100
@@ -68,8 +61,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1157212695,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T00:59:55Z",
+            "last_commit": "2026-08-19T05:47:12Z",
             "owner": "spekhq",
             "repo": "spek",
             "stars": 45
@@ -82,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1125776334,
             "language": "TypeScript",
             "last_commit": "2026-07-27T00:29:56Z",
             "owner": "ToruAI",
@@ -96,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1256531647,
             "language": "TypeScript",
             "last_commit": "2026-08-17T07:37:48Z",
             "owner": "dansreis",
@@ -110,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1239531847,
             "language": "Go",
             "last_commit": "2026-07-23T08:44:58Z",
             "owner": "fselich",
@@ -124,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1198656430,
             "language": "TypeScript",
             "last_commit": "2026-08-18T16:05:42Z",
             "owner": "oioi555",
@@ -138,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1120191001,
             "language": "TypeScript",
             "last_commit": "2026-03-05T16:58:17Z",
             "owner": "MusicAdam",
@@ -152,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1168336632,
             "language": "JavaScript",
             "last_commit": "2026-07-17T06:38:05Z",
             "owner": "sflueckiger",
@@ -163,7 +163,7 @@
       "title": "UIs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -172,11 +172,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1146753014,
             "language": "TypeScript",
             "last_commit": "2026-08-17T13:17:45Z",
             "owner": "clay-good",
             "repo": "OpenLore",
-            "stars": 285
+            "stars": 286
           }
         },
         {
@@ -186,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1139574277,
             "language": "TypeScript",
             "last_commit": "2026-01-27T08:00:59Z",
             "owner": "wenqingyu",
@@ -200,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1225338289,
             "language": "TypeScript",
             "last_commit": "2026-08-17T08:36:33Z",
             "owner": "ricoyudog",
@@ -214,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1206389206,
             "language": "JavaScript",
             "last_commit": "2026-08-17T15:19:19Z",
             "owner": "opencue",
@@ -228,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1225844031,
             "language": "PowerShell",
             "last_commit": "2026-05-03T08:37:56Z",
             "owner": "gmf520",
@@ -242,8 +247,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1192537344,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T14:38:23Z",
+            "last_commit": "2026-08-19T10:24:40Z",
             "owner": "wxhou",
             "repo": "openspec-playwright",
             "stars": 8
@@ -256,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1194166202,
             "language": "TypeScript",
             "last_commit": "2026-08-18T02:39:28Z",
             "owner": "zayeagle",
@@ -270,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1271642826,
             "language": "Rust",
             "last_commit": "2026-08-13T10:00:32Z",
             "owner": "autonomous-toaster",
@@ -284,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1114757282,
             "language": "Shell",
             "last_commit": "2026-01-19T18:07:25Z",
             "owner": "biancalana",
@@ -295,7 +304,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -304,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1178677163,
             "language": "TypeScript",
             "last_commit": "2026-06-04T12:27:30Z",
             "owner": "fastknifes",
@@ -318,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1137372239,
             "language": "TypeScript",
             "last_commit": "2026-03-24T08:21:37Z",
             "owner": "Octane0411",
@@ -332,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1191401928,
             "language": "TypeScript",
             "last_commit": "2026-03-29T13:22:11Z",
             "owner": "bytegh",
@@ -346,8 +358,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1156734014,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T07:17:10Z",
+            "last_commit": "2026-08-19T11:07:45Z",
             "owner": "joestump",
             "repo": "claude-plugin-sdd",
             "stars": 31
@@ -360,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1160520597,
             "language": "Shell",
             "last_commit": "2026-07-29T19:35:42Z",
             "owner": "Codagent-AI",
@@ -374,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1117309858,
             "language": "TypeScript",
             "last_commit": "2026-01-12T08:00:59Z",
             "owner": "Lumiaqian",
@@ -388,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1100915384,
             "language": "TypeScript",
             "last_commit": "2026-05-22T00:09:18Z",
             "owner": "atman-33",
@@ -402,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1181124738,
             "language": "Rust",
             "last_commit": "2026-03-13T23:30:30Z",
             "owner": "uwzis",
@@ -416,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1246780166,
             "language": "JavaScript",
             "last_commit": "2026-08-10T12:03:18Z",
             "owner": "moyaspace",
@@ -430,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1141621564,
             "language": null,
             "last_commit": "2026-01-25T16:32:21Z",
             "owner": "chyiiiiiiiiiiii",
@@ -444,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1194645424,
             "language": "Shell",
             "last_commit": "2026-04-27T13:41:29Z",
             "owner": "eugeniosegala",
@@ -458,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1243434144,
             "language": "Lua",
             "last_commit": "2026-07-04T15:02:26Z",
             "owner": "ctchen222",
@@ -472,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1140168739,
             "language": "Emacs Lisp",
             "last_commit": "2026-02-06T21:37:48Z",
             "owner": "Zacalot",
@@ -486,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1186733149,
             "language": "Java",
             "last_commit": "2026-08-16T21:34:47Z",
             "owner": "johnnyblabs",
@@ -500,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1147059254,
             "language": "TypeScript",
             "last_commit": "2026-02-01T05:47:52Z",
             "owner": "AngDrew",
@@ -514,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1155300280,
             "language": "TypeScript",
             "last_commit": "2026-08-18T08:08:26Z",
             "owner": "RandyZ",
@@ -528,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1251440975,
             "language": "JavaScript",
             "last_commit": "2026-06-30T22:02:20Z",
             "owner": "yuritoledo",
@@ -542,6 +568,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1180061358,
             "language": "Shell",
             "last_commit": "2026-04-10T10:53:59Z",
             "owner": "mbertani",
@@ -556,6 +583,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1293144667,
             "language": "TypeScript",
             "last_commit": "2026-07-17T13:41:39Z",
             "owner": "coderj001",
@@ -570,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1176663394,
             "language": "TypeScript",
             "last_commit": "2026-05-12T15:39:38Z",
             "owner": "stritti",
@@ -581,7 +610,7 @@
       "title": "OpenSpec as Integration or Plugin"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -590,11 +619,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1280958966,
             "language": "JavaScript",
             "last_commit": "2026-08-16T13:01:03Z",
             "owner": "MageByte-Zero",
             "repo": "spec-superflow",
-            "stars": 749
+            "stars": 751
           }
         },
         {
@@ -604,6 +634,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1230413282,
             "language": null,
             "last_commit": "2026-05-13T07:25:34Z",
             "owner": "rihebty",
@@ -618,11 +649,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1227296774,
             "language": null,
             "last_commit": "2026-06-10T09:01:42Z",
             "owner": "JiangWay",
             "repo": "openspec-schemas",
-            "stars": 216
+            "stars": 217
           }
         },
         {
@@ -632,11 +664,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1206539095,
             "language": "PowerShell",
             "last_commit": "2026-06-12T06:34:23Z",
             "owner": "SYZ-Coder",
             "repo": "superpowers-openspec-team-skills",
-            "stars": 189
+            "stars": 190
           }
         },
         {
@@ -646,11 +679,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1269871381,
             "language": null,
             "last_commit": "2026-07-23T14:50:46Z",
             "owner": "sudokar",
             "repo": "openspec-plus",
-            "stars": 150
+            "stars": 151
           }
         },
         {
@@ -660,11 +694,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1155570042,
             "language": null,
             "last_commit": "2026-08-16T14:16:53Z",
             "owner": "intent-driven-dev",
             "repo": "openspec-schemas",
-            "stars": 89
+            "stars": 90
           }
         },
         {
@@ -674,6 +709,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1241254567,
             "language": null,
             "last_commit": "2026-07-05T14:14:39Z",
             "owner": "wind7rui",
@@ -688,11 +724,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1228251879,
             "language": null,
             "last_commit": "2026-05-26T20:05:17Z",
             "owner": "danielhanold",
             "repo": "superspec",
-            "stars": 54
+            "stars": 55
           }
         },
         {
@@ -702,6 +739,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1193444867,
             "language": "JavaScript",
             "last_commit": "2026-03-27T08:42:12Z",
             "owner": "Veath",
@@ -716,6 +754,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1194880547,
             "language": null,
             "last_commit": "2026-04-09T00:19:26Z",
             "owner": "kmhalvin",
@@ -730,6 +769,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1193240529,
             "language": "Shell",
             "last_commit": "2026-03-27T02:48:45Z",
             "owner": "griffithkk3-del",
@@ -744,6 +784,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1246793731,
             "language": null,
             "last_commit": "2026-06-25T10:13:33Z",
             "owner": "Lukk17",
@@ -755,7 +796,7 @@
       "title": "Schemas & Extensions"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -764,11 +805,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1254494406,
             "language": "JavaScript",
             "last_commit": "2026-07-03T08:01:55Z",
             "owner": "chenklein26-maker",
             "repo": "Harness-Starter",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -778,6 +820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1234574246,
             "language": "Python",
             "last_commit": "2026-08-16T10:06:58Z",
             "owner": "intent-driven-dev",
@@ -792,6 +835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1214145978,
             "language": null,
             "last_commit": "2026-05-03T03:48:21Z",
             "owner": "beautifulSoup",
@@ -806,8 +850,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1138511910,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T19:03:31Z",
+            "last_commit": "2026-08-19T12:05:00Z",
             "owner": "YuDefine",
             "repo": "nuxt-supabase-starter",
             "stars": 45
@@ -820,6 +865,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1226309398,
             "language": "JavaScript",
             "last_commit": "2026-08-17T13:26:25Z",
             "owner": "PlainConceptsPlatform",
@@ -831,7 +877,7 @@
       "title": "Templates & Starters"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -840,11 +886,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1143271095,
             "language": null,
-            "last_commit": "2026-08-05T06:16:15Z",
+            "last_commit": "2026-08-19T07:47:31Z",
             "owner": "ForceInjection",
             "repo": "OpenSpec-practise",
-            "stars": 580
+            "stars": 581
           }
         },
         {
@@ -854,11 +901,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1102541103,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T02:30:07Z",
+            "last_commit": "2026-08-19T02:43:07Z",
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 116
+            "stars": 117
           }
         },
         {
@@ -868,11 +916,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1102541103,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T02:30:07Z",
+            "last_commit": "2026-08-19T02:43:07Z",
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 116
+            "stars": 117
           }
         },
         {
@@ -882,6 +931,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1130213884,
             "language": "TypeScript",
             "last_commit": "2026-06-05T06:04:14Z",
             "owner": "sohaha",
@@ -896,11 +946,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1177603538,
             "language": "HTML",
             "last_commit": "2026-05-26T03:16:27Z",
             "owner": "radebit",
             "repo": "OpenSpec-Docs-zh",
-            "stars": 82
+            "stars": 83
           }
         },
         {
@@ -910,6 +961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1208665665,
             "language": "JavaScript",
             "last_commit": "2026-08-08T21:03:58Z",
             "owner": "olivomarco",
@@ -924,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1195919963,
             "language": "Go",
             "last_commit": "2026-04-07T03:33:07Z",
             "owner": "gqcn",
@@ -938,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1182846235,
             "language": null,
             "last_commit": "2026-04-09T01:09:44Z",
             "owner": "aiyinluya",
@@ -952,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1173146285,
             "language": null,
             "last_commit": "2026-03-05T03:55:16Z",
             "owner": "xiaojian98",
@@ -963,7 +1018,7 @@
       "title": "Articles & Tutorials"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -972,6 +1027,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1080592506,
             "language": "TypeScript",
             "last_commit": "2025-10-24T00:21:16Z",
             "owner": "wordflowlab",
@@ -986,6 +1042,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1152043037,
             "language": "TypeScript",
             "last_commit": "2026-08-15T18:17:02Z",
             "owner": "mr7thing",
@@ -997,7 +1054,7 @@
       "title": "Exotic Use Cases"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1006,11 +1063,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1042367133,
             "language": "Python",
-            "last_commit": "2026-08-18T18:41:12Z",
+            "last_commit": "2026-08-19T12:25:53Z",
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 130088
+            "stars": 130256
           }
         },
         {
@@ -1020,11 +1078,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1116260703,
             "language": "JavaScript",
             "last_commit": "2026-05-31T17:46:54Z",
             "owner": "gsd-build",
             "repo": "get-shit-done",
-            "stars": 64680
+            "stars": 64673
           }
         },
         {
@@ -1034,11 +1093,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 965615190,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T08:34:11Z",
+            "last_commit": "2026-08-19T12:47:02Z",
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 52028
+            "stars": 52064
           }
         },
         {
@@ -1048,11 +1108,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1003854381,
             "language": "TypeScript",
             "last_commit": "2026-06-22T16:23:59Z",
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4195
+            "stars": 4196
           }
         },
         {
@@ -1062,11 +1123,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1072945981,
             "language": "Python",
-            "last_commit": "2026-08-18T19:03:30Z",
+            "last_commit": "2026-08-19T12:42:46Z",
             "owner": "Priivacy-ai",
             "repo": "spec-kitty",
-            "stars": 1520
+            "stars": 1523
           }
         },
         {
@@ -1076,6 +1138,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1289476943,
             "language": "TypeScript",
             "last_commit": "2026-07-19T03:24:03Z",
             "owner": "gokulrajaram",
@@ -1090,6 +1153,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1110575943,
             "language": "Shell",
             "last_commit": "2026-03-30T17:28:43Z",
             "owner": "tesslio",
@@ -1104,6 +1168,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1134039005,
             "language": "Python",
             "last_commit": "2026-07-31T03:33:46Z",
             "owner": "NSEvteev",
@@ -1118,6 +1183,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1056210724,
             "language": "TypeScript",
             "last_commit": "2025-11-03T01:40:27Z",
             "owner": "spenceriam",
@@ -1132,6 +1198,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1239353812,
             "language": null,
             "last_commit": "2026-07-04T05:05:25Z",
             "owner": "felipefontoura",
@@ -1146,6 +1213,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1262594832,
             "language": "JavaScript",
             "last_commit": "2026-06-09T03:12:14Z",
             "owner": "Pluviobyte",
@@ -1160,6 +1228,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1104405918,
             "language": "TypeScript",
             "last_commit": "2025-12-03T02:11:21Z",
             "owner": "raydez",
@@ -1174,6 +1243,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1093533770,
             "language": "Go",
             "last_commit": "2026-05-29T21:55:42Z",
             "owner": "connerohnesorge",
@@ -1183,16 +1253,12 @@
         }
       ],
       "title": "Competitors & Comparisons"
-    },
-    {
-      "description": "Contributions welcome! Please read the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:05:41.959Z",
+    "last_updated": "2026-08-19T12:47:21.103Z",
     "original_repository": "speclib/awesome-openspec",
+    "original_repository_id": 1167559180,
     "original_repository_sha": "7fbf54073161e3921390f0d72a34f2831e91141d",
     "enhanced_repository": "enhansome/enhansome-openspec",
     "enhanced_repository_description": null,
