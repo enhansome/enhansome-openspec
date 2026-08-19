@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1032459340,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T01:46:12Z",
+            "last_commit": "2026-08-19T18:52:56Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 65466
+            "stars": 65518
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1032459340,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T01:46:12Z",
+            "last_commit": "2026-08-19T18:52:56Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 65466
+            "stars": 65518
           }
         }
       ],
@@ -48,7 +48,7 @@
             "archived": false,
             "id": 1103589952,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T06:55:28Z",
+            "last_commit": "2026-08-19T18:32:09Z",
             "owner": "jixoai",
             "repo": "openspecui",
             "stars": 100
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-17T07:37:48Z",
             "owner": "dansreis",
             "repo": "speclens",
-            "stars": 22
+            "stars": 23
           }
         },
         {
@@ -204,7 +204,7 @@
             "archived": false,
             "id": 1225338289,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T08:36:33Z",
+            "last_commit": "2026-08-19T15:14:38Z",
             "owner": "ricoyudog",
             "repo": "Coding_Corgi_flow",
             "stars": 102
@@ -252,22 +252,7 @@
             "last_commit": "2026-08-19T10:24:40Z",
             "owner": "wxhou",
             "repo": "openspec-playwright",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OmniDev Kit",
-          "description": "Toolkit combining OpenSpec with cross-session memory and project intelligence.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1194166202,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T02:39:28Z",
-            "owner": "zayeagle",
-            "repo": "omnidev-kit",
-            "stars": 5
+            "stars": 9
           }
         },
         {
@@ -282,6 +267,21 @@
             "last_commit": "2026-08-13T10:00:32Z",
             "owner": "autonomous-toaster",
             "repo": "veriplan",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmniDev Kit",
+          "description": "Toolkit combining OpenSpec with cross-session memory and project intelligence.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1194166202,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T02:39:28Z",
+            "owner": "zayeagle",
+            "repo": "omnidev-kit",
             "stars": 5
           }
         },
@@ -852,7 +852,7 @@
             "archived": false,
             "id": 1138511910,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T12:05:00Z",
+            "last_commit": "2026-08-19T17:59:43Z",
             "owner": "YuDefine",
             "repo": "nuxt-supabase-starter",
             "stars": 45
@@ -867,7 +867,7 @@
             "archived": false,
             "id": 1226309398,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T13:26:25Z",
+            "last_commit": "2026-08-19T14:06:36Z",
             "owner": "PlainConceptsPlatform",
             "repo": "opencode-onboard",
             "stars": 30
@@ -903,10 +903,10 @@
             "archived": false,
             "id": 1102541103,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T02:43:07Z",
+            "last_commit": "2026-08-19T18:51:35Z",
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 117
+            "stars": 118
           }
         },
         {
@@ -918,10 +918,10 @@
             "archived": false,
             "id": 1102541103,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T02:43:07Z",
+            "last_commit": "2026-08-19T18:51:35Z",
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 117
+            "stars": 118
           }
         },
         {
@@ -1065,10 +1065,10 @@
             "archived": false,
             "id": 1042367133,
             "language": "Python",
-            "last_commit": "2026-08-19T12:25:53Z",
+            "last_commit": "2026-08-19T14:22:49Z",
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 130256
+            "stars": 130301
           }
         },
         {
@@ -1083,7 +1083,7 @@
             "last_commit": "2026-05-31T17:46:54Z",
             "owner": "gsd-build",
             "repo": "get-shit-done",
-            "stars": 64673
+            "stars": 64671
           }
         },
         {
@@ -1095,10 +1095,10 @@
             "archived": false,
             "id": 965615190,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T12:47:02Z",
+            "last_commit": "2026-08-19T13:03:11Z",
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 52064
+            "stars": 52076
           }
         },
         {
@@ -1113,7 +1113,7 @@
             "last_commit": "2026-06-22T16:23:59Z",
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4196
+            "stars": 4200
           }
         },
         {
@@ -1125,10 +1125,10 @@
             "archived": false,
             "id": 1072945981,
             "language": "Python",
-            "last_commit": "2026-08-19T12:42:46Z",
+            "last_commit": "2026-08-19T18:03:29Z",
             "owner": "Priivacy-ai",
             "repo": "spec-kitty",
-            "stars": 1523
+            "stars": 1524
           }
         },
         {
@@ -1256,7 +1256,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:47:21.103Z",
+    "last_updated": "2026-08-19T19:01:01.253Z",
     "original_repository": "speclib/awesome-openspec",
     "original_repository_id": 1167559180,
     "original_repository_sha": "7fbf54073161e3921390f0d72a34f2831e91141d",
