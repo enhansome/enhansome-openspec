@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1032459340,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T17:17:20Z",
+            "last_commit": "2026-08-21T23:27:58Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 65817
+            "stars": 65908
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1032459340,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T17:17:20Z",
+            "last_commit": "2026-08-21T23:27:58Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 65817
+            "stars": 65908
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-19T19:09:53Z",
             "owner": "jixoai",
             "repo": "openspecui",
-            "stars": 102
+            "stars": 103
           }
         },
         {
@@ -174,7 +174,7 @@
             "archived": false,
             "id": 1146753014,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T13:17:45Z",
+            "last_commit": "2026-08-22T18:48:52Z",
             "owner": "clay-good",
             "repo": "OpenLore",
             "stars": 288
@@ -249,7 +249,7 @@
             "archived": false,
             "id": 1192537344,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T10:24:40Z",
+            "last_commit": "2026-08-22T06:26:37Z",
             "owner": "wxhou",
             "repo": "openspec-playwright",
             "stars": 10
@@ -600,7 +600,7 @@
             "archived": false,
             "id": 1176663394,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T15:39:38Z",
+            "last_commit": "2026-08-21T20:27:51Z",
             "owner": "stritti",
             "repo": "vitepress-plugin-openspec",
             "stars": 1
@@ -654,7 +654,7 @@
             "last_commit": "2026-06-10T09:01:42Z",
             "owner": "JiangWay",
             "repo": "openspec-schemas",
-            "stars": 218
+            "stars": 217
           }
         },
         {
@@ -669,7 +669,7 @@
             "last_commit": "2026-06-12T06:34:23Z",
             "owner": "SYZ-Coder",
             "repo": "superpowers-openspec-team-skills",
-            "stars": 190
+            "stars": 191
           }
         },
         {
@@ -684,7 +684,7 @@
             "last_commit": "2026-07-23T14:50:46Z",
             "owner": "sudokar",
             "repo": "openspec-plus",
-            "stars": 151
+            "stars": 152
           }
         },
         {
@@ -825,7 +825,7 @@
             "last_commit": "2026-08-16T10:06:58Z",
             "owner": "intent-driven-dev",
             "repo": "intent-driven-template",
-            "stars": 113
+            "stars": 115
           }
         },
         {
@@ -867,10 +867,10 @@
             "archived": false,
             "id": 1226309398,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T15:58:20Z",
+            "last_commit": "2026-08-22T06:21:30Z",
             "owner": "PlainConceptsPlatform",
             "repo": "agent-harness",
-            "stars": 30
+            "stars": 31
           }
         }
       ],
@@ -891,7 +891,7 @@
             "last_commit": "2026-08-19T07:47:31Z",
             "owner": "ForceInjection",
             "repo": "OpenSpec-practise",
-            "stars": 588
+            "stars": 589
           }
         },
         {
@@ -906,7 +906,7 @@
             "last_commit": "2026-08-19T20:36:18Z",
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 121
+            "stars": 122
           }
         },
         {
@@ -921,7 +921,7 @@
             "last_commit": "2026-08-19T20:36:18Z",
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 121
+            "stars": 122
           }
         },
         {
@@ -1065,10 +1065,10 @@
             "archived": false,
             "id": 1042367133,
             "language": "Python",
-            "last_commit": "2026-08-21T18:58:40Z",
+            "last_commit": "2026-08-21T21:29:37Z",
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 130669
+            "stars": 130811
           }
         },
         {
@@ -1083,7 +1083,7 @@
             "last_commit": "2026-05-31T17:46:54Z",
             "owner": "gsd-build",
             "repo": "get-shit-done",
-            "stars": 64664
+            "stars": 64661
           }
         },
         {
@@ -1095,10 +1095,10 @@
             "archived": false,
             "id": 965615190,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T08:37:03Z",
+            "last_commit": "2026-08-22T15:17:40Z",
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 52143
+            "stars": 52167
           }
         },
         {
@@ -1113,7 +1113,7 @@
             "last_commit": "2026-06-22T16:23:59Z",
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4213
+            "stars": 4216
           }
         },
         {
@@ -1125,10 +1125,10 @@
             "archived": false,
             "id": 1072945981,
             "language": "Python",
-            "last_commit": "2026-08-21T17:17:18Z",
+            "last_commit": "2026-08-22T18:24:26Z",
             "owner": "Priivacy-ai",
             "repo": "spec-kitty",
-            "stars": 1530
+            "stars": 1556
           }
         },
         {
@@ -1143,7 +1143,7 @@
             "last_commit": "2026-07-19T03:24:03Z",
             "owner": "gokulrajaram",
             "repo": "ProductSpec",
-            "stars": 268
+            "stars": 269
           }
         },
         {
@@ -1256,7 +1256,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:05:30.829Z",
+    "last_updated": "2026-08-22T18:55:56.867Z",
     "original_repository": "speclib/awesome-openspec",
     "original_repository_id": 1167559180,
     "original_repository_sha": "7fbf54073161e3921390f0d72a34f2831e91141d",
