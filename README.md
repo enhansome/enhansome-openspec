@@ -57,8 +57,8 @@ Spec-Driven Development (SDD) is a methodology where you and your AI coding assi
 
 ## Official Resources
 
-* [Getting Started Guide](https://github.com/Fission-AI/OpenSpec/blob/main/docs/getting-started.md) ⭐ 65,908 | 🐛 199 | 🌐 TypeScript | 📅 2026-08-21 - Official getting started documentation.
-* [OpenSpec](https://github.com/Fission-AI/OpenSpec/) ⭐ 65,908 | 🐛 199 | 🌐 TypeScript | 📅 2026-08-21 - Official OpenSpec CLI. Spec-driven development (SDD) for AI coding assistants.
+* [Getting Started Guide](https://github.com/Fission-AI/OpenSpec/blob/main/docs/getting-started.md) ⭐ 65,981 | 🐛 200 | 🌐 TypeScript | 📅 2026-08-23 - Official getting started documentation.
+* [OpenSpec](https://github.com/Fission-AI/OpenSpec/) ⭐ 65,981 | 🐛 200 | 🌐 TypeScript | 📅 2026-08-23 - Official OpenSpec CLI. Spec-driven development (SDD) for AI coding assistants.
 * [npm Package](https://www.npmjs.com/package/@fission-ai/openspec) - Official npm package for installation.
 * [OpenSpec Pro](https://openspec.pro/) - Additional OpenSpec resources and documentation.
 * [OpenSpec Website](https://openspec.dev/) - Official website with documentation and getting started guide.
@@ -66,7 +66,7 @@ Spec-Driven Development (SDD) is a methodology where you and your AI coding assi
 ## UIs
 
 * [OpenSpecUI](https://github.com/jixoai/openspecui) ⭐ 103 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-19 - Web interface for OpenSpec workflows with live mode and static export support.
-* [Spek](https://github.com/spekhq/spek) ⭐ 46 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-19 - Read-only viewer with BDD highlighting and full-text search for web, VS Code, and IntelliJ.
+* [Spek](https://github.com/spekhq/spek) ⭐ 47 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-19 - Read-only viewer with BDD highlighting and full-text search for web, VS Code, and IntelliJ.
 * [openspec-ui](https://github.com/ToruAI/openspec-ui) ⭐ 28 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-27 - Real-time Kanban dashboard for tracking changes across multiple repositories.
 * [speclens](https://github.com/dansreis/speclens) ⭐ 23 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-17 - Desktop reader for tracing requirement evolution and commenting on specs.
 * [dossier](https://github.com/fselich/dossier) ⭐ 13 | 🐛 4 | 🌐 Go | 📅 2026-07-23 - Keyboard-driven TUI for navigating proposals, designs, specs, and tasks.
@@ -76,7 +76,7 @@ Spec-Driven Development (SDD) is a methodology where you and your AI coding assi
 
 ## Tools
 
-* [spec-gen](https://github.com/clay-good/spec-gen) ⭐ 288 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-22 - Reverse-engineers OpenSpec specs from existing codebases via static analysis and LLMs.
+* [spec-gen](https://github.com/clay-good/spec-gen) ⭐ 289 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-23 - Reverse-engineers OpenSpec specs from existing codebases via static analysis and LLMs.
 * [ralphy-openspec](https://github.com/wenqingyu/ralphy-openspec) ⭐ 182 | 🐛 2 | 🌐 TypeScript | 📅 2026-01-27 - Combines OpenSpec with Ralph Loop for iterative AI-assisted coding.
 * [Coding Corgi Flow](https://github.com/ricoyudog/Coding_Corgi_flow) ⭐ 103 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-19 - OpenSpec GitFlow with structured AI workflows and issue tracking.
 * [gitguardex](https://github.com/opencue/gitguardex) ⭐ 25 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-17 - Runs parallel coding agents in isolated worktrees with OpenSpec auto-wired.
@@ -89,7 +89,7 @@ Spec-Driven Development (SDD) is a methodology where you and your AI coding assi
 ## OpenSpec as Integration or Plugin
 
 * [openflow](https://github.com/fastknifes/openflow) ⭐ 180 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-04 - OpenCode companion plugin combining OpenSpec with Superpowers.
-* [opencode-plugin-openspec](https://github.com/Octane0411/opencode-plugin-openspec) ⭐ 156 | 🐛 5 | 🌐 TypeScript | 📅 2026-03-24 - OpenCode plugin with Architect mode for spec-only writes.
+* [opencode-plugin-openspec](https://github.com/Octane0411/opencode-plugin-openspec) ⭐ 157 | 🐛 5 | 🌐 TypeScript | 📅 2026-03-24 - OpenCode plugin with Architect mode for spec-only writes.
 * [ClawSpec](https://github.com/bytegh/clawspec) ⭐ 42 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-29 - OpenClaw plugin bringing OpenSpec workflows into chat with background execution.
 * [claude-plugin-sdd](https://github.com/joestump/claude-plugin-sdd) ⭐ 31 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-19 - Claude Code plugin for SDD with ADRs, OpenSpec specs, and sprint planning.
 * [Flokay](https://github.com/pacaplan/flokay) ⭐ 30 | 🐛 1 | 🌐 Shell | 📅 2026-07-29 - Claude Code and Cursor plugin with plan-then-implement workflow and subagent dispatch.
@@ -103,7 +103,7 @@ Spec-Driven Development (SDD) is a methodology where you and your AI coding assi
 * [openspec.el](https://github.com/Zacalot/openspec.el) ⭐ 8 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-02-06 - Emacs interface for OpenSpec workflows.
 * [intellij-openspec](https://github.com/johnnyblabs/intellij-openspec) ⭐ 7 | 🐛 0 | 🌐 Java | 📅 2026-08-21 - IntelliJ IDEA plugin for OpenSpec, available on the JetBrains Marketplace.
 * [opencode-openspec](https://github.com/AngDrew/opencode-openspec) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-01 - OpenSpec spec-driven development plugin for OpenCode.
-* [openspec-ext](https://github.com/RandyZ/openspec-ext) ⭐ 6 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-18 - VS Code and Cursor extension with a visual dashboard for changes and specs.
+* [openspec-ext](https://github.com/RandyZ/openspec-ext) ⭐ 6 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-23 - VS Code and Cursor extension with a visual dashboard for changes and specs.
 * [openspec-tdd](https://github.com/yuritoledo/openspec-tdd) ⭐ 6 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-30 - Plugin for Claude Code, OpenCode, and Pi generating failing tests from specs.
 * [opsx-feature-dev](https://github.com/mbertani/opsx-feature-dev) ⭐ 4 | 🐛 0 | 🌐 Shell | 📅 2026-04-10 - Claude Code and Copilot plugin with a 7-phase feature development workflow.
 * [openspec-ui-vscode](https://github.com/coderj001/openspec-ui-vscode) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-17 - VS Code/Cursor extension with a visual dashboard, Mermaid diagrams, and artifact comments.
@@ -115,10 +115,10 @@ Spec-Driven Development (SDD) is a methodology where you and your AI coding assi
 * [flow-kit](https://github.com/rihebty/flow-kit) ⭐ 388 | 🐛 1 | 📅 2026-05-13 - Workflow kit merging BMAD, Spec-Kit, OpenSpec, GSD, and Superpowers. (Chinese)
 * [openspec-schemas by JiangWay](https://github.com/JiangWay/openspec-schemas) ⭐ 217 | 🐛 5 | 📅 2026-06-10 - Community schemas including a superpowers-bridge integration.
 * [superpowers-openspec-team-skills](https://github.com/SYZ-Coder/superpowers-openspec-team-skills) ⭐ 191 | 🐛 0 | 🌐 PowerShell | 📅 2026-06-12 - Self-learning team skill library. (Chinese)
-* [openspec-plus](https://github.com/sudokar/openspec-plus) ⭐ 152 | 🐛 0 | 📅 2026-07-23 - Agentic skills improving discovery, requirements, design decisions, and execution.
+* [openspec-plus](https://github.com/sudokar/openspec-plus) ⭐ 153 | 🐛 0 | 📅 2026-07-23 - Agentic skills improving discovery, requirements, design decisions, and execution.
 * [openspec-schemas](https://github.com/intent-driven-dev/openspec-schemas) ⭐ 90 | 🐛 1 | 📅 2026-08-16 - Custom workflow schemas including minimalist and event-driven templates.
 * [HyperSpec](https://github.com/wind7rui/HyperSpec) ⭐ 74 | 🐛 2 | 📅 2026-07-05 - Workflow skill coordinating OpenSpec specs with Superpowers TDD. (Chinese)
-* [SuperSpec](https://github.com/danielhanold/superspec) ⭐ 56 | 🐛 0 | 📅 2026-05-26 - Drop-in schema integrating Superpowers execution discipline for traceable workflows.
+* [SuperSpec](https://github.com/danielhanold/superspec) ⭐ 57 | 🐛 0 | 📅 2026-05-26 - Drop-in schema integrating Superpowers execution discipline for traceable workflows.
 * [openspec-spec-driven-superpowers](https://github.com/Veath/openspec-spec-driven-superpowers) ⭐ 26 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-27 - Adds superpowers-style planning and readiness gates.
 * [openspec-schemas by kmhalvin](https://github.com/kmhalvin/openspec-schemas) ⭐ 4 | 🐛 0 | 📅 2026-04-09 - Subagent-driven development and QRSPI multi-phase reasoning schemas.
 * [openspec-reviewed-workflow](https://github.com/griffithkk3-del/openspec-reviewed-workflow) ⭐ 2 | 🐛 0 | 🌐 Shell | 📅 2026-03-27 - Adds a review gate between proposal and spec phases.
@@ -127,7 +127,7 @@ Spec-Driven Development (SDD) is a methodology where you and your AI coding assi
 ## Templates & Starters
 
 * [Harness-Starter](https://github.com/chenklein26-maker/Harness-Starter) ⭐ 120 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-03 - Claude Code harness template with OpenSpec SDD workflow. (Chinese)
-* [intent-driven-template](https://github.com/intent-driven-dev/intent-driven-template) ⭐ 115 | 🐛 2 | 🌐 Python | 📅 2026-08-16 - Template with ADRs, C4 diagrams, Gherkin, and TDD.
+* [intent-driven-template](https://github.com/intent-driven-dev/intent-driven-template) ⭐ 115 | 🐛 2 | 🌐 Python | 📅 2026-08-23 - Template with ADRs, C4 diagrams, Gherkin, and TDD.
 * [speccoding-template](https://github.com/beautifulSoup/speccoding-template) ⭐ 61 | 🐛 0 | 📅 2026-05-03 - Full-stack AI dev template with OpenSpec and Superpowers. (Chinese)
 * [nuxt-supabase-starter](https://github.com/YuDefine/nuxt-supabase-starter) ⭐ 45 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-21 - Nuxt and Supabase starter with OpenSpec-based AI workflow. (Chinese)
 * [opencode-onboard](https://github.com/CKGrafico/opencode-onboard) ⭐ 31 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-22 - Prepares codebases for AI by wiring OpenCode, OpenSpec, and codegraph.
@@ -171,11 +171,11 @@ Spec-Driven Development (SDD) is a methodology where you and your AI coding assi
 
 ## Competitors & Comparisons
 
-* [Spec-Kit](https://github.com/github/spec-kit) ⭐ 130,811 | 🐛 349 | 🌐 Python | 📅 2026-08-21 - GitHub's official SDD toolkit with CLI, templates, scaffolding, and AI integrations.
+* [Spec-Kit](https://github.com/github/spec-kit) ⭐ 130,927 | 🐛 353 | 🌐 Python | 📅 2026-08-21 - GitHub's official SDD toolkit with CLI, templates, scaffolding, and AI integrations.
 * [Get Shit Done](https://github.com/gsd-build/get-shit-done) ⚠️ Archived - Spec-driven workflow with multi-agent orchestration and wave-based parallel execution.
-* [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) ⭐ 52,167 | 🐛 146 | 🌐 JavaScript | 📅 2026-08-22 - Agile AI-driven development using formal specs as single source of truth.
-* [Kiro](https://github.com/kirodotdev/Kiro) ⭐ 4,216 | 🐛 1,560 | 🌐 TypeScript | 📅 2026-06-22 - AWS agentic IDE converting natural language into structured specs.
-* [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty) ⭐ 1,556 | 🐛 679 | 🌐 Python | 📅 2026-08-22 - SDD CLI workflow with Kanban dashboard, Git worktree isolation, and auto-merge.
+* [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) ⭐ 52,190 | 🐛 147 | 🌐 JavaScript | 📅 2026-08-22 - Agile AI-driven development using formal specs as single source of truth.
+* [Kiro](https://github.com/kirodotdev/Kiro) ⭐ 4,217 | 🐛 1,565 | 🌐 TypeScript | 📅 2026-06-22 - AWS agentic IDE converting natural language into structured specs.
+* [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty) ⭐ 1,568 | 🐛 684 | 🌐 Python | 📅 2026-08-23 - SDD CLI workflow with Kanban dashboard, Git worktree isolation, and auto-merge.
 * [ProductSpec](https://github.com/gokulrajaram/ProductSpec) ⭐ 269 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-19 - Open standard for capturing software intent before implementation.
 * [Tessl SDD Tile](https://github.com/tesslio/spec-driven-development-tile) ⭐ 52 | 🐛 0 | 🌐 Shell | 📅 2026-03-30 - Tile teaching MCP-compatible AI agents to write specs before coding.
 * [FullSpec](https://github.com/NSEvteev/FullSpec) ⭐ 32 | 🐛 5 | 🌐 Python | 📅 2026-07-31 - Spec-driven framework turning ideas into code through formal analysis chains.
@@ -195,4 +195,4 @@ Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
