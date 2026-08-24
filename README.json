@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1032459340,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T16:52:37Z",
+            "last_commit": "2026-08-24T14:30:45Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 65981
+            "stars": 66077
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1032459340,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T16:52:37Z",
+            "last_commit": "2026-08-24T14:30:45Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 65981
+            "stars": 66077
           }
         }
       ],
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 1256531647,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T07:37:48Z",
+            "last_commit": "2026-08-24T07:39:35Z",
             "owner": "dansreis",
             "repo": "speclens",
             "stars": 23
@@ -174,7 +174,7 @@
             "archived": false,
             "id": 1146753014,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T18:31:13Z",
+            "last_commit": "2026-08-24T13:13:28Z",
             "owner": "clay-good",
             "repo": "OpenLore",
             "stars": 289
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-19T15:14:38Z",
             "owner": "ricoyudog",
             "repo": "Coding_Corgi_flow",
-            "stars": 103
+            "stars": 104
           }
         },
         {
@@ -249,7 +249,7 @@
             "archived": false,
             "id": 1192537344,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T06:26:37Z",
+            "last_commit": "2026-08-24T07:09:29Z",
             "owner": "wxhou",
             "repo": "openspec-playwright",
             "stars": 10
@@ -624,7 +624,7 @@
             "last_commit": "2026-08-16T13:01:03Z",
             "owner": "MageByte-Zero",
             "repo": "spec-superflow",
-            "stars": 759
+            "stars": 764
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2026-05-13T07:25:34Z",
             "owner": "rihebty",
             "repo": "flow-kit",
-            "stars": 388
+            "stars": 390
           }
         },
         {
@@ -699,7 +699,7 @@
             "last_commit": "2026-08-16T14:16:53Z",
             "owner": "intent-driven-dev",
             "repo": "openspec-schemas",
-            "stars": 90
+            "stars": 91
           }
         },
         {
@@ -729,7 +729,7 @@
             "last_commit": "2026-05-26T20:05:17Z",
             "owner": "danielhanold",
             "repo": "superspec",
-            "stars": 57
+            "stars": 58
           }
         },
         {
@@ -822,10 +822,10 @@
             "archived": false,
             "id": 1234574246,
             "language": "Python",
-            "last_commit": "2026-08-23T14:02:53Z",
+            "last_commit": "2026-08-24T02:09:39Z",
             "owner": "intent-driven-dev",
             "repo": "intent-driven-template",
-            "stars": 115
+            "stars": 116
           }
         },
         {
@@ -852,7 +852,7 @@
             "archived": false,
             "id": 1138511910,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T16:02:11Z",
+            "last_commit": "2026-08-24T14:14:34Z",
             "owner": "YuDefine",
             "repo": "nuxt-supabase-starter",
             "stars": 45
@@ -891,7 +891,7 @@
             "last_commit": "2026-08-19T07:47:31Z",
             "owner": "ForceInjection",
             "repo": "OpenSpec-practise",
-            "stars": 589
+            "stars": 592
           }
         },
         {
@@ -996,7 +996,7 @@
             "last_commit": "2026-04-09T01:09:44Z",
             "owner": "aiyinluya",
             "repo": "openspec-tutorial",
-            "stars": 8
+            "stars": 9
           }
         },
         {
@@ -1065,10 +1065,10 @@
             "archived": false,
             "id": 1042367133,
             "language": "Python",
-            "last_commit": "2026-08-21T21:29:37Z",
+            "last_commit": "2026-08-24T14:09:59Z",
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 130927
+            "stars": 131088
           }
         },
         {
@@ -1083,7 +1083,7 @@
             "last_commit": "2026-05-31T17:46:54Z",
             "owner": "gsd-build",
             "repo": "get-shit-done",
-            "stars": 64658
+            "stars": 64651
           }
         },
         {
@@ -1095,10 +1095,10 @@
             "archived": false,
             "id": 965615190,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T15:17:40Z",
+            "last_commit": "2026-08-23T23:10:56Z",
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 52190
+            "stars": 52223
           }
         },
         {
@@ -1113,7 +1113,7 @@
             "last_commit": "2026-06-22T16:23:59Z",
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4217
+            "stars": 4218
           }
         },
         {
@@ -1125,10 +1125,10 @@
             "archived": false,
             "id": 1072945981,
             "language": "Python",
-            "last_commit": "2026-08-23T18:23:39Z",
+            "last_commit": "2026-08-24T14:37:43Z",
             "owner": "Priivacy-ai",
             "repo": "spec-kitty",
-            "stars": 1568
+            "stars": 1570
           }
         },
         {
@@ -1256,7 +1256,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:54:59.784Z",
+    "last_updated": "2026-08-24T14:46:46.060Z",
     "original_repository": "speclib/awesome-openspec",
     "original_repository_id": 1167559180,
     "original_repository_sha": "7fbf54073161e3921390f0d72a34f2831e91141d",
