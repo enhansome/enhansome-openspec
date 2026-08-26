@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1032459340,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T19:38:45Z",
+            "last_commit": "2026-08-26T20:18:20Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 66218
+            "stars": 66345
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1032459340,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T19:38:45Z",
+            "last_commit": "2026-08-26T20:18:20Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 66218
+            "stars": 66345
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-19T19:09:53Z",
             "owner": "jixoai",
             "repo": "openspecui",
-            "stars": 103
+            "stars": 105
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-24T07:39:35Z",
             "owner": "dansreis",
             "repo": "speclens",
-            "stars": 23
+            "stars": 24
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-13T10:00:32Z",
             "owner": "autonomous-toaster",
             "repo": "veriplan",
-            "stars": 6
+            "stars": 7
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2026-03-24T08:21:37Z",
             "owner": "Octane0411",
             "repo": "opencode-plugin-openspec",
-            "stars": 157
+            "stars": 158
           }
         },
         {
@@ -368,21 +368,6 @@
         },
         {
           "node_type": "item",
-          "title": "Flokay",
-          "description": "Claude Code and Cursor plugin with plan-then-implement workflow and subagent dispatch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1160520597,
-            "language": "Shell",
-            "last_commit": "2026-07-29T19:35:42Z",
-            "owner": "Codagent-AI",
-            "repo": "agent-skills",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
           "title": "openspec-mcp",
           "description": "MCP server exposing the OpenSpec CLI as tools, with a Kanban web dashboard.",
           "children": [],
@@ -393,6 +378,21 @@
             "last_commit": "2026-01-12T08:00:59Z",
             "owner": "Lumiaqian",
             "repo": "openspec-mcp",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flokay",
+          "description": "Claude Code and Cursor plugin with plan-then-implement workflow and subagent dispatch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1160520597,
+            "language": "Shell",
+            "last_commit": "2026-07-29T19:35:42Z",
+            "owner": "Codagent-AI",
+            "repo": "agent-skills",
             "stars": 30
           }
         },
@@ -621,10 +621,10 @@
             "archived": false,
             "id": 1280958966,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T13:01:03Z",
+            "last_commit": "2026-08-26T07:24:52Z",
             "owner": "MageByte-Zero",
             "repo": "spec-superflow",
-            "stars": 765
+            "stars": 767
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2026-05-13T07:25:34Z",
             "owner": "rihebty",
             "repo": "flow-kit",
-            "stars": 390
+            "stars": 391
           }
         },
         {
@@ -729,7 +729,7 @@
             "last_commit": "2026-05-26T20:05:17Z",
             "owner": "danielhanold",
             "repo": "superspec",
-            "stars": 59
+            "stars": 61
           }
         },
         {
@@ -825,7 +825,7 @@
             "last_commit": "2026-08-24T02:09:39Z",
             "owner": "intent-driven-dev",
             "repo": "intent-driven-template",
-            "stars": 116
+            "stars": 119
           }
         },
         {
@@ -903,10 +903,10 @@
             "archived": false,
             "id": 1102541103,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T17:38:34Z",
+            "last_commit": "2026-08-25T20:39:02Z",
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 122
+            "stars": 124
           }
         },
         {
@@ -918,10 +918,10 @@
             "archived": false,
             "id": 1102541103,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T17:38:34Z",
+            "last_commit": "2026-08-25T20:39:02Z",
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 122
+            "stars": 124
           }
         },
         {
@@ -1065,10 +1065,10 @@
             "archived": false,
             "id": 1042367133,
             "language": "Python",
-            "last_commit": "2026-08-25T16:09:25Z",
+            "last_commit": "2026-08-26T20:09:13Z",
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 131408
+            "stars": 131673
           }
         },
         {
@@ -1083,7 +1083,7 @@
             "last_commit": "2026-05-31T17:46:54Z",
             "owner": "gsd-build",
             "repo": "get-shit-done",
-            "stars": 64642
+            "stars": 64637
           }
         },
         {
@@ -1095,10 +1095,10 @@
             "archived": false,
             "id": 965615190,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T23:10:56Z",
+            "last_commit": "2026-08-26T12:56:06Z",
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 52270
+            "stars": 52338
           }
         },
         {
@@ -1110,10 +1110,10 @@
             "archived": false,
             "id": 1003854381,
             "language": "TypeScript",
-            "last_commit": "2026-06-22T16:23:59Z",
+            "last_commit": "2026-08-26T16:59:57Z",
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4221
+            "stars": 4225
           }
         },
         {
@@ -1125,10 +1125,10 @@
             "archived": false,
             "id": 1072945981,
             "language": "Python",
-            "last_commit": "2026-08-25T14:21:13Z",
+            "last_commit": "2026-08-26T16:10:29Z",
             "owner": "Priivacy-ai",
             "repo": "spec-kitty",
-            "stars": 1571
+            "stars": 1573
           }
         },
         {
@@ -1256,7 +1256,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:07:06.617Z",
+    "last_updated": "2026-08-26T20:24:01.456Z",
     "original_repository": "speclib/awesome-openspec",
     "original_repository_id": 1167559180,
     "original_repository_sha": "7fbf54073161e3921390f0d72a34f2831e91141d",
