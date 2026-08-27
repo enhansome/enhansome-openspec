@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1032459340,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T20:18:20Z",
+            "last_commit": "2026-08-26T23:24:19Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 66345
+            "stars": 66405
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1032459340,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T20:18:20Z",
+            "last_commit": "2026-08-26T23:24:19Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 66345
+            "stars": 66405
           }
         }
       ],
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 1157212695,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T05:47:12Z",
+            "last_commit": "2026-08-27T04:23:40Z",
             "owner": "spekhq",
             "repo": "spek",
             "stars": 47
@@ -219,7 +219,7 @@
             "archived": false,
             "id": 1206389206,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T16:23:30Z",
+            "last_commit": "2026-08-26T23:26:47Z",
             "owner": "opencue",
             "repo": "gitguardex",
             "stars": 25
@@ -249,7 +249,7 @@
             "archived": false,
             "id": 1192537344,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T15:18:11Z",
+            "last_commit": "2026-08-27T07:42:48Z",
             "owner": "wxhou",
             "repo": "openspec-playwright",
             "stars": 10
@@ -413,6 +413,21 @@
         },
         {
           "node_type": "item",
+          "title": "openspec-superpowers-opencode",
+          "description": "Superpowers and OpenSpec combined in OpenCode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1246780166,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T12:03:18Z",
+            "owner": "moyaspace",
+            "repo": "openspec-superpowers-opencode",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
           "title": "OpenSpec-Zed",
           "description": "Zed editor extension adding OpenSpec workflow slash commands to the Assistant panel.",
           "children": [],
@@ -424,21 +439,6 @@
             "owner": "uwzis",
             "repo": "OpenSpec-Zed",
             "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "openspec-superpowers-opencode",
-          "description": "Superpowers and OpenSpec combined in OpenCode.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1246780166,
-            "language": "JavaScript",
-            "last_commit": "2026-08-10T12:03:18Z",
-            "owner": "moyaspace",
-            "repo": "openspec-superpowers-opencode",
-            "stars": 14
           }
         },
         {
@@ -540,7 +540,7 @@
             "archived": false,
             "id": 1155300280,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T12:49:42Z",
+            "last_commit": "2026-08-27T05:08:01Z",
             "owner": "RandyZ",
             "repo": "openspec-ext",
             "stars": 6
@@ -624,7 +624,7 @@
             "last_commit": "2026-08-26T07:24:52Z",
             "owner": "MageByte-Zero",
             "repo": "spec-superflow",
-            "stars": 767
+            "stars": 772
           }
         },
         {
@@ -669,7 +669,7 @@
             "last_commit": "2026-06-12T06:34:23Z",
             "owner": "SYZ-Coder",
             "repo": "superpowers-openspec-team-skills",
-            "stars": 191
+            "stars": 190
           }
         },
         {
@@ -684,7 +684,7 @@
             "last_commit": "2026-07-23T14:50:46Z",
             "owner": "sudokar",
             "repo": "openspec-plus",
-            "stars": 152
+            "stars": 153
           }
         },
         {
@@ -825,7 +825,7 @@
             "last_commit": "2026-08-24T02:09:39Z",
             "owner": "intent-driven-dev",
             "repo": "intent-driven-template",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -867,7 +867,7 @@
             "archived": false,
             "id": 1226309398,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T06:21:30Z",
+            "last_commit": "2026-08-26T21:09:55Z",
             "owner": "PlainConceptsPlatform",
             "repo": "agent-harness",
             "stars": 31
@@ -906,7 +906,7 @@
             "last_commit": "2026-08-25T20:39:02Z",
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -921,7 +921,7 @@
             "last_commit": "2026-08-25T20:39:02Z",
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -1065,10 +1065,10 @@
             "archived": false,
             "id": 1042367133,
             "language": "Python",
-            "last_commit": "2026-08-26T20:09:13Z",
+            "last_commit": "2026-08-27T03:53:49Z",
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 131673
+            "stars": 131802
           }
         },
         {
@@ -1083,7 +1083,7 @@
             "last_commit": "2026-05-31T17:46:54Z",
             "owner": "gsd-build",
             "repo": "get-shit-done",
-            "stars": 64637
+            "stars": 64633
           }
         },
         {
@@ -1095,10 +1095,10 @@
             "archived": false,
             "id": 965615190,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T12:56:06Z",
+            "last_commit": "2026-08-27T08:57:26Z",
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 52338
+            "stars": 52372
           }
         },
         {
@@ -1110,10 +1110,10 @@
             "archived": false,
             "id": 1003854381,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T16:59:57Z",
+            "last_commit": "2026-08-27T03:38:49Z",
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4225
+            "stars": 4227
           }
         },
         {
@@ -1125,10 +1125,10 @@
             "archived": false,
             "id": 1072945981,
             "language": "Python",
-            "last_commit": "2026-08-26T16:10:29Z",
+            "last_commit": "2026-08-27T10:01:42Z",
             "owner": "Priivacy-ai",
             "repo": "spec-kitty",
-            "stars": 1573
+            "stars": 1572
           }
         },
         {
@@ -1143,7 +1143,7 @@
             "last_commit": "2026-07-19T03:24:03Z",
             "owner": "gokulrajaram",
             "repo": "ProductSpec",
-            "stars": 272
+            "stars": 275
           }
         },
         {
@@ -1256,9 +1256,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T20:24:01.456Z",
-    "original_repository": "speclib/awesome-openspec",
-    "original_repository_id": 1167559180,
+    "last_updated": "2026-08-27T11:54:40.601Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1167559180,
+      "language": "JavaScript",
+      "last_commit": "2026-07-17T12:34:52Z",
+      "owner": "speclib",
+      "repo": "awesome-openspec",
+      "stars": 63
+    },
     "original_repository_sha": "7fbf54073161e3921390f0d72a34f2831e91141d",
     "enhanced_repository": "enhansome/enhansome-openspec",
     "enhanced_repository_description": null,
