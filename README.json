@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1032459340,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T23:24:19Z",
+            "last_commit": "2026-08-27T20:59:19Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 66405
+            "stars": 66468
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1032459340,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T23:24:19Z",
+            "last_commit": "2026-08-27T20:59:19Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 66405
+            "stars": 66468
           }
         }
       ],
@@ -48,7 +48,7 @@
             "archived": false,
             "id": 1103589952,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T19:09:53Z",
+            "last_commit": "2026-08-28T02:02:01Z",
             "owner": "jixoai",
             "repo": "openspecui",
             "stars": 105
@@ -219,7 +219,7 @@
             "archived": false,
             "id": 1206389206,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T23:26:47Z",
+            "last_commit": "2026-08-28T02:11:01Z",
             "owner": "opencue",
             "repo": "gitguardex",
             "stars": 25
@@ -510,7 +510,7 @@
             "archived": false,
             "id": 1186733149,
             "language": "Java",
-            "last_commit": "2026-08-21T02:14:53Z",
+            "last_commit": "2026-08-28T01:28:45Z",
             "owner": "johnnyblabs",
             "repo": "intellij-openspec",
             "stars": 7
@@ -624,7 +624,7 @@
             "last_commit": "2026-08-26T07:24:52Z",
             "owner": "MageByte-Zero",
             "repo": "spec-superflow",
-            "stars": 772
+            "stars": 773
           }
         },
         {
@@ -669,7 +669,7 @@
             "last_commit": "2026-06-12T06:34:23Z",
             "owner": "SYZ-Coder",
             "repo": "superpowers-openspec-team-skills",
-            "stars": 190
+            "stars": 189
           }
         },
         {
@@ -684,7 +684,7 @@
             "last_commit": "2026-07-23T14:50:46Z",
             "owner": "sudokar",
             "repo": "openspec-plus",
-            "stars": 153
+            "stars": 154
           }
         },
         {
@@ -729,7 +729,7 @@
             "last_commit": "2026-05-26T20:05:17Z",
             "owner": "danielhanold",
             "repo": "superspec",
-            "stars": 61
+            "stars": 62
           }
         },
         {
@@ -800,21 +800,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Harness-Starter",
-          "description": "Claude Code harness template with OpenSpec SDD workflow. (Chinese)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1254494406,
-            "language": "JavaScript",
-            "last_commit": "2026-07-03T08:01:55Z",
-            "owner": "chenklein26-maker",
-            "repo": "Harness-Starter",
-            "stars": 120
-          }
-        },
-        {
-          "node_type": "item",
           "title": "intent-driven-template",
           "description": "Template with ADRs, C4 diagrams, Gherkin, and TDD.",
           "children": [],
@@ -826,6 +811,21 @@
             "owner": "intent-driven-dev",
             "repo": "intent-driven-template",
             "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harness-Starter",
+          "description": "Claude Code harness template with OpenSpec SDD workflow. (Chinese)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1254494406,
+            "language": "JavaScript",
+            "last_commit": "2026-07-03T08:01:55Z",
+            "owner": "chenklein26-maker",
+            "repo": "Harness-Starter",
+            "stars": 119
           }
         },
         {
@@ -906,7 +906,7 @@
             "last_commit": "2026-08-25T20:39:02Z",
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 125
+            "stars": 126
           }
         },
         {
@@ -921,7 +921,7 @@
             "last_commit": "2026-08-25T20:39:02Z",
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 125
+            "stars": 126
           }
         },
         {
@@ -951,7 +951,7 @@
             "last_commit": "2026-05-26T03:16:27Z",
             "owner": "radebit",
             "repo": "OpenSpec-Docs-zh",
-            "stars": 83
+            "stars": 84
           }
         },
         {
@@ -1065,10 +1065,10 @@
             "archived": false,
             "id": 1042367133,
             "language": "Python",
-            "last_commit": "2026-08-27T03:53:49Z",
+            "last_commit": "2026-08-28T01:42:30Z",
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 131802
+            "stars": 131911
           }
         },
         {
@@ -1083,7 +1083,7 @@
             "last_commit": "2026-05-31T17:46:54Z",
             "owner": "gsd-build",
             "repo": "get-shit-done",
-            "stars": 64633
+            "stars": 64631
           }
         },
         {
@@ -1095,10 +1095,10 @@
             "archived": false,
             "id": 965615190,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T08:57:26Z",
+            "last_commit": "2026-08-28T02:08:20Z",
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 52372
+            "stars": 52394
           }
         },
         {
@@ -1110,10 +1110,10 @@
             "archived": false,
             "id": 1003854381,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T03:38:49Z",
+            "last_commit": "2026-08-27T16:33:53Z",
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4227
+            "stars": 4231
           }
         },
         {
@@ -1125,10 +1125,10 @@
             "archived": false,
             "id": 1072945981,
             "language": "Python",
-            "last_commit": "2026-08-27T10:01:42Z",
+            "last_commit": "2026-08-27T20:39:17Z",
             "owner": "Priivacy-ai",
             "repo": "spec-kitty",
-            "stars": 1572
+            "stars": 1573
           }
         },
         {
@@ -1203,7 +1203,7 @@
             "last_commit": "2026-07-04T05:05:25Z",
             "owner": "felipefontoura",
             "repo": "pi-sdd-kit",
-            "stars": 22
+            "stars": 21
           }
         },
         {
@@ -1256,7 +1256,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:54:40.601Z",
+    "last_updated": "2026-08-28T02:14:04.333Z",
     "original_repository_info": {
       "archived": false,
       "id": 1167559180,
