@@ -12,11 +12,12 @@
             "archived": false,
             "id": 1032459340,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T20:59:19Z",
+            "last_commit": "2026-08-28T20:08:11Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 66468
-          }
+            "stars": 66577
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 1032459340,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T20:59:19Z",
+            "last_commit": "2026-08-28T20:08:11Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 66468
-          }
+            "stars": 66577
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         }
       ],
       "title": "Official Resources"
@@ -48,11 +50,12 @@
             "archived": false,
             "id": 1103589952,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T02:02:01Z",
+            "last_commit": "2026-08-28T21:22:58Z",
             "owner": "jixoai",
             "repo": "openspecui",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "spekhq",
             "repo": "spek",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "ToruAI",
             "repo": "openspec-ui",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "dansreis",
             "repo": "speclens",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "fselich",
             "repo": "dossier",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -123,11 +130,12 @@
             "archived": false,
             "id": 1198656430,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T21:13:24Z",
+            "last_commit": "2026-08-28T04:17:58Z",
             "owner": "oioi555",
             "repo": "openspec-webui",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "MusicAdam",
             "repo": "openspec-viewer",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "sflueckiger",
             "repo": "specboard",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         }
       ],
       "title": "UIs"
@@ -174,11 +184,12 @@
             "archived": false,
             "id": 1146753014,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:13:28Z",
+            "last_commit": "2026-08-28T20:33:24Z",
             "owner": "clay-good",
             "repo": "OpenLore",
             "stars": 289
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "wenqingyu",
             "repo": "ralphy-openspec",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "ricoyudog",
             "repo": "Coding_Corgi_flow",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -219,11 +232,12 @@
             "archived": false,
             "id": 1206389206,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T02:11:01Z",
+            "last_commit": "2026-08-28T17:29:41Z",
             "owner": "opencue",
             "repo": "gitguardex",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "gmf520",
             "repo": "openspec-agents",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -249,11 +264,12 @@
             "archived": false,
             "id": 1192537344,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T07:42:48Z",
+            "last_commit": "2026-08-28T08:37:18Z",
             "owner": "wxhou",
             "repo": "openspec-playwright",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "autonomous-toaster",
             "repo": "veriplan",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "zayeagle",
             "repo": "omnidev-kit",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "biancalana",
             "repo": "OpenSpec.sh",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         }
       ],
       "title": "Tools"
@@ -319,7 +338,8 @@
             "owner": "fastknifes",
             "repo": "openflow",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "Octane0411",
             "repo": "opencode-plugin-openspec",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "bytegh",
             "repo": "clawspec",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "joestump",
             "repo": "claude-plugin-sdd",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "Lumiaqian",
             "repo": "openspec-mcp",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "Codagent-AI",
             "repo": "agent-skills",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "atman-33",
             "repo": "openspec-for-copilot",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -423,8 +449,9 @@
             "last_commit": "2026-08-10T12:03:18Z",
             "owner": "moyaspace",
             "repo": "openspec-superpowers-opencode",
-            "stars": 15
-          }
+            "stars": 16
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "uwzis",
             "repo": "OpenSpec-Zed",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "chyiiiiiiiiiiii",
             "repo": "openspec-skills",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "eugeniosegala",
             "repo": "claude-connoisseur",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "ctchen222",
             "repo": "openspec.nvim",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -499,7 +530,8 @@
             "owner": "Zacalot",
             "repo": "openspec.el",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -514,7 +546,8 @@
             "owner": "johnnyblabs",
             "repo": "intellij-openspec",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -529,7 +562,8 @@
             "owner": "AngDrew",
             "repo": "opencode-openspec",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -544,7 +578,8 @@
             "owner": "RandyZ",
             "repo": "openspec-ext",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -559,7 +594,8 @@
             "owner": "yuritoledo",
             "repo": "openspec-tdd",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -574,7 +610,8 @@
             "owner": "mbertani",
             "repo": "opsx-feature-dev",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -585,11 +622,12 @@
             "archived": false,
             "id": 1293144667,
             "language": "TypeScript",
-            "last_commit": "2026-07-17T13:41:39Z",
+            "last_commit": "2026-08-28T08:12:45Z",
             "owner": "coderj001",
             "repo": "openspec-ui-vscode",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -604,7 +642,8 @@
             "owner": "stritti",
             "repo": "vitepress-plugin-openspec",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         }
       ],
       "title": "OpenSpec as Integration or Plugin"
@@ -624,8 +663,9 @@
             "last_commit": "2026-08-26T07:24:52Z",
             "owner": "MageByte-Zero",
             "repo": "spec-superflow",
-            "stars": 773
-          }
+            "stars": 774
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -639,8 +679,9 @@
             "last_commit": "2026-05-13T07:25:34Z",
             "owner": "rihebty",
             "repo": "flow-kit",
-            "stars": 391
-          }
+            "stars": 392
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -654,8 +695,9 @@
             "last_commit": "2026-06-10T09:01:42Z",
             "owner": "JiangWay",
             "repo": "openspec-schemas",
-            "stars": 216
-          }
+            "stars": 217
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -670,7 +712,8 @@
             "owner": "SYZ-Coder",
             "repo": "superpowers-openspec-team-skills",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -685,7 +728,8 @@
             "owner": "sudokar",
             "repo": "openspec-plus",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -700,7 +744,8 @@
             "owner": "intent-driven-dev",
             "repo": "openspec-schemas",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -715,7 +760,8 @@
             "owner": "wind7rui",
             "repo": "HyperSpec",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -729,8 +775,9 @@
             "last_commit": "2026-05-26T20:05:17Z",
             "owner": "danielhanold",
             "repo": "superspec",
-            "stars": 62
-          }
+            "stars": 65
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -745,7 +792,8 @@
             "owner": "Veath",
             "repo": "openspec-spec-driven-superpowers",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -760,7 +808,8 @@
             "owner": "kmhalvin",
             "repo": "openspec-schemas",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -775,7 +824,8 @@
             "owner": "griffithkk3-del",
             "repo": "openspec-reviewed-workflow",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -790,7 +840,8 @@
             "owner": "Lukk17",
             "repo": "openspec-schemas",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         }
       ],
       "title": "Schemas & Extensions"
@@ -811,7 +862,8 @@
             "owner": "intent-driven-dev",
             "repo": "intent-driven-template",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -826,7 +878,8 @@
             "owner": "chenklein26-maker",
             "repo": "Harness-Starter",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -841,7 +894,8 @@
             "owner": "beautifulSoup",
             "repo": "speccoding-template",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -852,11 +906,12 @@
             "archived": false,
             "id": 1138511910,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T18:50:25Z",
+            "last_commit": "2026-08-28T12:25:29Z",
             "owner": "YuDefine",
             "repo": "nuxt-supabase-starter",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -867,11 +922,12 @@
             "archived": false,
             "id": 1226309398,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T21:09:55Z",
+            "last_commit": "2026-08-28T15:34:32Z",
             "owner": "PlainConceptsPlatform",
             "repo": "agent-harness",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         }
       ],
       "title": "Templates & Starters"
@@ -891,8 +947,9 @@
             "last_commit": "2026-08-19T07:47:31Z",
             "owner": "ForceInjection",
             "repo": "OpenSpec-practise",
-            "stars": 595
-          }
+            "stars": 597
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -906,8 +963,9 @@
             "last_commit": "2026-08-25T20:39:02Z",
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 126
-          }
+            "stars": 127
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -921,8 +979,9 @@
             "last_commit": "2026-08-25T20:39:02Z",
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 126
-          }
+            "stars": 127
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -936,8 +995,9 @@
             "last_commit": "2026-06-05T06:04:14Z",
             "owner": "sohaha",
             "repo": "studyzy-OpenSpec-cn",
-            "stars": 95
-          }
+            "stars": 96
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -951,8 +1011,9 @@
             "last_commit": "2026-05-26T03:16:27Z",
             "owner": "radebit",
             "repo": "OpenSpec-Docs-zh",
-            "stars": 84
-          }
+            "stars": 85
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -967,7 +1028,8 @@
             "owner": "olivomarco",
             "repo": "genai-development-techniques",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -982,7 +1044,8 @@
             "owner": "gqcn",
             "repo": "openspec-practice",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -997,7 +1060,8 @@
             "owner": "aiyinluya",
             "repo": "openspec-tutorial",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -1012,7 +1076,8 @@
             "owner": "xiaojian98",
             "repo": "openspec-learning-guide",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         }
       ],
       "title": "Articles & Tutorials"
@@ -1033,7 +1098,8 @@
             "owner": "wordflowlab",
             "repo": "novel-writer-openspec",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -1048,7 +1114,8 @@
             "owner": "mr7thing",
             "repo": "openspec-video",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         }
       ],
       "title": "Exotic Use Cases"
@@ -1065,11 +1132,12 @@
             "archived": false,
             "id": 1042367133,
             "language": "Python",
-            "last_commit": "2026-08-28T01:42:30Z",
+            "last_commit": "2026-08-28T21:42:14Z",
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 131911
-          }
+            "stars": 132056
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -1083,8 +1151,9 @@
             "last_commit": "2026-05-31T17:46:54Z",
             "owner": "gsd-build",
             "repo": "get-shit-done",
-            "stars": 64631
-          }
+            "stars": 64626
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -1095,11 +1164,12 @@
             "archived": false,
             "id": 965615190,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T02:08:20Z",
+            "last_commit": "2026-08-29T01:10:25Z",
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 52394
-          }
+            "stars": 52423
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -1114,7 +1184,8 @@
             "owner": "kirodotdev",
             "repo": "Kiro",
             "stars": 4231
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -1125,11 +1196,12 @@
             "archived": false,
             "id": 1072945981,
             "language": "Python",
-            "last_commit": "2026-08-27T20:39:17Z",
+            "last_commit": "2026-08-28T17:21:01Z",
             "owner": "Priivacy-ai",
             "repo": "spec-kitty",
-            "stars": 1573
-          }
+            "stars": 1572
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -1143,8 +1215,9 @@
             "last_commit": "2026-07-19T03:24:03Z",
             "owner": "gokulrajaram",
             "repo": "ProductSpec",
-            "stars": 275
-          }
+            "stars": 277
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -1159,7 +1232,8 @@
             "owner": "tesslio",
             "repo": "spec-driven-development-tile",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -1174,7 +1248,8 @@
             "owner": "NSEvteev",
             "repo": "FullSpec",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -1189,7 +1264,8 @@
             "owner": "spenceriam",
             "repo": "OpenSpecification",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -1204,7 +1280,8 @@
             "owner": "felipefontoura",
             "repo": "pi-sdd-kit",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -1219,7 +1296,8 @@
             "owner": "Pluviobyte",
             "repo": "ContractSpec",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -1234,7 +1312,8 @@
             "owner": "raydez",
             "repo": "dataspec",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         },
         {
           "node_type": "item",
@@ -1249,14 +1328,15 @@
             "owner": "connerohnesorge",
             "repo": "spectr",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
         }
       ],
       "title": "Competitors & Comparisons"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:14:04.333Z",
+    "last_updated": "2026-08-29T01:48:50.081Z",
     "original_repository_info": {
       "archived": false,
       "id": 1167559180,
@@ -1264,7 +1344,7 @@
       "last_commit": "2026-07-17T12:34:52Z",
       "owner": "speclib",
       "repo": "awesome-openspec",
-      "stars": 63
+      "stars": 65
     },
     "original_repository_sha": "7fbf54073161e3921390f0d72a34f2831e91141d",
     "enhanced_repository": "enhansome/enhansome-openspec",
