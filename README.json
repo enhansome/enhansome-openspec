@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spec-driven development (SDD) for AI coding assistants.",
+            "homepage": "https://openspec.dev/",
             "id": 1032459340,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:08:11Z",
+            "open_issues": 200,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 66577
+            "stars": 66585,
+            "topics": [
+              "ai",
+              "context-engineering",
+              "engineering",
+              "planning",
+              "prd",
+              "sdd",
+              "sdlc",
+              "spec",
+              "spec-driven-development",
+              "specification"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -26,12 +42,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spec-driven development (SDD) for AI coding assistants.",
+            "homepage": "https://openspec.dev/",
             "id": 1032459340,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:08:11Z",
+            "open_issues": 200,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 66577
+            "stars": 66585,
+            "topics": [
+              "ai",
+              "context-engineering",
+              "engineering",
+              "planning",
+              "prd",
+              "sdd",
+              "sdlc",
+              "spec",
+              "spec-driven-development",
+              "specification"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         }
@@ -48,12 +80,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dream for [OpenSpec](https://github.com/Fission-AI/OpenSpec)",
+            "homepage": "https://www.openspecui.com",
             "id": 1103589952,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:22:58Z",
+            "open_issues": 1,
             "owner": "jixoai",
             "repo": "openspecui",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -64,12 +101,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight, read-only viewer for OpenSpec content",
+            "homepage": "https://spekhq.github.io/spek/demo.html",
             "id": 1157212695,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T04:23:40Z",
+            "open_issues": 0,
             "owner": "spekhq",
             "repo": "spek",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "agentcoding",
+              "openspec",
+              "sdd"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -80,12 +126,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web dashboard for OpenSpec — one kanban board across every repo, showing which artifact is next and what is blocked. OpenSpec 1.6 compatible.",
+            "homepage": null,
             "id": 1125776334,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-27T00:29:56Z",
+            "open_issues": 0,
             "owner": "ToruAI",
             "repo": "openspec-ui",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "ai-agents",
+              "claude-code",
+              "dashboard",
+              "developer-tools",
+              "kanban",
+              "openspec",
+              "react",
+              "rust",
+              "sdd",
+              "spec-driven-development"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -96,12 +158,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A desktop reader for OpenSpec projects - browse changes, trace how requirements evolved, and comment on specs, all from local folders",
+            "homepage": "https://dansreis.github.io/speclens/",
             "id": 1256531647,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T07:39:35Z",
+            "open_issues": 5,
             "owner": "dansreis",
             "repo": "speclens",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "desktop-app",
+              "local-first",
+              "markdown",
+              "openspec",
+              "react",
+              "rust",
+              "spec-driven-development",
+              "specifications",
+              "tauri",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -112,12 +190,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keyboard-driven TUI for navigating OpenSpec project artifacts — proposals, designs, specs, and tasks.",
+            "homepage": null,
             "id": 1239531847,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-23T08:44:58Z",
+            "open_issues": 4,
             "owner": "fselich",
             "repo": "dossier",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "openspec",
+              "sdd",
+              "spec-driven-development",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -128,12 +216,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive browser UI for browsing and managing OpenSpec specifications",
+            "homepage": "https://www.npmjs.com/package/openspec-webui",
             "id": 1198656430,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T04:17:58Z",
+            "open_issues": 0,
             "owner": "oioi555",
             "repo": "openspec-webui",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "ai-tools",
+              "ai-workflow",
+              "claude-code",
+              "cli",
+              "codex",
+              "coding-agents",
+              "developer-tools",
+              "documentation",
+              "local-first",
+              "opencode",
+              "openspec",
+              "sdd",
+              "spec-driven-development",
+              "spec-viewer",
+              "specification",
+              "validation",
+              "web-ui"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -144,12 +255,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive browser viewer for OpenSpec directories - live-reloading documentation viewer with markdown rendering, file watching, and search",
+            "homepage": null,
             "id": 1120191001,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-03-05T16:58:17Z",
+            "open_issues": 0,
             "owner": "MusicAdam",
             "repo": "openspec-viewer",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "cli",
+              "developer-tools",
+              "documentation",
+              "fastify",
+              "markdown",
+              "openspec",
+              "specification",
+              "svelte",
+              "typescript",
+              "viewer"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -160,12 +287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Specboard is a web-based monitoring tool for tracking OpenSpec progress across Conductor workspaces",
+            "homepage": null,
             "id": 1168336632,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-07-17T06:38:05Z",
+            "open_issues": 0,
             "owner": "sflueckiger",
             "repo": "specboard",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         }
@@ -182,12 +314,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deterministic, local-first memory and guardrails for AI coding agents with no LLM in the hot path.",
+            "homepage": "https://www.npmjs.com/package/openlore",
             "id": 1146753014,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:33:24Z",
+            "open_issues": 3,
             "owner": "clay-good",
             "repo": "OpenLore",
-            "stars": 289
+            "stars": 289,
+            "topics": [
+              "adr",
+              "agentic-workflows",
+              "ai-agents",
+              "call-graph",
+              "code-navigation",
+              "codebase-analysis",
+              "coding-agents",
+              "dead-code-detection",
+              "developer-tools",
+              "infrastructure-as-code",
+              "knowledge-graph",
+              "living-documentation",
+              "llm-tools",
+              "mcp-server",
+              "model-context-protocol",
+              "scip",
+              "software-architecture",
+              "static-analysis",
+              "test-impact-analysis",
+              "tree-sitter"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -198,12 +356,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ralph loop + OpenSpec integration for Cursor, OpenCode and ClaudeCode heavy lifting.",
+            "homepage": null,
             "id": 1139574277,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-01-27T08:00:59Z",
+            "open_issues": 2,
             "owner": "wenqingyu",
             "repo": "ralphy-openspec",
-            "stars": 182
+            "stars": 182,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -214,12 +377,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenSpec GitFlow — structured AI engineering workflows with issue tracking",
+            "homepage": null,
             "id": 1225338289,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-19T15:14:38Z",
+            "open_issues": 1,
             "owner": "ricoyudog",
             "repo": "Coding_Corgi_flow",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -230,12 +398,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run many Codex & Claude agents in parallel without them overwriting each other. Isolated worktrees, file locks, PR-only merges. Auto-wires Oh My Codex, Oh My Claude, OpenSpec, and Caveman in every worktree.",
+            "homepage": "https://gitguardex.com/",
             "id": 1206389206,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:29:41Z",
+            "open_issues": 8,
             "owner": "opencue",
             "repo": "gitguardex",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "agent-orchestration",
+              "caveman",
+              "claude",
+              "cli",
+              "codex",
+              "git-worktree",
+              "multi-agent",
+              "npm",
+              "npm-package",
+              "openspec",
+              "parallel-agents",
+              "parallel-programming"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -246,12 +432,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于状态机的多智能体协作开发框架。由一个主调度器（MainOrchestrator）驱动 8 个专职子 Agent，通过严格的阶段跃迁规则和 OpenSpec 标准化文档协议，完成从需求分析到交付归档的完整开发生命周期。",
+            "homepage": null,
             "id": 1225844031,
             "language": "PowerShell",
+            "license": null,
             "last_commit": "2026-05-03T08:37:56Z",
+            "open_issues": 0,
             "owner": "gmf520",
             "repo": "openspec-agents",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "agents",
+              "ai-workflow",
+              "multi-agents",
+              "openspec"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -262,12 +458,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenSpec + Playwright Test Agents integration for automated E2E verification",
+            "homepage": "https://openspec-playwright.pages.dev/",
             "id": 1192537344,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T08:37:18Z",
+            "open_issues": 0,
             "owner": "wxhou",
             "repo": "openspec-playwright",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -278,12 +479,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Formal verification for OpenSpec plans. Parses markdown into ASTs, translates SHALL requirements to LTL, and runs SPIN to prove or disprove correctness — no BFS fallback, real model checking.",
+            "homepage": null,
             "id": 1271642826,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-08-13T10:00:32Z",
+            "open_issues": 3,
             "owner": "autonomous-toaster",
             "repo": "veriplan",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -294,12 +500,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OmniDev Kit is an advanced AI coding assistant enhancement toolkit that integrates the core essence of top open-source AI frameworks (such as `obra/superpowers`, `OpenSpec`, `planning-with-files`, and `everything-claude-code`)",
+            "homepage": null,
             "id": 1194166202,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T02:39:28Z",
+            "open_issues": 0,
             "owner": "zayeagle",
             "repo": "omnidev-kit",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -310,12 +521,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenSpec POSIX Implementation",
+            "homepage": null,
             "id": 1114757282,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-01-19T18:07:25Z",
+            "open_issues": 1,
             "owner": "biancalana",
             "repo": "OpenSpec.sh",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         }
@@ -332,12 +548,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a companion workflow plugin for opencode that combines openspec and superpowers",
+            "homepage": "https://fastknifes.github.io/openflow/",
             "id": 1178677163,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-06-04T12:27:30Z",
+            "open_issues": 1,
             "owner": "fastknifes",
             "repo": "openflow",
-            "stars": 180
+            "stars": 180,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -348,12 +569,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An OpenCode plugin that integrates OpenSpec, adding a dedicated 'openspec-plan' mode for creating and editing spec files.",
+            "homepage": null,
             "id": 1137372239,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-24T08:21:37Z",
+            "open_issues": 5,
             "owner": "Octane0411",
             "repo": "opencode-plugin-openspec",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "ai-agent",
+              "architecture-planning",
+              "open-code",
+              "opencode",
+              "opencode-plugin",
+              "openspec",
+              "sdd",
+              "spec",
+              "spec-driven-development",
+              "specification",
+              "specify"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -364,12 +602,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ClawSpec is an OpenClaw plugin that brings OpenSpec workflows into chat with visible planning, durable background execution, and channel-scoped project state.",
+            "homepage": null,
             "id": 1191401928,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-03-29T13:22:11Z",
+            "open_issues": 0,
             "owner": "bytegh",
             "repo": "clawspec",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "openclaw",
+              "openclaw-plugin",
+              "openspec",
+              "spec-driven-development"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -380,12 +628,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spec-Driven Development for Claude Code — ADRs, OpenSpec specs, sprint planning, parallel agents, PR review, Docusaurus docs, and artifact graph.",
+            "homepage": "https://joestump.github.io/claude-plugin-sdd/",
             "id": 1156734014,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-19T11:07:45Z",
+            "open_issues": 4,
             "owner": "joestump",
             "repo": "claude-plugin-sdd",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "canonical-github"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -396,12 +651,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for OpenSpec - spec-driven development with dashboard and approval workflow",
+            "homepage": null,
             "id": 1117309858,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-12T08:00:59Z",
+            "open_issues": 2,
             "owner": "Lumiaqian",
             "repo": "openspec-mcp",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -412,12 +672,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codagent Agent Skills is a plugin that provides a set of focused skills for each stage of software development.",
+            "homepage": null,
             "id": 1160520597,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-29T19:35:42Z",
+            "open_issues": 1,
             "owner": "Codagent-AI",
             "repo": "agent-skills",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -428,12 +693,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A VS Code extension that gives GitHub Copilot users a guided, spec-driven workflow using OpenSpec.",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=atman-dev.openspec-for-copilot",
             "id": 1100915384,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-22T00:09:18Z",
+            "open_issues": 0,
             "owner": "atman-33",
             "repo": "openspec-for-copilot",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "developer-tools",
+              "github-copilot",
+              "openspec",
+              "spec-driven-development",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -444,12 +720,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bridges Superpowers + OpenSpec workflows into OpenCode with enforced worktree isolation.",
+            "homepage": "https://www.npmjs.com/package/@moyaspace/openspec-superpowers-opencode",
             "id": 1246780166,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-10T12:03:18Z",
+            "open_issues": 1,
             "owner": "moyaspace",
             "repo": "openspec-superpowers-opencode",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "ai-coding",
+              "bridge",
+              "code-generation",
+              "cross-platform",
+              "developer-tools",
+              "git-worktree",
+              "opencode",
+              "openspec",
+              "parallel-development",
+              "sdd",
+              "spec-driven",
+              "superpowers",
+              "workflow",
+              "worktree"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -460,12 +756,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenSpec Zed extension for my fellow Rustacean sympathizers!",
+            "homepage": null,
             "id": 1181124738,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-13T23:30:30Z",
+            "open_issues": 0,
             "owner": "uwzis",
             "repo": "OpenSpec-Zed",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -476,12 +777,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenSpec skills for Claude Code - Spec-Driven Development framework",
+            "homepage": null,
             "id": 1141621564,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-25T16:32:21Z",
+            "open_issues": 0,
             "owner": "chyiiiiiiiiiiii",
             "repo": "openspec-skills",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -492,12 +798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Claude Code plugin that brings together skills, rules, and hooks with OpenSpec's spec-driven workflow, curated with a taste for good coding.",
+            "homepage": null,
             "id": 1194645424,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-04-27T13:41:29Z",
+            "open_issues": 1,
             "owner": "eugeniosegala",
             "repo": "claude-connoisseur",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -508,12 +819,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neovim control surface for OpenSpec workflows.",
+            "homepage": null,
             "id": 1243434144,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-07-04T15:02:26Z",
+            "open_issues": 0,
             "owner": "ctchen222",
             "repo": "openspec.nvim",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "ai-coding",
+              "developer-tools",
+              "lua",
+              "neovim",
+              "neovim-plugin",
+              "nvim",
+              "openspec",
+              "spec-driven-development",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -524,12 +850,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emacs interface for OpenSpec, a tool for spec-driven AI coding assistant development",
+            "homepage": null,
             "id": 1140168739,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-06T21:37:48Z",
+            "open_issues": 0,
             "owner": "Zacalot",
             "repo": "openspec.el",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -540,12 +871,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IntelliJ IDEA plugin for the OpenSpec spec-driven development framework",
+            "homepage": "https://plugins.jetbrains.com/plugin/30678-openspec",
             "id": 1186733149,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T01:28:45Z",
+            "open_issues": 0,
             "owner": "johnnyblabs",
             "repo": "intellij-openspec",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "ai-tools",
+              "intellij-plugin",
+              "jetbrains",
+              "openspec",
+              "spec-driven-development"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -556,12 +898,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenSpec spec-driven development plugin for OpenCode",
+            "homepage": null,
             "id": 1147059254,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-02-01T05:47:52Z",
+            "open_issues": 0,
             "owner": "AngDrew",
             "repo": "opencode-openspec",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -572,12 +919,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A VSCode/Cursor extension that provides a visual dashboard for OpenSpec, making it easier to manage changes, view specs, and track tasks without leaving your editor.",
+            "homepage": null,
             "id": 1155300280,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T05:08:01Z",
+            "open_issues": 4,
             "owner": "RandyZ",
             "repo": "openspec-ext",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -588,12 +940,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adds a solid-RED opsx:tdd gate to OpenSpec — real failing tests, not expect.fail placeholders",
+            "homepage": null,
             "id": 1251440975,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-30T22:02:20Z",
+            "open_issues": 1,
             "owner": "yuritoledo",
             "repo": "openspec-tdd",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "claude-code",
+              "claude-code-plugin",
+              "openspec",
+              "tdd",
+              "testing",
+              "vitest"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -604,12 +968,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude Code plugin: Feature development workflow with OpenSpec artifact-driven documentation",
+            "homepage": null,
             "id": 1180061358,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-04-10T10:53:59Z",
+            "open_issues": 0,
             "owner": "mbertani",
             "repo": "opsx-feature-dev",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -620,12 +989,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Openspec UI is a VS Code extension for browsing, opening, and understanding Openspec changes without leaving the editor.",
+            "homepage": null,
             "id": 1293144667,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-28T08:12:45Z",
+            "open_issues": 0,
             "owner": "coderj001",
             "repo": "openspec-ui-vscode",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -636,12 +1010,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenSpec docs for VitePress",
+            "homepage": "https://stritti.github.io/vitepress-plugin-openspec/",
             "id": 1176663394,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T09:46:15Z",
+            "open_issues": 5,
             "owner": "stritti",
             "repo": "vitepress-plugin-openspec",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "openspec",
+              "vitepress",
+              "vitepress-plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         }
@@ -658,12 +1041,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "源码级融合 OpenSpec 规划引擎 + Superpowers 执行纪律的 AI 编程工作流插件。17 平台支持，9 skills，Spec-first，契约驱动。",
+            "homepage": "https://www.npmjs.com/package/spec-superflow",
             "id": 1280958966,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T07:24:52Z",
+            "open_issues": 8,
             "owner": "MageByte-Zero",
             "repo": "spec-superflow",
-            "stars": 774
+            "stars": 776,
+            "topics": [
+              "ai-coding",
+              "amazon-q",
+              "claude-code",
+              "cline",
+              "codex",
+              "copilot-cli",
+              "cursor",
+              "gemini-cli",
+              "opencode",
+              "opensource",
+              "openspec",
+              "skills",
+              "spec-driven-development",
+              "spec-first",
+              "superpowers",
+              "tdd",
+              "trae",
+              "windsurf",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -674,12 +1082,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一套融合了bmad、spec-kit、OpenSpec、GSD、claude-task-master、superpowers、gstack、skills的 AI 编程规范化流程",
+            "homepage": null,
             "id": 1230413282,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-05-13T07:25:34Z",
+            "open_issues": 1,
             "owner": "rihebty",
             "repo": "flow-kit",
-            "stars": 392
+            "stars": 392,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -690,12 +1103,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community-contributed OpenSpec schemas. First bridge: superpowers-bridge (OpenSpec + obra/superpowers integration with retrospective artifact).",
+            "homepage": null,
             "id": 1227296774,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-10T09:01:42Z",
+            "open_issues": 5,
             "owner": "JiangWay",
             "repo": "openspec-schemas",
-            "stars": 217
+            "stars": 217,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -706,12 +1124,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一套带有记忆和自学习的harness-team-skills企业级编程技能组合库 针对superpowers+openspec 进行按需组合使用,适用于个人与团队协作进行AI编程",
+            "homepage": null,
             "id": 1206539095,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2026-06-12T06:34:23Z",
+            "open_issues": 0,
             "owner": "SYZ-Coder",
             "repo": "superpowers-openspec-team-skills",
-            "stars": 189
+            "stars": 189,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -722,12 +1145,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenSpec Plus — Agentic skills that enhance OpenSpec's Spec-Driven Development through better discovery, requirements, design decisions, execution planning and execution. Works with Claude Code, OpenCode, Github Copilot and any other AI coding agents",
+            "homepage": "https://github.com/sudokar/openspec-plus",
             "id": 1269871381,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-23T14:50:46Z",
+            "open_issues": 0,
             "owner": "sudokar",
             "repo": "openspec-plus",
-            "stars": 154
+            "stars": 154,
+            "topics": [
+              "agentic-skills",
+              "ai",
+              "ai-assisted-development",
+              "ai-code-generation",
+              "ai-code-quality",
+              "claude-code",
+              "code-quality",
+              "coding",
+              "coding-agent",
+              "devin",
+              "github-copilot",
+              "opencode",
+              "openspec",
+              "pi-agent",
+              "sdlc",
+              "skills",
+              "spec-driven-development",
+              "tdd",
+              "test-driven-development",
+              "windsurf"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -738,12 +1187,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of OpenSpec Custom Schema for Workflows other than standard spec-driven schema that is included in OpenSpec.",
+            "homepage": null,
             "id": 1155570042,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-16T14:16:53Z",
+            "open_issues": 1,
             "owner": "intent-driven-dev",
             "repo": "openspec-schemas",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "aicoding",
+              "architectural-decision-records",
+              "c4-model",
+              "openspec",
+              "sdd",
+              "spec-driven-development",
+              "specdrivendevelopment"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -754,12 +1216,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "规格驱动 + 工程纪律的完整开发工作流 Skill，协调 OpenSpec（规格管理）和 Superpowers（TDD + 子代理审查），从需求到实现到归档一条流程走完。",
+            "homepage": null,
             "id": 1241254567,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-05T14:14:39Z",
+            "open_issues": 2,
             "owner": "wind7rui",
             "repo": "HyperSpec",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -770,12 +1237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenSpec + SuperPowers",
+            "homepage": null,
             "id": 1228251879,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-05-26T20:05:17Z",
+            "open_issues": 0,
             "owner": "danielhanold",
             "repo": "superspec",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -786,12 +1258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A stronger OpenSpec workflow that integrates superpowers-style planning, apply, and verification discipline without changing the default /opsx command surface.",
+            "homepage": null,
             "id": 1193444867,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-27T08:42:12Z",
+            "open_issues": 0,
             "owner": "Veath",
             "repo": "openspec-spec-driven-superpowers",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -802,12 +1279,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1194880547,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-09T00:19:26Z",
+            "open_issues": 0,
             "owner": "kmhalvin",
             "repo": "openspec-schemas",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -818,12 +1300,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evidence-driven review workflow for OpenSpec — adds a review gate between proposal and specs/design",
+            "homepage": null,
             "id": 1193240529,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-03-27T02:48:45Z",
+            "open_issues": 0,
             "owner": "griffithkk3-del",
             "repo": "openspec-reviewed-workflow",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -834,12 +1321,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community OpenSpec custom schemas for spec-driven AI workflows. First: e2e-runbooks, behaviour-only end-to-end capability tests an AI agent can run and verify.",
+            "homepage": "https://github.com/Lukk17/openspec-schemas/tree/master/openspec/schemas/e2e-runbooks",
             "id": 1246793731,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-25T10:13:33Z",
+            "open_issues": 0,
             "owner": "Lukk17",
             "repo": "openspec-schemas",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "e2e-testing",
+              "openspec",
+              "openspec-schema",
+              "spec-driven-development"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         }
@@ -856,12 +1354,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenSpec and OpenCode template for intent-driven development with specs, ADRs, C4 diagrams, Gherkin, TDD, Multi-Model Adversarial Spec Authoring, Glossary for Domain Terms, and reusable engineering workflows. This also makes OpenSpec spec-as-source capable.",
+            "homepage": "https://intent-driven.dev",
             "id": 1234574246,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T02:09:39Z",
+            "open_issues": 2,
             "owner": "intent-driven-dev",
             "repo": "intent-driven-template",
-            "stars": 120
+            "stars": 120,
+            "topics": [
+              "adversarial-ai",
+              "aicoding",
+              "architectural-decision-records",
+              "c4model",
+              "context-engineering",
+              "ddd",
+              "ddd-patterns",
+              "domain-driven-design",
+              "git-worktrees",
+              "harness-engineering",
+              "multi-model",
+              "opencode",
+              "openspec",
+              "sdd",
+              "skills",
+              "spec-as-source",
+              "spec-driven-development",
+              "specdrivendevelopment",
+              "superpowers",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -872,12 +1396,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一套成熟完善的开箱即用的 Claude Code Harness Engineering 模板。三层自动化（安全/感知/审查），集成 LSP、OpenSpec SDD 工作流和 AI 一键初始化。新项目和已有项目均可使用。",
+            "homepage": null,
             "id": 1254494406,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-03T08:01:55Z",
+            "open_issues": 0,
             "owner": "chenklein26-maker",
             "repo": "Harness-Starter",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -888,12 +1417,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 Claude Code + OpenSpec + Superpowers   的全栈 AI 开发模板",
+            "homepage": null,
             "id": 1214145978,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-05-03T03:48:21Z",
+            "open_issues": 0,
             "owner": "beautifulSoup",
             "repo": "speccoding-template",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "ai-coding",
+              "claude-code",
+              "openspec",
+              "spec-coding",
+              "superpower",
+              "superpowers"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -904,12 +1445,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nuxt + Supabase 快速開發範本，含 AI 輔助工作流程（Claude Code）、TDD、Spectra (OpenSpec)",
+            "homepage": null,
             "id": 1138511910,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:25:29Z",
+            "open_issues": 1,
             "owner": "YuDefine",
             "repo": "nuxt-supabase-starter",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "ai-assisted",
+              "claude-code",
+              "nuxt",
+              "supabase",
+              "tdd",
+              "template",
+              "typescript",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -920,12 +1475,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prepare any codebase for AI. Wires OpenCode, OpenSpec, codegraph, and agentmemory into a multi-agent development workflow powered by native parallel subagents.",
+            "homepage": "https://plainconceptsplatform.github.io/agent-harness/",
             "id": 1226309398,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:34:32Z",
+            "open_issues": 0,
             "owner": "PlainConceptsPlatform",
             "repo": "agent-harness",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         }
@@ -942,12 +1502,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenSpec Practical Guide",
+            "homepage": "https://forceinjection.github.io/OpenSpec-practise/",
             "id": 1143271095,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T07:47:31Z",
+            "open_issues": 1,
             "owner": "ForceInjection",
             "repo": "OpenSpec-practise",
-            "stars": 597
+            "stars": 597,
+            "topics": [
+              "sdd",
+              "spec-driven-development"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -958,12 +1526,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive comparison of the spec-driven development tools — lockstep workflow walkthroughs, a scoring heatmap across use cases, and a decision guide, live at cameronsjo.github.io/spec-compare",
+            "homepage": null,
             "id": 1102541103,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T20:39:02Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:00:18Z",
+            "open_issues": 3,
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -974,12 +1547,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive comparison of the spec-driven development tools — lockstep workflow walkthroughs, a scoring heatmap across use cases, and a decision guide, live at cameronsjo.github.io/spec-compare",
+            "homepage": null,
             "id": 1102541103,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T20:39:02Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:00:18Z",
+            "open_issues": 3,
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -990,12 +1568,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1130213884,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-05T06:04:14Z",
+            "open_issues": 2,
             "owner": "sohaha",
             "repo": "studyzy-OpenSpec-cn",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -1006,12 +1589,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenSpec 中文社区文档",
+            "homepage": "https://openspec.radebit.com",
             "id": 1177603538,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-05-26T03:16:27Z",
+            "open_issues": 0,
             "owner": "radebit",
             "repo": "OpenSpec-Docs-zh",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "ai-coding",
+              "docs",
+              "docs-zh-cn",
+              "openspec"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -1022,12 +1615,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive, evidence-based comparison of techniques, methodologies, and frameworks for structured AI-assisted software development",
+            "homepage": "https://olivomarco.github.io/genai-development-techniques/",
             "id": 1208665665,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-08T21:03:58Z",
+            "open_issues": 1,
             "owner": "olivomarco",
             "repo": "genai-development-techniques",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "ai",
+              "bmad-method",
+              "context-engineering",
+              "genai",
+              "gsd",
+              "hve",
+              "openspec",
+              "programming",
+              "ralph-wiggum",
+              "speckit",
+              "squad"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -1038,12 +1648,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A proctice project using OpenSpec.",
+            "homepage": null,
             "id": 1195919963,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-04-07T03:33:07Z",
+            "open_issues": 0,
             "owner": "gqcn",
             "repo": "openspec-practice",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -1054,12 +1669,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1182846235,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-09T01:09:44Z",
+            "open_issues": 1,
             "owner": "aiyinluya",
             "repo": "openspec-tutorial",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -1070,12 +1690,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenSpec 中文学习指南 - 帮助中国开发者快速上手 OpenSpec",
+            "homepage": null,
             "id": 1173146285,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-03-05T03:55:16Z",
+            "open_issues": 0,
             "owner": "xiaojian98",
             "repo": "openspec-learning-guide",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         }
@@ -1092,12 +1717,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "novel-write 的Openspec 方法论版本的探索",
+            "homepage": null,
             "id": 1080592506,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-10-24T00:21:16Z",
+            "open_issues": 1,
             "owner": "wordflowlab",
             "repo": "novel-writer-openspec",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -1108,12 +1738,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a suit of spec sysytem for AI video production based antigravity",
+            "homepage": null,
             "id": 1152043037,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-15T18:17:02Z",
+            "open_issues": 0,
             "owner": "mr7thing",
             "repo": "openspec-video",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         }
@@ -1130,12 +1765,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+            "homepage": "https://github.github.com/spec-kit/",
             "id": 1042367133,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:42:14Z",
+            "open_issues": 333,
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 132056
+            "stars": 132077,
+            "topics": [
+              "ai",
+              "copilot",
+              "development",
+              "engineering",
+              "prd",
+              "spec",
+              "spec-driven"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -1146,12 +1794,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+            "homepage": null,
             "id": 1116260703,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-31T17:46:54Z",
+            "open_issues": 0,
             "owner": "gsd-build",
             "repo": "get-shit-done",
-            "stars": 64626
+            "stars": 64628,
+            "topics": [
+              "claude-code",
+              "context-engineering",
+              "meta-prompting",
+              "spec-driven-development"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -1162,12 +1820,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Breakthrough Method for Agile Ai Driven Development",
+            "homepage": null,
             "id": 965615190,
             "language": "JavaScript",
-            "last_commit": "2026-08-29T01:10:25Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:44:40Z",
+            "open_issues": 125,
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 52423
+            "stars": 52427,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -1178,12 +1841,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kiro is an agentic IDE that works alongside you from prototype to production.",
+            "homepage": "https://kiro.dev",
             "id": 1003854381,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-27T16:33:53Z",
+            "open_issues": 1593,
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4231
+            "stars": 4231,
+            "topics": [
+              "ai",
+              "ide",
+              "kiro",
+              "spec"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -1194,12 +1867,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spec-Driven Development for serious software developers. Spec Coding with with Claude, Cursor, Gemini, Codex. Kanban dashboard, git worktrees, auto-merge and more.",
+            "homepage": "https://spec-kitty.ai",
             "id": 1072945981,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:21:01Z",
+            "open_issues": 672,
             "owner": "Priivacy-ai",
             "repo": "spec-kitty",
-            "stars": 1572
+            "stars": 1572,
+            "topics": [
+              "agentic-coding",
+              "ai-agents",
+              "ai-coding-workflow",
+              "ai-development-dashboard",
+              "ai-progress-tracking",
+              "ai-workflow",
+              "claude-code",
+              "code-workflow",
+              "coding-agent-orchestration",
+              "cursor-agent",
+              "development-kanban",
+              "gemini-cli",
+              "github-copilot",
+              "kanban-workflow",
+              "multi-agent-support",
+              "spec-driven-development",
+              "spec-workflow-automation",
+              "structured-development",
+              "vibe-coding",
+              "windsurf"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -1210,12 +1909,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open standard for software intent in the AI agent era.",
+            "homepage": null,
             "id": 1289476943,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-19T03:24:03Z",
+            "open_issues": 3,
             "owner": "gokulrajaram",
             "repo": "ProductSpec",
-            "stars": 277
+            "stars": 277,
+            "topics": [
+              "ai-agents",
+              "developer-tools",
+              "markdown",
+              "openspec",
+              "prd",
+              "product-management",
+              "productspec",
+              "spec-driven-development",
+              "speckit"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -1226,12 +1940,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spec Driven Development - Tessl Tile",
+            "homepage": null,
             "id": 1110575943,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-03-30T17:28:43Z",
+            "open_issues": 0,
             "owner": "tesslio",
             "repo": "spec-driven-development-tile",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -1242,12 +1961,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A spec-driven framework that turns ideas into production code through formal analysis chains, automated testing, and structured delivery.",
+            "homepage": null,
             "id": 1134039005,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-31T03:33:46Z",
+            "open_issues": 5,
             "owner": "NSEvteev",
             "repo": "FullSpec",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "ai-development",
+              "claude-code",
+              "development-process",
+              "development-workflow",
+              "fullspec",
+              "fullstack",
+              "openspec",
+              "project-template",
+              "spec-driven-development",
+              "template"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -1258,12 +1993,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nano web inspired version of Kiro IDE's Spec Mode",
+            "homepage": "https://openspec.app",
             "id": 1056210724,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-11-03T01:40:27Z",
+            "open_issues": 18,
             "owner": "spenceriam",
             "repo": "OpenSpecification",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -1274,12 +2014,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spec-Driven Development skill pack for the Pi coding agent: steering docs, .status gates, EARS, and a PRD→SPEC→TASKS→EXEC→REVIEW pipeline.",
+            "homepage": "https://felipefontoura.com/articles/spec-driven-development-with-claude-code",
             "id": 1239353812,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-04T05:05:25Z",
+            "open_issues": 0,
             "owner": "felipefontoura",
             "repo": "pi-sdd-kit",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "ai-agents",
+              "claude-code",
+              "coding-agent",
+              "llm",
+              "pi",
+              "pi-agent",
+              "pi-dev",
+              "pi-package",
+              "sdd",
+              "skills",
+              "spec-driven-development"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -1290,12 +2047,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenSpec-compatible contract-driven workflow for AI full-stack development",
+            "homepage": null,
             "id": 1262594832,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-09T03:12:14Z",
+            "open_issues": 0,
             "owner": "Pluviobyte",
             "repo": "ContractSpec",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -1306,12 +2068,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI原生数据开发工具，数据开发团队的OpenSpec。",
+            "homepage": null,
             "id": 1104405918,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-12-03T02:11:21Z",
+            "open_issues": 0,
             "owner": "raydez",
             "repo": "dataspec",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -1322,12 +2089,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "validatable spec driven development (inspired by openspec and kiro)",
+            "homepage": "https://connerohnesorge.github.io/spectr/",
             "id": 1093533770,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-29T21:55:42Z",
+            "open_issues": 26,
             "owner": "connerohnesorge",
             "repo": "spectr",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "bubbletea",
+              "cli",
+              "golang",
+              "kiro",
+              "kong-cli",
+              "openspec",
+              "sdd",
+              "spec-driven-development",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         }
@@ -1336,15 +2118,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:48:50.081Z",
+    "last_updated": "2026-08-29T05:05:20.579Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of awesome OpenSpec resources and some genereric Spec-Driven-Development resources.",
+      "homepage": "https://speclib.github.io/awesome-openspec/",
       "id": 1167559180,
       "language": "JavaScript",
+      "license": "CC0-1.0",
       "last_commit": "2026-07-17T12:34:52Z",
+      "open_issues": 1,
       "owner": "speclib",
       "repo": "awesome-openspec",
-      "stars": 65
+      "stars": 65,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "openspec",
+        "spec-driven-development"
+      ]
     },
     "original_repository_sha": "7fbf54073161e3921390f0d72a34f2831e91141d",
     "enhanced_repository": "enhansome/enhansome-openspec",
