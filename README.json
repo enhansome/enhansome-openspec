@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-28T20:08:11Z",
-            "open_issues": 201,
+            "open_issues": 203,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 66641,
+            "stars": 66716,
             "topics": [
               "ai",
               "context-engineering",
@@ -48,10 +48,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-28T20:08:11Z",
-            "open_issues": 201,
+            "open_issues": 203,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 66641,
+            "stars": 66716,
             "topics": [
               "ai",
               "context-engineering",
@@ -89,7 +89,7 @@
             "open_issues": 1,
             "owner": "jixoai",
             "repo": "openspecui",
-            "stars": 105,
+            "stars": 106,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -319,11 +319,11 @@
             "id": 1146753014,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T20:34:43Z",
+            "last_commit": "2026-08-30T21:11:09Z",
             "open_issues": 1,
             "owner": "clay-good",
             "repo": "OpenLore",
-            "stars": 289,
+            "stars": 290,
             "topics": [
               "adr",
               "agentic-workflows",
@@ -1112,7 +1112,7 @@
             "open_issues": 5,
             "owner": "JiangWay",
             "repo": "openspec-schemas",
-            "stars": 219,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1133,7 +1133,7 @@
             "open_issues": 0,
             "owner": "SYZ-Coder",
             "repo": "superpowers-openspec-team-skills",
-            "stars": 189,
+            "stars": 190,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1150,7 +1150,7 @@
             "id": 1269871381,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-23T14:50:46Z",
+            "last_commit": "2026-08-30T12:23:53Z",
             "open_issues": 0,
             "owner": "sudokar",
             "repo": "openspec-plus",
@@ -1532,10 +1532,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-29T03:00:18Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 129,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1553,10 +1553,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-29T03:00:18Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 129,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1774,7 +1774,7 @@
             "open_issues": 336,
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 132173,
+            "stars": 132336,
             "topics": [
               "ai",
               "copilot",
@@ -1803,7 +1803,7 @@
             "open_issues": 0,
             "owner": "gsd-build",
             "repo": "get-shit-done",
-            "stars": 64629,
+            "stars": 64622,
             "topics": [
               "claude-code",
               "context-engineering",
@@ -1825,11 +1825,11 @@
             "id": 965615190,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T17:48:32Z",
-            "open_issues": 30,
+            "last_commit": "2026-08-30T20:57:26Z",
+            "open_issues": 32,
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 52446,
+            "stars": 52476,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1847,10 +1847,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-08-27T16:33:53Z",
-            "open_issues": 1601,
+            "open_issues": 1606,
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4237,
+            "stars": 4240,
             "topics": [
               "ai",
               "ide",
@@ -1872,11 +1872,11 @@
             "id": 1072945981,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T14:37:56Z",
-            "open_issues": 674,
+            "last_commit": "2026-08-30T07:09:20Z",
+            "open_issues": 680,
             "owner": "Priivacy-ai",
             "repo": "spec-kitty",
-            "stars": 1573,
+            "stars": 1574,
             "topics": [
               "agentic-coding",
               "ai-agents",
@@ -1918,7 +1918,7 @@
             "open_issues": 3,
             "owner": "gokulrajaram",
             "repo": "ProductSpec",
-            "stars": 277,
+            "stars": 279,
             "topics": [
               "ai-agents",
               "developer-tools",
@@ -2118,7 +2118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:02:21.765Z",
+    "last_updated": "2026-08-30T21:18:14.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome OpenSpec resources and some genereric Spec-Driven-Development resources.",
