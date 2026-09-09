@@ -15,11 +15,11 @@
             "id": 1032459340,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T17:54:52Z",
-            "open_issues": 239,
+            "last_commit": "2026-09-09T20:59:37Z",
+            "open_issues": 225,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 67664,
+            "stars": 67800,
             "topics": [
               "ai",
               "context-engineering",
@@ -47,11 +47,11 @@
             "id": 1032459340,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T17:54:52Z",
-            "open_issues": 239,
+            "last_commit": "2026-09-09T20:59:37Z",
+            "open_issues": 225,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 67664,
+            "stars": 67800,
             "topics": [
               "ai",
               "context-engineering",
@@ -89,7 +89,7 @@
             "open_issues": 1,
             "owner": "jixoai",
             "repo": "openspecui",
-            "stars": 110,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -110,7 +110,7 @@
             "open_issues": 0,
             "owner": "spekhq",
             "repo": "spek",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "agentcoding",
               "openspec",
@@ -135,7 +135,7 @@
             "open_issues": 0,
             "owner": "ToruAI",
             "repo": "openspec-ui",
-            "stars": 30,
+            "stars": 31,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -225,7 +225,7 @@
             "open_issues": 0,
             "owner": "oioi555",
             "repo": "openspec-webui",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "ai-tools",
               "ai-workflow",
@@ -319,7 +319,7 @@
             "id": 1146753014,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T13:54:17Z",
+            "last_commit": "2026-09-09T11:32:34Z",
             "open_issues": 2,
             "owner": "clay-good",
             "repo": "OpenLore",
@@ -463,7 +463,7 @@
             "id": 1192537344,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T02:30:56Z",
+            "last_commit": "2026-09-09T10:16:29Z",
             "open_issues": 0,
             "owner": "wxhou",
             "repo": "openspec-playwright",
@@ -876,7 +876,7 @@
             "id": 1186733149,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T18:04:49Z",
+            "last_commit": "2026-09-09T03:26:37Z",
             "open_issues": 0,
             "owner": "johnnyblabs",
             "repo": "intellij-openspec",
@@ -904,7 +904,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-08T08:13:38Z",
-            "open_issues": 3,
+            "open_issues": 1,
             "owner": "RandyZ",
             "repo": "openspec-ext",
             "stars": 7,
@@ -1091,7 +1091,7 @@
             "open_issues": 1,
             "owner": "rihebty",
             "repo": "flow-kit",
-            "stars": 394,
+            "stars": 399,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1196,7 +1196,7 @@
             "open_issues": 1,
             "owner": "intent-driven-dev",
             "repo": "openspec-schemas",
-            "stars": 93,
+            "stars": 94,
             "topics": [
               "aicoding",
               "architecture-decision-records",
@@ -1363,7 +1363,7 @@
             "open_issues": 3,
             "owner": "intent-driven-dev",
             "repo": "intent-driven-template",
-            "stars": 126,
+            "stars": 128,
             "topics": [
               "adversarial-ai",
               "aicoding",
@@ -1426,7 +1426,7 @@
             "open_issues": 0,
             "owner": "beautifulSoup",
             "repo": "speccoding-template",
-            "stars": 62,
+            "stars": 61,
             "topics": [
               "ai-coding",
               "claude-code",
@@ -1450,7 +1450,7 @@
             "id": 1138511910,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T20:24:47Z",
+            "last_commit": "2026-09-09T13:13:29Z",
             "open_issues": 1,
             "owner": "YuDefine",
             "repo": "nuxt-supabase-starter",
@@ -1480,7 +1480,7 @@
             "id": 1226309398,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T11:32:20Z",
+            "last_commit": "2026-09-09T20:47:13Z",
             "open_issues": 0,
             "owner": "PlainConceptsPlatform",
             "repo": "agent-harness",
@@ -1508,7 +1508,7 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-09-02T10:13:44Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "ForceInjection",
             "repo": "OpenSpec-practise",
             "stars": 608,
@@ -1535,7 +1535,7 @@
             "open_issues": 5,
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 136,
+            "stars": 138,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1556,7 +1556,7 @@
             "open_issues": 5,
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 136,
+            "stars": 138,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1770,11 +1770,11 @@
             "id": 1042367133,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-08T21:04:10Z",
-            "open_issues": 319,
+            "last_commit": "2026-09-09T20:33:07Z",
+            "open_issues": 304,
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 134173,
+            "stars": 134408,
             "topics": [
               "ai",
               "copilot",
@@ -1803,7 +1803,7 @@
             "open_issues": 0,
             "owner": "gsd-build",
             "repo": "get-shit-done",
-            "stars": 64575,
+            "stars": 64568,
             "topics": [
               "claude-code",
               "context-engineering",
@@ -1825,11 +1825,11 @@
             "id": 965615190,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T20:52:25Z",
+            "last_commit": "2026-09-09T05:32:17Z",
             "open_issues": 32,
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 52797,
+            "stars": 52834,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1847,10 +1847,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-08-27T16:33:53Z",
-            "open_issues": 1618,
+            "open_issues": 1626,
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4275,
+            "stars": 4276,
             "topics": [
               "ai",
               "ide",
@@ -1872,11 +1872,11 @@
             "id": 1072945981,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-08T21:10:55Z",
-            "open_issues": 756,
+            "last_commit": "2026-09-09T20:57:58Z",
+            "open_issues": 759,
             "owner": "spec-kitty",
             "repo": "spec-kitty",
-            "stars": 1613,
+            "stars": 1614,
             "topics": [
               "agentic-coding",
               "ai-agents",
@@ -1918,7 +1918,7 @@
             "open_issues": 4,
             "owner": "gokulrajaram",
             "repo": "ProductSpec",
-            "stars": 285,
+            "stars": 286,
             "topics": [
               "ai-agents",
               "developer-tools",
@@ -2115,10 +2115,78 @@
         }
       ],
       "title": "Competitors & Comparisons"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome AI-Driven Development",
+          "description": "Curated list of 500+ AI-powered development tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Awesome list of AI-Driven Development.",
+            "homepage": null,
+            "id": 802342616,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-09-07T15:45:52Z",
+            "open_issues": 4,
+            "owner": "eltociear",
+            "repo": "awesome-AI-driven-development",
+            "stars": 536,
+            "topics": [
+              "agent",
+              "ai",
+              "ai-development",
+              "ai-driven",
+              "aiagent",
+              "awesome",
+              "awesome-list",
+              "code-generation",
+              "developer-tools",
+              "generative-ai",
+              "llm",
+              "spec-driven-development",
+              "vibe-coding",
+              "vibecoding"
+            ]
+          },
+          "first_seen": "2026-09-09T21:03:02.712Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Spec-Driven Development",
+          "description": "A curated list of awesome resources for spec-driven developmeny.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated list of awesome resources for spec-driven development (SDD)",
+            "homepage": null,
+            "id": 1105029524,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-09-09T14:20:29Z",
+            "open_issues": 0,
+            "owner": "Engineering4AI",
+            "repo": "awesome-spec-driven-development",
+            "stars": 262,
+            "topics": [
+              "ai-assistant",
+              "software-engineering",
+              "spec-driven-development",
+              "vibe-coding"
+            ]
+          },
+          "first_seen": "2026-09-09T21:03:02.712Z"
+        }
+      ],
+      "title": "Related Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T21:17:18.626Z",
+    "last_updated": "2026-09-09T21:03:02.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome OpenSpec resources and some genereric Spec-Driven-Development resources.",
@@ -2126,7 +2194,7 @@
       "id": 1167559180,
       "language": "JavaScript",
       "license": "CC0-1.0",
-      "last_commit": "2026-07-17T12:34:52Z",
+      "last_commit": "2026-09-09T12:04:50Z",
       "open_issues": 1,
       "owner": "speclib",
       "repo": "awesome-openspec",
@@ -2138,7 +2206,7 @@
         "spec-driven-development"
       ]
     },
-    "original_repository_sha": "7fbf54073161e3921390f0d72a34f2831e91141d",
+    "original_repository_sha": "78924dbf571fa1abb4a226d87dab85466f7a3c56",
     "enhanced_repository": "enhansome/enhansome-openspec",
     "enhanced_repository_description": null,
     "title": "Awesome OpenSpec with stars"
