@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-17T16:05:08Z",
-            "open_issues": 228,
+            "open_issues": 232,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 68906,
+            "stars": 69287,
             "topics": [
               "ai",
               "context-engineering",
@@ -48,10 +48,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-17T16:05:08Z",
-            "open_issues": 228,
+            "open_issues": 232,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 68906,
+            "stars": 69287,
             "topics": [
               "ai",
               "context-engineering",
@@ -74,232 +74,269 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "OpenSpecUI",
-          "description": "Web interface for OpenSpec workflows with live mode and static export support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Dream for [OpenSpec](https://github.com/Fission-AI/OpenSpec)",
-            "homepage": "https://www.openspecui.com",
-            "id": 1103589952,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-17T20:40:41Z",
-            "open_issues": 1,
-            "owner": "jixoai",
-            "repo": "openspecui",
-            "stars": 114,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:48:50.081Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenSpecUI",
+              "description": "Web interface for OpenSpec workflows with live mode and static export support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Dream for [OpenSpec](https://github.com/Fission-AI/OpenSpec)",
+                "homepage": "https://www.openspecui.com",
+                "id": 1103589952,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-18T12:51:13Z",
+                "open_issues": 1,
+                "owner": "jixoai",
+                "repo": "openspecui",
+                "stars": 114,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:48:50.081Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Spek",
+              "description": "Read-only viewer with BDD highlighting and full-text search for web, VS Code, and IntelliJ.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A lightweight, read-only viewer for OpenSpec content",
+                "homepage": "https://spekhq.github.io/spek/demo.html",
+                "id": 1157212695,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-17T07:10:39Z",
+                "open_issues": 0,
+                "owner": "spekhq",
+                "repo": "spek",
+                "stars": 59,
+                "topics": [
+                  "agentcoding",
+                  "openspec",
+                  "sdd"
+                ]
+              },
+              "first_seen": "2026-08-29T01:48:50.081Z"
+            },
+            {
+              "node_type": "item",
+              "title": "openspec-ui",
+              "description": "Real-time Kanban dashboard for tracking changes across multiple repositories.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Web dashboard for OpenSpec — one kanban board across every repo, showing which artifact is next and what is blocked. OpenSpec 1.6 compatible.",
+                "homepage": null,
+                "id": 1125776334,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-07-27T00:29:56Z",
+                "open_issues": 0,
+                "owner": "ToruAI",
+                "repo": "openspec-ui",
+                "stars": 31,
+                "topics": [
+                  "ai-agents",
+                  "claude-code",
+                  "dashboard",
+                  "developer-tools",
+                  "kanban",
+                  "openspec",
+                  "react",
+                  "rust",
+                  "sdd",
+                  "spec-driven-development"
+                ]
+              },
+              "first_seen": "2026-08-29T01:48:50.081Z"
+            },
+            {
+              "node_type": "item",
+              "title": "speclens",
+              "description": "Desktop reader for tracing requirement evolution and commenting on specs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A desktop reader for OpenSpec projects - browse changes, trace how requirements evolved, and comment on specs, all from local folders",
+                "homepage": "https://dansreis.github.io/speclens/",
+                "id": 1256531647,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-14T07:39:07Z",
+                "open_issues": 6,
+                "owner": "dansreis",
+                "repo": "speclens",
+                "stars": 27,
+                "topics": [
+                  "desktop-app",
+                  "local-first",
+                  "markdown",
+                  "openspec",
+                  "react",
+                  "rust",
+                  "spec-driven-development",
+                  "specifications",
+                  "tauri",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-08-29T01:48:50.081Z"
+            },
+            {
+              "node_type": "item",
+              "title": "openspec-webui",
+              "description": "Interactive browser UI for browsing and managing specifications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Interactive browser UI for browsing and managing OpenSpec specifications",
+                "homepage": "https://www.npmjs.com/package/openspec-webui",
+                "id": 1198656430,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-14T08:35:58Z",
+                "open_issues": 1,
+                "owner": "oioi555",
+                "repo": "openspec-webui",
+                "stars": 14,
+                "topics": [
+                  "ai-tools",
+                  "ai-workflow",
+                  "claude-code",
+                  "cli",
+                  "codex",
+                  "coding-agents",
+                  "developer-tools",
+                  "documentation",
+                  "local-first",
+                  "opencode",
+                  "openspec",
+                  "sdd",
+                  "spec-driven-development",
+                  "spec-viewer",
+                  "specification",
+                  "validation",
+                  "web-ui"
+                ]
+              },
+              "first_seen": "2026-08-29T01:48:50.081Z"
+            },
+            {
+              "node_type": "item",
+              "title": "openspec-viewer",
+              "description": "Browser viewer with live reload, markdown rendering, and full-text search.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Interactive browser viewer for OpenSpec directories - live-reloading documentation viewer with markdown rendering, file watching, and search",
+                "homepage": null,
+                "id": 1120191001,
+                "language": "TypeScript",
+                "license": null,
+                "last_commit": "2026-03-05T16:58:17Z",
+                "open_issues": 0,
+                "owner": "MusicAdam",
+                "repo": "openspec-viewer",
+                "stars": 8,
+                "topics": [
+                  "cli",
+                  "developer-tools",
+                  "documentation",
+                  "fastify",
+                  "markdown",
+                  "openspec",
+                  "specification",
+                  "svelte",
+                  "typescript",
+                  "viewer"
+                ]
+              },
+              "first_seen": "2026-08-29T01:48:50.081Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Specboard",
+              "description": "Web dashboard for monitoring progress across workspaces with swimlane visualization.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Specboard is a web-based monitoring tool for tracking OpenSpec progress across Conductor workspaces",
+                "homepage": null,
+                "id": 1168336632,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2026-07-17T06:38:05Z",
+                "open_issues": 0,
+                "owner": "sflueckiger",
+                "repo": "specboard",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:48:50.081Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web & Desktop"
         },
         {
-          "node_type": "item",
-          "title": "Spek",
-          "description": "Read-only viewer with BDD highlighting and full-text search for web, VS Code, and IntelliJ.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A lightweight, read-only viewer for OpenSpec content",
-            "homepage": "https://spekhq.github.io/spek/demo.html",
-            "id": 1157212695,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-17T07:10:39Z",
-            "open_issues": 0,
-            "owner": "spekhq",
-            "repo": "spek",
-            "stars": 58,
-            "topics": [
-              "agentcoding",
-              "openspec",
-              "sdd"
-            ]
-          },
-          "first_seen": "2026-08-29T01:48:50.081Z"
-        },
-        {
-          "node_type": "item",
-          "title": "openspec-ui",
-          "description": "Real-time Kanban dashboard for tracking changes across multiple repositories.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Web dashboard for OpenSpec — one kanban board across every repo, showing which artifact is next and what is blocked. OpenSpec 1.6 compatible.",
-            "homepage": null,
-            "id": 1125776334,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-07-27T00:29:56Z",
-            "open_issues": 0,
-            "owner": "ToruAI",
-            "repo": "openspec-ui",
-            "stars": 31,
-            "topics": [
-              "ai-agents",
-              "claude-code",
-              "dashboard",
-              "developer-tools",
-              "kanban",
-              "openspec",
-              "react",
-              "rust",
-              "sdd",
-              "spec-driven-development"
-            ]
-          },
-          "first_seen": "2026-08-29T01:48:50.081Z"
-        },
-        {
-          "node_type": "item",
-          "title": "speclens",
-          "description": "Desktop reader for tracing requirement evolution and commenting on specs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A desktop reader for OpenSpec projects - browse changes, trace how requirements evolved, and comment on specs, all from local folders",
-            "homepage": "https://dansreis.github.io/speclens/",
-            "id": 1256531647,
-            "language": "TypeScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-14T07:39:07Z",
-            "open_issues": 6,
-            "owner": "dansreis",
-            "repo": "speclens",
-            "stars": 27,
-            "topics": [
-              "desktop-app",
-              "local-first",
-              "markdown",
-              "openspec",
-              "react",
-              "rust",
-              "spec-driven-development",
-              "specifications",
-              "tauri",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-29T01:48:50.081Z"
-        },
-        {
-          "node_type": "item",
-          "title": "openspec-webui",
-          "description": "Interactive browser UI for browsing and managing specifications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Interactive browser UI for browsing and managing OpenSpec specifications",
-            "homepage": "https://www.npmjs.com/package/openspec-webui",
-            "id": 1198656430,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-14T08:35:58Z",
-            "open_issues": 1,
-            "owner": "oioi555",
-            "repo": "openspec-webui",
-            "stars": 14,
-            "topics": [
-              "ai-tools",
-              "ai-workflow",
-              "claude-code",
-              "cli",
-              "codex",
-              "coding-agents",
-              "developer-tools",
-              "documentation",
-              "local-first",
-              "opencode",
-              "openspec",
-              "sdd",
-              "spec-driven-development",
-              "spec-viewer",
-              "specification",
-              "validation",
-              "web-ui"
-            ]
-          },
-          "first_seen": "2026-08-29T01:48:50.081Z"
-        },
-        {
-          "node_type": "item",
-          "title": "dossier",
-          "description": "Keyboard-driven TUI for navigating proposals, designs, specs, and tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Keyboard-driven TUI for navigating OpenSpec project artifacts — proposals, designs, specs, and tasks.",
-            "homepage": null,
-            "id": 1239531847,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-07-23T08:44:58Z",
-            "open_issues": 4,
-            "owner": "fselich",
-            "repo": "dossier",
-            "stars": 13,
-            "topics": [
-              "openspec",
-              "sdd",
-              "spec-driven-development",
-              "tui"
-            ]
-          },
-          "first_seen": "2026-08-29T01:48:50.081Z"
-        },
-        {
-          "node_type": "item",
-          "title": "openspec-viewer",
-          "description": "Browser viewer with live reload, markdown rendering, and full-text search.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Interactive browser viewer for OpenSpec directories - live-reloading documentation viewer with markdown rendering, file watching, and search",
-            "homepage": null,
-            "id": 1120191001,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-03-05T16:58:17Z",
-            "open_issues": 0,
-            "owner": "MusicAdam",
-            "repo": "openspec-viewer",
-            "stars": 8,
-            "topics": [
-              "cli",
-              "developer-tools",
-              "documentation",
-              "fastify",
-              "markdown",
-              "openspec",
-              "specification",
-              "svelte",
-              "typescript",
-              "viewer"
-            ]
-          },
-          "first_seen": "2026-08-29T01:48:50.081Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Specboard",
-          "description": "Web dashboard for monitoring progress across workspaces with swimlane visualization.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Specboard is a web-based monitoring tool for tracking OpenSpec progress across Conductor workspaces",
-            "homepage": null,
-            "id": 1168336632,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2026-07-17T06:38:05Z",
-            "open_issues": 0,
-            "owner": "sflueckiger",
-            "repo": "specboard",
-            "stars": 8,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:48:50.081Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dossier",
+              "description": "Keyboard-driven TUI for navigating proposals, designs, specs, and tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Keyboard-driven TUI for navigating OpenSpec project artifacts — proposals, designs, specs, and tasks.",
+                "homepage": null,
+                "id": 1239531847,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-07-23T08:44:58Z",
+                "open_issues": 4,
+                "owner": "fselich",
+                "repo": "dossier",
+                "stars": 13,
+                "topics": [
+                  "openspec",
+                  "sdd",
+                  "spec-driven-development",
+                  "tui"
+                ]
+              },
+              "first_seen": "2026-08-29T01:48:50.081Z"
+            },
+            {
+              "node_type": "item",
+              "title": "specgetty",
+              "description": "Terminal UI for finding OpenSpec projects on your machine and reporting their status.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "OpenSpec TUI for managing local openspec projects",
+                "homepage": null,
+                "id": 1196588834,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-09-18T16:38:07Z",
+                "open_issues": 4,
+                "owner": "speclib",
+                "repo": "specgetty",
+                "stars": 1,
+                "topics": [
+                  "openspec"
+                ]
+              },
+              "first_seen": "2026-09-18T21:04:00.935Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Terminal"
         }
       ],
       "title": "UIs"
@@ -463,7 +500,7 @@
             "id": 1192537344,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T06:33:31Z",
+            "last_commit": "2026-09-18T02:04:43Z",
             "open_issues": 0,
             "owner": "wxhou",
             "repo": "openspec-playwright",
@@ -633,7 +670,7 @@
             "id": 1156734014,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T14:50:39Z",
+            "last_commit": "2026-09-18T16:19:32Z",
             "open_issues": 4,
             "owner": "joestump",
             "repo": "claude-plugin-sdd",
@@ -677,8 +714,8 @@
             "id": 1160520597,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-17T15:53:21Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-18T18:09:07Z",
+            "open_issues": 4,
             "owner": "Codagent-AI",
             "repo": "agent-skills",
             "stars": 30,
@@ -877,7 +914,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-08T08:13:38Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "RandyZ",
             "repo": "openspec-ext",
             "stars": 8,
@@ -1050,7 +1087,7 @@
             "open_issues": 7,
             "owner": "MageByte-Zero",
             "repo": "spec-superflow",
-            "stars": 804,
+            "stars": 806,
             "topics": [
               "ai-coding",
               "amazon-q",
@@ -1091,7 +1128,7 @@
             "open_issues": 1,
             "owner": "rihebty",
             "repo": "flow-kit",
-            "stars": 401,
+            "stars": 400,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1130,10 +1167,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-03T18:05:33Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "sudokar",
             "repo": "openspec-plus",
-            "stars": 198,
+            "stars": 199,
             "topics": [
               "agentic-skills",
               "ai",
@@ -1175,7 +1212,7 @@
             "open_issues": 1,
             "owner": "SYZ-Coder",
             "repo": "superpowers-openspec-team-skills",
-            "stars": 193,
+            "stars": 194,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1196,7 +1233,7 @@
             "open_issues": 1,
             "owner": "intent-driven-dev",
             "repo": "openspec-schemas",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "aicoding",
               "architecture-decision-records",
@@ -1363,7 +1400,7 @@
             "open_issues": 3,
             "owner": "intent-driven-dev",
             "repo": "intent-driven-template",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "adversarial-ai",
               "aicoding",
@@ -1770,11 +1807,11 @@
             "id": 1042367133,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-17T17:48:40Z",
-            "open_issues": 309,
+            "last_commit": "2026-09-18T21:02:09Z",
+            "open_issues": 300,
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 137602,
+            "stars": 137803,
             "topics": [
               "ai",
               "copilot",
@@ -1803,7 +1840,7 @@
             "open_issues": 0,
             "owner": "gsd-build",
             "repo": "get-shit-done",
-            "stars": 64513,
+            "stars": 64504,
             "topics": [
               "claude-code",
               "context-engineering",
@@ -1825,11 +1862,11 @@
             "id": 965615190,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T08:14:19Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-18T21:03:30Z",
+            "open_issues": 66,
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 53147,
+            "stars": 53194,
             "topics": [
               "agile",
               "ai",
@@ -1853,10 +1890,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-09-15T14:31:12Z",
-            "open_issues": 1473,
+            "open_issues": 1475,
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4310,
+            "stars": 4317,
             "topics": [
               "ai",
               "ide",
@@ -1878,8 +1915,8 @@
             "id": 1072945981,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-17T20:11:33Z",
-            "open_issues": 786,
+            "last_commit": "2026-09-18T20:40:14Z",
+            "open_issues": 788,
             "owner": "spec-kitty",
             "repo": "spec-kitty",
             "stars": 1632,
@@ -2173,11 +2210,11 @@
             "id": 1105029524,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-12T07:10:08Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-18T11:08:29Z",
+            "open_issues": 0,
             "owner": "Engineering4AI",
             "repo": "awesome-spec-driven-development",
-            "stars": 269,
+            "stars": 270,
             "topics": [
               "ai-assistant",
               "software-engineering",
@@ -2192,7 +2229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T21:33:30.536Z",
+    "last_updated": "2026-09-18T21:04:00.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome OpenSpec resources and some genereric Spec-Driven-Development resources.",
@@ -2200,7 +2237,7 @@
       "id": 1167559180,
       "language": "JavaScript",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-16T14:25:05Z",
+      "last_commit": "2026-09-18T16:04:39Z",
       "open_issues": 0,
       "owner": "speclib",
       "repo": "awesome-openspec",
@@ -2212,7 +2249,7 @@
         "spec-driven-development"
       ]
     },
-    "original_repository_sha": "d323bce86e3c9995e45494e3dd1aedd8b59a1142",
+    "original_repository_sha": "a63174ac7a0895b29248f6c460c9904760c2f37e",
     "enhanced_repository": "enhansome/enhansome-openspec",
     "enhanced_repository_description": null,
     "title": "Awesome OpenSpec with stars"
