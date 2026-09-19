@@ -15,11 +15,11 @@
             "id": 1032459340,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T16:05:08Z",
-            "open_issues": 232,
+            "last_commit": "2026-09-18T23:23:30Z",
+            "open_issues": 238,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 69287,
+            "stars": 69554,
             "topics": [
               "ai",
               "context-engineering",
@@ -47,11 +47,11 @@
             "id": 1032459340,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T16:05:08Z",
-            "open_issues": 232,
+            "last_commit": "2026-09-18T23:23:30Z",
+            "open_issues": 238,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 69287,
+            "stars": 69554,
             "topics": [
               "ai",
               "context-engineering",
@@ -91,7 +91,7 @@
                 "open_issues": 1,
                 "owner": "jixoai",
                 "repo": "openspecui",
-                "stars": 114,
+                "stars": 116,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:48:50.081Z"
@@ -112,7 +112,7 @@
                 "open_issues": 0,
                 "owner": "spekhq",
                 "repo": "spek",
-                "stars": 59,
+                "stars": 60,
                 "topics": [
                   "agentcoding",
                   "openspec",
@@ -137,7 +137,7 @@
                 "open_issues": 0,
                 "owner": "ToruAI",
                 "repo": "openspec-ui",
-                "stars": 31,
+                "stars": 32,
                 "topics": [
                   "ai-agents",
                   "claude-code",
@@ -197,11 +197,11 @@
                 "id": 1198656430,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T08:35:58Z",
+                "last_commit": "2026-09-19T00:12:28Z",
                 "open_issues": 1,
                 "owner": "oioi555",
                 "repo": "openspec-webui",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "ai-tools",
                   "ai-workflow",
@@ -356,8 +356,8 @@
             "id": 1146753014,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T21:01:07Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-19T20:40:39Z",
+            "open_issues": 1,
             "owner": "clay-good",
             "repo": "OpenLore",
             "stars": 307,
@@ -440,7 +440,7 @@
             "id": 1206389206,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T17:31:03Z",
+            "last_commit": "2026-09-19T20:48:22Z",
             "open_issues": 4,
             "owner": "opencue",
             "repo": "gitguardex",
@@ -500,7 +500,7 @@
             "id": 1192537344,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T02:04:43Z",
+            "last_commit": "2026-09-19T17:27:11Z",
             "open_issues": 0,
             "owner": "wxhou",
             "repo": "openspec-playwright",
@@ -670,8 +670,8 @@
             "id": 1156734014,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T16:19:32Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-19T16:29:29Z",
+            "open_issues": 5,
             "owner": "joestump",
             "repo": "claude-plugin-sdd",
             "stars": 32,
@@ -951,6 +951,34 @@
         },
         {
           "node_type": "item",
+          "title": "openspec-tdd",
+          "description": "Plugin for Claude Code, OpenCode, and Pi generating failing tests from specs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Adds a solid-RED opsx:tdd gate to OpenSpec — real failing tests, not expect.fail placeholders",
+            "homepage": null,
+            "id": 1251440975,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-06-30T22:02:20Z",
+            "open_issues": 1,
+            "owner": "yuritoledo",
+            "repo": "openspec-tdd",
+            "stars": 7,
+            "topics": [
+              "claude-code",
+              "claude-code-plugin",
+              "openspec",
+              "tdd",
+              "testing",
+              "vitest"
+            ]
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
+        },
+        {
+          "node_type": "item",
           "title": "opencode-openspec",
           "description": "OpenSpec spec-driven development plugin for OpenCode.",
           "children": [],
@@ -967,34 +995,6 @@
             "repo": "opencode-openspec",
             "stars": 6,
             "topics": []
-          },
-          "first_seen": "2026-08-29T01:48:50.081Z"
-        },
-        {
-          "node_type": "item",
-          "title": "openspec-tdd",
-          "description": "Plugin for Claude Code, OpenCode, and Pi generating failing tests from specs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Adds a solid-RED opsx:tdd gate to OpenSpec — real failing tests, not expect.fail placeholders",
-            "homepage": null,
-            "id": 1251440975,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-06-30T22:02:20Z",
-            "open_issues": 1,
-            "owner": "yuritoledo",
-            "repo": "openspec-tdd",
-            "stars": 6,
-            "topics": [
-              "claude-code",
-              "claude-code-plugin",
-              "openspec",
-              "tdd",
-              "testing",
-              "vitest"
-            ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
         },
@@ -1087,7 +1087,7 @@
             "open_issues": 7,
             "owner": "MageByte-Zero",
             "repo": "spec-superflow",
-            "stars": 806,
+            "stars": 809,
             "topics": [
               "ai-coding",
               "amazon-q",
@@ -1128,7 +1128,7 @@
             "open_issues": 1,
             "owner": "rihebty",
             "repo": "flow-kit",
-            "stars": 400,
+            "stars": 399,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1170,7 +1170,7 @@
             "open_issues": 1,
             "owner": "sudokar",
             "repo": "openspec-plus",
-            "stars": 199,
+            "stars": 200,
             "topics": [
               "agentic-skills",
               "ai",
@@ -1212,7 +1212,7 @@
             "open_issues": 1,
             "owner": "SYZ-Coder",
             "repo": "superpowers-openspec-team-skills",
-            "stars": 194,
+            "stars": 193,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1233,7 +1233,7 @@
             "open_issues": 1,
             "owner": "intent-driven-dev",
             "repo": "openspec-schemas",
-            "stars": 97,
+            "stars": 99,
             "topics": [
               "aicoding",
               "architecture-decision-records",
@@ -1283,7 +1283,7 @@
             "open_issues": 0,
             "owner": "danielhanold",
             "repo": "superspec",
-            "stars": 74,
+            "stars": 75,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1572,7 +1572,7 @@
             "open_issues": 5,
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 143,
+            "stars": 144,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1593,7 +1593,7 @@
             "open_issues": 5,
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 143,
+            "stars": 144,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1808,10 +1808,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-18T21:02:09Z",
-            "open_issues": 300,
+            "open_issues": 307,
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 137803,
+            "stars": 137951,
             "topics": [
               "ai",
               "copilot",
@@ -1840,7 +1840,7 @@
             "open_issues": 0,
             "owner": "gsd-build",
             "repo": "get-shit-done",
-            "stars": 64504,
+            "stars": 64499,
             "topics": [
               "claude-code",
               "context-engineering",
@@ -1862,11 +1862,11 @@
             "id": 965615190,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T21:03:30Z",
+            "last_commit": "2026-09-19T16:29:38Z",
             "open_issues": 66,
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 53194,
+            "stars": 53237,
             "topics": [
               "agile",
               "ai",
@@ -1893,7 +1893,7 @@
             "open_issues": 1475,
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4317,
+            "stars": 4321,
             "topics": [
               "ai",
               "ide",
@@ -1915,11 +1915,11 @@
             "id": 1072945981,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-18T20:40:14Z",
-            "open_issues": 788,
+            "last_commit": "2026-09-19T20:47:58Z",
+            "open_issues": 802,
             "owner": "spec-kitty",
             "repo": "spec-kitty",
-            "stars": 1632,
+            "stars": 1636,
             "topics": [
               "agentic-coding",
               "ai-agents",
@@ -1961,7 +1961,7 @@
             "open_issues": 4,
             "owner": "gokulrajaram",
             "repo": "ProductSpec",
-            "stars": 294,
+            "stars": 295,
             "topics": [
               "ai-agents",
               "developer-tools",
@@ -2066,7 +2066,7 @@
             "open_issues": 0,
             "owner": "felipefontoura",
             "repo": "pi-sdd-kit",
-            "stars": 26,
+            "stars": 27,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -2229,7 +2229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T21:04:00.935Z",
+    "last_updated": "2026-09-19T20:52:59.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome OpenSpec resources and some genereric Spec-Driven-Development resources.",
@@ -2241,7 +2241,7 @@
       "open_issues": 0,
       "owner": "speclib",
       "repo": "awesome-openspec",
-      "stars": 73,
+      "stars": 75,
       "topics": [
         "awesome",
         "awesome-list",
