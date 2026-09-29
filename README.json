@@ -15,11 +15,11 @@
             "id": 1032459340,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T21:56:10Z",
-            "open_issues": 224,
+            "last_commit": "2026-09-29T21:55:39Z",
+            "open_issues": 176,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 70593,
+            "stars": 70681,
             "topics": [
               "ai",
               "context-engineering",
@@ -47,11 +47,11 @@
             "id": 1032459340,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T21:56:10Z",
-            "open_issues": 224,
+            "last_commit": "2026-09-29T21:55:39Z",
+            "open_issues": 176,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 70593,
+            "stars": 70681,
             "topics": [
               "ai",
               "context-engineering",
@@ -73,6 +73,117 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "specgetty-mobile",
+              "description": "Android reader for OpenSpec specs, changes and tasks in a cloned repository.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "OpenSpec reader for Android, straight from the git repository",
+                "homepage": null,
+                "id": 1393713997,
+                "language": "Kotlin",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-29T19:19:38Z",
+                "open_issues": 0,
+                "owner": "speclib",
+                "repo": "specgetty-mobile",
+                "stars": 1,
+                "topics": [
+                  "ai-coding",
+                  "android",
+                  "code-review",
+                  "developer-tools",
+                  "git",
+                  "jetpack-compose",
+                  "jgit",
+                  "kotlin",
+                  "openspec",
+                  "sdd",
+                  "spec",
+                  "spec-driven-development",
+                  "specification"
+                ]
+              },
+              "first_seen": "2026-09-29T22:27:32.673Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mobile"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dossier",
+              "description": "Keyboard-driven TUI for navigating proposals, designs, specs, and tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Keyboard-driven TUI for navigating OpenSpec project artifacts — proposals, designs, specs, and tasks.",
+                "homepage": null,
+                "id": 1239531847,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-07-23T08:44:58Z",
+                "open_issues": 4,
+                "owner": "fselich",
+                "repo": "dossier",
+                "stars": 14,
+                "topics": [
+                  "openspec",
+                  "sdd",
+                  "spec-driven-development",
+                  "tui"
+                ]
+              },
+              "first_seen": "2026-08-29T01:48:50.081Z"
+            },
+            {
+              "node_type": "item",
+              "title": "specgetty",
+              "description": "Terminal UI for finding OpenSpec projects on your machine and reporting their status.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "OpenSpec TUI for managing local openspec projects",
+                "homepage": null,
+                "id": 1196588834,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-09-29T12:01:34Z",
+                "open_issues": 4,
+                "owner": "speclib",
+                "repo": "specgetty",
+                "stars": 3,
+                "topics": [
+                  "ai-coding",
+                  "bubbletea",
+                  "charm",
+                  "cli",
+                  "code-review",
+                  "developer-tools",
+                  "golang",
+                  "openspec",
+                  "sdd",
+                  "spec",
+                  "spec-driven-development",
+                  "specification",
+                  "terminal-ui",
+                  "tui"
+                ]
+              },
+              "first_seen": "2026-09-18T21:04:00.935Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Terminal"
+        },
         {
           "children": [
             {
@@ -165,7 +276,7 @@
                 "id": 1256531647,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T07:39:38Z",
+                "last_commit": "2026-09-29T20:13:28Z",
                 "open_issues": 6,
                 "owner": "dansreis",
                 "repo": "speclens",
@@ -281,75 +392,6 @@
           "description": null,
           "node_type": "group",
           "title": "Web & Desktop"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "dossier",
-              "description": "Keyboard-driven TUI for navigating proposals, designs, specs, and tasks.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Keyboard-driven TUI for navigating OpenSpec project artifacts — proposals, designs, specs, and tasks.",
-                "homepage": null,
-                "id": 1239531847,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2026-07-23T08:44:58Z",
-                "open_issues": 4,
-                "owner": "fselich",
-                "repo": "dossier",
-                "stars": 14,
-                "topics": [
-                  "openspec",
-                  "sdd",
-                  "spec-driven-development",
-                  "tui"
-                ]
-              },
-              "first_seen": "2026-08-29T01:48:50.081Z"
-            },
-            {
-              "node_type": "item",
-              "title": "specgetty",
-              "description": "Terminal UI for finding OpenSpec projects on your machine and reporting their status.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "OpenSpec TUI for managing local openspec projects",
-                "homepage": null,
-                "id": 1196588834,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2026-09-23T09:45:00Z",
-                "open_issues": 4,
-                "owner": "speclib",
-                "repo": "specgetty",
-                "stars": 3,
-                "topics": [
-                  "ai-coding",
-                  "bubbletea",
-                  "charm",
-                  "cli",
-                  "code-review",
-                  "developer-tools",
-                  "golang",
-                  "openspec",
-                  "sdd",
-                  "spec",
-                  "spec-driven-development",
-                  "specification",
-                  "terminal-ui",
-                  "tui"
-                ]
-              },
-              "first_seen": "2026-09-18T21:04:00.935Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Terminal"
         }
       ],
       "title": "UIs"
@@ -369,11 +411,11 @@
             "id": 1146753014,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T13:15:36Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-29T05:53:55Z",
+            "open_issues": 4,
             "owner": "clay-good",
             "repo": "OpenLore",
-            "stars": 311,
+            "stars": 313,
             "topics": [
               "adr",
               "agentic-workflows",
@@ -513,7 +555,7 @@
             "id": 1192537344,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T09:27:26Z",
+            "last_commit": "2026-09-29T06:59:34Z",
             "open_issues": 0,
             "owner": "wxhou",
             "repo": "openspec-playwright",
@@ -555,7 +597,7 @@
             "id": 1194166202,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T02:18:46Z",
+            "last_commit": "2026-09-29T08:29:32Z",
             "open_issues": 0,
             "owner": "zayeagle",
             "repo": "omnidev-kit",
@@ -683,7 +725,7 @@
             "id": 1156734014,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T16:01:07Z",
+            "last_commit": "2026-09-29T10:03:05Z",
             "open_issues": 3,
             "owner": "joestump",
             "repo": "claude-plugin-sdd",
@@ -727,8 +769,8 @@
             "id": 1160520597,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-28T23:01:48Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-29T06:00:27Z",
+            "open_issues": 3,
             "owner": "Codagent-AI",
             "repo": "agent-skills",
             "stars": 30,
@@ -1100,7 +1142,7 @@
             "open_issues": 4,
             "owner": "MageByte-Zero",
             "repo": "spec-superflow",
-            "stars": 827,
+            "stars": 831,
             "topics": [
               "ai-coding",
               "amazon-q",
@@ -1183,7 +1225,7 @@
             "open_issues": 1,
             "owner": "sudokar",
             "repo": "openspec-plus",
-            "stars": 201,
+            "stars": 202,
             "topics": [
               "agentic-skills",
               "ai",
@@ -1275,7 +1317,7 @@
             "open_issues": 0,
             "owner": "danielhanold",
             "repo": "superspec",
-            "stars": 78,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1413,7 +1455,7 @@
             "open_issues": 3,
             "owner": "intent-driven-dev",
             "repo": "intent-driven-template",
-            "stars": 143,
+            "stars": 144,
             "topics": [
               "adversarial-ai",
               "aicoding",
@@ -1476,7 +1518,7 @@
             "open_issues": 0,
             "owner": "beautifulSoup",
             "repo": "speccoding-template",
-            "stars": 63,
+            "stars": 65,
             "topics": [
               "ai-coding",
               "claude-code",
@@ -1500,11 +1542,11 @@
             "id": 1138511910,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T07:32:39Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-29T21:27:13Z",
+            "open_issues": 7,
             "owner": "YuDefine",
             "repo": "nuxt-supabase-starter",
-            "stars": 45,
+            "stars": 44,
             "topics": [
               "ai-assisted",
               "claude-code",
@@ -1540,7 +1582,7 @@
             "open_issues": 1,
             "owner": "ForceInjection",
             "repo": "OpenSpec-practise",
-            "stars": 623,
+            "stars": 625,
             "topics": [
               "sdd",
               "spec-driven-development"
@@ -1561,10 +1603,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-23T13:54:49Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 150,
+            "stars": 152,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1582,10 +1624,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-23T13:54:49Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 150,
+            "stars": 152,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1799,11 +1841,11 @@
             "id": 1042367133,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-28T21:49:58Z",
-            "open_issues": 271,
+            "last_commit": "2026-09-29T16:06:07Z",
+            "open_issues": 264,
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 139279,
+            "stars": 139441,
             "topics": [
               "ai",
               "copilot",
@@ -1832,7 +1874,7 @@
             "open_issues": 0,
             "owner": "gsd-build",
             "repo": "get-shit-done",
-            "stars": 64442,
+            "stars": 64436,
             "topics": [
               "claude-code",
               "context-engineering",
@@ -1854,11 +1896,11 @@
             "id": 965615190,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T16:52:40Z",
-            "open_issues": 53,
+            "last_commit": "2026-09-29T12:49:45Z",
+            "open_issues": 41,
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 53595,
+            "stars": 53643,
             "topics": [
               "agile",
               "ai",
@@ -1882,10 +1924,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-09-15T14:31:12Z",
-            "open_issues": 1349,
+            "open_issues": 1348,
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4336,
+            "stars": 4340,
             "topics": [
               "ai",
               "ide",
@@ -1907,11 +1949,11 @@
             "id": 1072945981,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-28T23:24:19Z",
-            "open_issues": 881,
+            "last_commit": "2026-09-29T22:18:55Z",
+            "open_issues": 912,
             "owner": "spec-kitty",
             "repo": "spec-kitty",
-            "stars": 1648,
+            "stars": 1651,
             "topics": [
               "agentic-coding",
               "ai-agents",
@@ -1953,7 +1995,7 @@
             "open_issues": 5,
             "owner": "gokulrajaram",
             "repo": "ProductSpec",
-            "stars": 299,
+            "stars": 300,
             "topics": [
               "ai-agents",
               "developer-tools",
@@ -2167,10 +2209,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-23T13:52:53Z",
-            "open_issues": 21,
+            "open_issues": 23,
             "owner": "eltociear",
             "repo": "awesome-AI-driven-development",
-            "stars": 548,
+            "stars": 547,
             "topics": [
               "agent",
               "ai",
@@ -2203,10 +2245,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-28T17:35:06Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Engineering4AI",
             "repo": "awesome-spec-driven-development",
-            "stars": 278,
+            "stars": 279,
             "topics": [
               "ai-assistant",
               "software-engineering",
@@ -2221,7 +2263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T23:24:33.924Z",
+    "last_updated": "2026-09-29T22:27:32.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome OpenSpec resources and some genereric Spec-Driven-Development resources.",
@@ -2229,7 +2271,7 @@
       "id": 1167559180,
       "language": "JavaScript",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-18T16:04:39Z",
+      "last_commit": "2026-09-29T18:49:09Z",
       "open_issues": 0,
       "owner": "speclib",
       "repo": "awesome-openspec",
@@ -2241,7 +2283,7 @@
         "spec-driven-development"
       ]
     },
-    "original_repository_sha": "a63174ac7a0895b29248f6c460c9904760c2f37e",
+    "original_repository_sha": "e905a4a702f39a8bbe5f48d10ace78e48371268d",
     "enhanced_repository": "enhansome/enhansome-openspec",
     "enhanced_repository_description": null,
     "title": "Awesome OpenSpec with stars"
