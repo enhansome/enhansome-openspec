@@ -15,11 +15,11 @@
             "id": 1032459340,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T21:05:17Z",
-            "open_issues": 200,
+            "last_commit": "2026-10-14T21:40:51Z",
+            "open_issues": 192,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 71836,
+            "stars": 71956,
             "topics": [
               "ai",
               "context-engineering",
@@ -47,11 +47,11 @@
             "id": 1032459340,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T21:05:17Z",
-            "open_issues": 200,
+            "last_commit": "2026-10-14T21:40:51Z",
+            "open_issues": 192,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 71836,
+            "stars": 71956,
             "topics": [
               "ai",
               "context-engineering",
@@ -87,7 +87,7 @@
                 "id": 1393713997,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T19:19:38Z",
+                "last_commit": "2026-10-14T13:08:33Z",
                 "open_issues": 2,
                 "owner": "speclib",
                 "repo": "specgetty-mobile",
@@ -202,7 +202,7 @@
                 "open_issues": 2,
                 "owner": "jixoai",
                 "repo": "openspecui",
-                "stars": 125,
+                "stars": 126,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:48:50.081Z"
@@ -407,12 +407,12 @@
           "repo_info": {
             "archived": false,
             "description": "Deterministic, local-first memory and guardrails for AI coding agents with no LLM in the hot path.",
-            "homepage": "https://www.npmjs.com/package/openlore",
+            "homepage": null,
             "id": 1146753014,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T12:34:23Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-14T20:12:39Z",
+            "open_issues": 9,
             "owner": "clay-good",
             "repo": "OpenLore",
             "stars": 320,
@@ -457,7 +457,7 @@
             "open_issues": 2,
             "owner": "wenqingyu",
             "repo": "ralphy-openspec",
-            "stars": 174,
+            "stars": 175,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -649,7 +649,7 @@
             "open_issues": 6,
             "owner": "Octane0411",
             "repo": "opencode-plugin-openspec",
-            "stars": 162,
+            "stars": 163,
             "topics": [
               "ai-agent",
               "architecture-planning",
@@ -1168,7 +1168,7 @@
             "open_issues": 6,
             "owner": "MageByte-Zero",
             "repo": "spec-superflow",
-            "stars": 855,
+            "stars": 861,
             "topics": [
               "ai-coding",
               "amazon-q",
@@ -1209,7 +1209,7 @@
             "open_issues": 1,
             "owner": "rihebty",
             "repo": "flow-kit",
-            "stars": 403,
+            "stars": 404,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1230,7 +1230,7 @@
             "open_issues": 5,
             "owner": "JiangWay",
             "repo": "openspec-schemas",
-            "stars": 228,
+            "stars": 231,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1251,7 +1251,7 @@
             "open_issues": 1,
             "owner": "sudokar",
             "repo": "openspec-plus",
-            "stars": 210,
+            "stars": 212,
             "topics": [
               "agentic-skills",
               "ai",
@@ -1314,7 +1314,7 @@
             "open_issues": 1,
             "owner": "intent-driven-dev",
             "repo": "openspec-schemas",
-            "stars": 106,
+            "stars": 108,
             "topics": [
               "aicoding",
               "architecture-decision-records",
@@ -1343,7 +1343,7 @@
             "open_issues": 0,
             "owner": "danielhanold",
             "repo": "superspec",
-            "stars": 84,
+            "stars": 85,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1568,8 +1568,8 @@
             "id": 1138511910,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T00:06:34Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-14T17:22:32Z",
+            "open_issues": 0,
             "owner": "YuDefine",
             "repo": "nuxt-supabase-starter",
             "stars": 44,
@@ -1588,6 +1588,76 @@
         }
       ],
       "title": "Templates & Starters"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenSpec Badge Action",
+          "description": "GitHub Action generating SVG badges for OpenSpec metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Generate OpenSpec badge",
+            "homepage": null,
+            "id": 1161676239,
+            "language": "JavaScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-02-26T10:55:58Z",
+            "open_issues": 0,
+            "owner": "wearetechnative",
+            "repo": "openspec-badge-action",
+            "stars": 7,
+            "topics": [
+              "openspec",
+              "spec-driven-development"
+            ]
+          },
+          "first_seen": "2026-10-14T21:50:32.936Z"
+        }
+      ],
+      "title": "GitHub Actions"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spec-Driven Development (book)",
+          "description": "Open SDD book with a Claude Code kit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The definitive guide to Spec-Driven Development: build software with AI agents, from method to production code. Book in EN + pt-BR with a ready-to-use SDD kit for Claude Code.",
+            "homepage": "https://felipefontoura.com/get/sdd-book/?utm_source=github&utm_medium=referral&utm_campaign=sdd-book&utm_content=about",
+            "id": 1118443662,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-08T18:12:21Z",
+            "open_issues": 2,
+            "owner": "felipefontoura",
+            "repo": "spec-driven-development-book",
+            "stars": 19,
+            "topics": [
+              "agentic-ai",
+              "ai-agents",
+              "ai-coding",
+              "book",
+              "claude-code",
+              "ears",
+              "ebook",
+              "llm",
+              "prompt-engineering",
+              "requirements-engineering",
+              "software-engineering",
+              "spec-driven-development"
+            ]
+          },
+          "first_seen": "2026-10-08T23:28:48.139Z"
+        }
+      ],
+      "title": "Books"
     },
     {
       "description": null,
@@ -1628,11 +1698,11 @@
             "id": 1102541103,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T21:40:13Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-14T19:19:11Z",
+            "open_issues": 12,
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 160,
+            "stars": 161,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1649,11 +1719,11 @@
             "id": 1102541103,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T21:40:13Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-14T19:19:11Z",
+            "open_issues": 12,
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 160,
+            "stars": 161,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1704,40 +1774,6 @@
             ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Spec-Driven Development (book)",
-          "description": "Open SDD book with a Claude Code kit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The definitive guide to Spec-Driven Development: build software with AI agents, from method to production code. Book in EN + pt-BR with a ready-to-use SDD kit for Claude Code.",
-            "homepage": "https://felipefontoura.com/get/sdd-book/?utm_source=github&utm_medium=referral&utm_campaign=sdd-book&utm_content=about",
-            "id": 1118443662,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-08T18:12:21Z",
-            "open_issues": 2,
-            "owner": "felipefontoura",
-            "repo": "spec-driven-development-book",
-            "stars": 19,
-            "topics": [
-              "agentic-ai",
-              "ai-agents",
-              "ai-coding",
-              "book",
-              "claude-code",
-              "ears",
-              "ebook",
-              "llm",
-              "prompt-engineering",
-              "requirements-engineering",
-              "software-engineering",
-              "spec-driven-development"
-            ]
-          },
-          "first_seen": "2026-10-08T23:28:48.139Z"
         },
         {
           "node_type": "item",
@@ -1901,11 +1937,11 @@
             "id": 1042367133,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-13T19:35:18Z",
-            "open_issues": 160,
+            "last_commit": "2026-10-14T19:06:49Z",
+            "open_issues": 167,
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 141128,
+            "stars": 141290,
             "topics": [
               "ai",
               "copilot",
@@ -1934,7 +1970,7 @@
             "open_issues": 0,
             "owner": "gsd-build",
             "repo": "get-shit-done",
-            "stars": 64303,
+            "stars": 64298,
             "topics": [
               "claude-code",
               "context-engineering",
@@ -1956,11 +1992,11 @@
             "id": 965615190,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T21:20:56Z",
-            "open_issues": 53,
+            "last_commit": "2026-10-14T21:19:16Z",
+            "open_issues": 54,
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 54106,
+            "stars": 54143,
             "topics": [
               "agile",
               "ai",
@@ -1984,7 +2020,7 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-09-15T14:31:12Z",
-            "open_issues": 1431,
+            "open_issues": 1452,
             "owner": "kirodotdev",
             "repo": "Kiro",
             "stars": 4367,
@@ -2009,11 +2045,11 @@
             "id": 1072945981,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-13T22:58:01Z",
-            "open_issues": 977,
+            "last_commit": "2026-10-14T21:36:07Z",
+            "open_issues": 989,
             "owner": "spec-kitty",
             "repo": "spec-kitty",
-            "stars": 1681,
+            "stars": 1684,
             "topics": [
               "agentic-coding",
               "ai-agents",
@@ -2103,7 +2139,7 @@
             "id": 1239353812,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-13T22:26:44Z",
+            "last_commit": "2026-10-13T23:08:27Z",
             "open_issues": 0,
             "owner": "felipefontoura",
             "repo": "pi-sdd-kit",
@@ -2269,7 +2305,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-12T14:49:12Z",
-            "open_issues": 36,
+            "open_issues": 38,
             "owner": "eltociear",
             "repo": "awesome-AI-driven-development",
             "stars": 556,
@@ -2305,10 +2341,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-12T14:46:04Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Engineering4AI",
             "repo": "awesome-spec-driven-development",
-            "stars": 296,
+            "stars": 297,
             "topics": [
               "ai-assistant",
               "software-engineering",
@@ -2323,7 +2359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T22:58:21.655Z",
+    "last_updated": "2026-10-14T21:50:32.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome OpenSpec resources and some genereric Spec-Driven-Development resources.",
@@ -2331,11 +2367,11 @@
       "id": 1167559180,
       "language": "JavaScript",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-08T08:04:42Z",
+      "last_commit": "2026-10-14T13:53:53Z",
       "open_issues": 4,
       "owner": "speclib",
       "repo": "awesome-openspec",
-      "stars": 83,
+      "stars": 85,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2343,7 +2379,7 @@
         "spec-driven-development"
       ]
     },
-    "original_repository_sha": "4f358ae4faa35e7d77230940a7077c452d562d1c",
+    "original_repository_sha": "cdf167e86b4f6e4cf3530320dc0b5cb7f3112e8f",
     "enhanced_repository": "enhansome/enhansome-openspec",
     "enhanced_repository_description": null,
     "title": "Awesome OpenSpec with stars"
