@@ -19,7 +19,7 @@
             "open_issues": 189,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 73536,
+            "stars": 73606,
             "topics": [
               "ai",
               "context-engineering",
@@ -51,7 +51,7 @@
             "open_issues": 189,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 73536,
+            "stars": 73606,
             "topics": [
               "ai",
               "context-engineering",
@@ -337,6 +337,38 @@
             },
             {
               "node_type": "item",
+              "title": "openspec-viewer",
+              "description": "Browser viewer with live reload, markdown rendering, and full-text search.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Interactive browser viewer for OpenSpec directories - live-reloading documentation viewer with markdown rendering, file watching, and search",
+                "homepage": null,
+                "id": 1120191001,
+                "language": "TypeScript",
+                "license": null,
+                "last_commit": "2026-03-05T16:58:17Z",
+                "open_issues": 0,
+                "owner": "MusicAdam",
+                "repo": "openspec-viewer",
+                "stars": 9,
+                "topics": [
+                  "cli",
+                  "developer-tools",
+                  "documentation",
+                  "fastify",
+                  "markdown",
+                  "openspec",
+                  "specification",
+                  "svelte",
+                  "typescript",
+                  "viewer"
+                ]
+              },
+              "first_seen": "2026-08-29T01:48:50.081Z"
+            },
+            {
+              "node_type": "item",
               "title": "Specboard",
               "description": "Web dashboard for monitoring progress across workspaces with swimlane visualization.",
               "children": [],
@@ -353,38 +385,6 @@
                 "repo": "specboard",
                 "stars": 9,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T01:48:50.081Z"
-            },
-            {
-              "node_type": "item",
-              "title": "openspec-viewer",
-              "description": "Browser viewer with live reload, markdown rendering, and full-text search.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Interactive browser viewer for OpenSpec directories - live-reloading documentation viewer with markdown rendering, file watching, and search",
-                "homepage": null,
-                "id": 1120191001,
-                "language": "TypeScript",
-                "license": null,
-                "last_commit": "2026-03-05T16:58:17Z",
-                "open_issues": 0,
-                "owner": "MusicAdam",
-                "repo": "openspec-viewer",
-                "stars": 8,
-                "topics": [
-                  "cli",
-                  "developer-tools",
-                  "documentation",
-                  "fastify",
-                  "markdown",
-                  "openspec",
-                  "specification",
-                  "svelte",
-                  "typescript",
-                  "viewer"
-                ]
               },
               "first_seen": "2026-08-29T01:48:50.081Z"
             }
@@ -411,7 +411,7 @@
             "id": 1146753014,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T21:44:59Z",
+            "last_commit": "2026-11-01T21:51:05Z",
             "open_issues": 1,
             "owner": "clay-good",
             "repo": "OpenLore",
@@ -725,11 +725,11 @@
             "id": 1156734014,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T18:19:07Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-01T16:03:59Z",
+            "open_issues": 1,
             "owner": "joestump",
             "repo": "claude-plugin-sdd",
-            "stars": 34,
+            "stars": 35,
             "topics": [
               "canonical-github"
             ]
@@ -1185,11 +1185,11 @@
             "id": 1280958966,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T03:16:59Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-01T21:46:08Z",
+            "open_issues": 6,
             "owner": "MageByte-Zero",
             "repo": "spec-superflow",
-            "stars": 876,
+            "stars": 875,
             "topics": [
               "ai-coding",
               "amazon-q",
@@ -1230,7 +1230,7 @@
             "open_issues": 1,
             "owner": "rihebty",
             "repo": "flow-kit",
-            "stars": 407,
+            "stars": 408,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1251,7 +1251,7 @@
             "open_issues": 6,
             "owner": "JiangWay",
             "repo": "openspec-schemas",
-            "stars": 233,
+            "stars": 234,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1335,7 +1335,7 @@
             "open_issues": 1,
             "owner": "intent-driven-dev",
             "repo": "openspec-schemas",
-            "stars": 113,
+            "stars": 114,
             "topics": [
               "aicoding",
               "architecture-decision-records",
@@ -1499,10 +1499,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-15T02:31:58Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "intent-driven-dev",
             "repo": "intent-driven-template",
-            "stars": 188,
+            "stars": 190,
             "topics": [
               "adversarial-ai",
               "aicoding",
@@ -1565,7 +1565,7 @@
             "open_issues": 0,
             "owner": "beautifulSoup",
             "repo": "speccoding-template",
-            "stars": 68,
+            "stars": 69,
             "topics": [
               "ai-coding",
               "claude-code",
@@ -1589,8 +1589,8 @@
             "id": 1138511910,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T08:55:45Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-01T07:25:07Z",
+            "open_issues": 1,
             "owner": "YuDefine",
             "repo": "nuxt-supabase-starter",
             "stars": 44,
@@ -1740,11 +1740,11 @@
             "id": 1102541103,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T16:08:22Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-01T02:19:26Z",
+            "open_issues": 6,
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 164,
+            "stars": 165,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1761,11 +1761,11 @@
             "id": 1102541103,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T16:08:22Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-01T02:19:26Z",
+            "open_issues": 6,
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 164,
+            "stars": 165,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1829,7 +1829,7 @@
             "id": 1208665665,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-10-27T13:26:58Z",
+            "last_commit": "2026-11-01T09:14:22Z",
             "open_issues": 2,
             "owner": "olivomarco",
             "repo": "genai-development-techniques",
@@ -1980,10 +1980,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-30T16:19:58Z",
-            "open_issues": 221,
+            "open_issues": 225,
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 144345,
+            "stars": 144971,
             "topics": [
               "ai",
               "copilot",
@@ -2012,7 +2012,7 @@
             "open_issues": 0,
             "owner": "gsd-build",
             "repo": "get-shit-done",
-            "stars": 64187,
+            "stars": 64185,
             "topics": [
               "claude-code",
               "context-engineering",
@@ -2034,11 +2034,11 @@
             "id": 965615190,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T19:55:49Z",
+            "last_commit": "2026-11-01T03:00:45Z",
             "open_issues": 94,
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 54822,
+            "stars": 54863,
             "topics": [
               "agile",
               "ai",
@@ -2062,10 +2062,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-10-18T11:35:32Z",
-            "open_issues": 1499,
+            "open_issues": 1514,
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4422,
+            "stars": 4427,
             "topics": [
               "ai",
               "ide",
@@ -2087,8 +2087,8 @@
             "id": 1072945981,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T21:42:51Z",
-            "open_issues": 1177,
+            "last_commit": "2026-11-01T22:07:50Z",
+            "open_issues": 1171,
             "owner": "spec-kitty",
             "repo": "spec-kitty",
             "stars": 1711,
@@ -2347,7 +2347,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-12T14:49:12Z",
-            "open_issues": 61,
+            "open_issues": 62,
             "owner": "eltociear",
             "repo": "awesome-AI-driven-development",
             "stars": 570,
@@ -2382,11 +2382,11 @@
             "id": 1105029524,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-28T08:12:51Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-01T04:38:29Z",
+            "open_issues": 2,
             "owner": "Engineering4AI",
             "repo": "awesome-spec-driven-development",
-            "stars": 312,
+            "stars": 314,
             "topics": [
               "ai-assistant",
               "software-engineering",
@@ -2401,7 +2401,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T21:46:35.407Z",
+    "last_updated": "2026-11-01T22:14:01.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome OpenSpec resources and some genereric Spec-Driven-Development resources.",
