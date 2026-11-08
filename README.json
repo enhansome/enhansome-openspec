@@ -19,7 +19,7 @@
             "open_issues": 200,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 74228,
+            "stars": 74292,
             "topics": [
               "ai",
               "context-engineering",
@@ -51,7 +51,7 @@
             "open_issues": 200,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 74228,
+            "stars": 74292,
             "topics": [
               "ai",
               "context-engineering",
@@ -411,11 +411,11 @@
             "id": 1146753014,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-07T18:39:57Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-08T17:26:49Z",
+            "open_issues": 0,
             "owner": "clay-good",
             "repo": "OpenLore",
-            "stars": 358,
+            "stars": 359,
             "topics": [
               "adr",
               "agentic-workflows",
@@ -555,7 +555,7 @@
             "id": 1192537344,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-07T16:48:33Z",
+            "last_commit": "2026-11-08T02:14:03Z",
             "open_issues": 1,
             "owner": "wxhou",
             "repo": "openspec-playwright",
@@ -725,11 +725,11 @@
             "id": 1156734014,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-01T16:03:59Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-08T16:25:21Z",
+            "open_issues": 5,
             "owner": "joestump",
             "repo": "claude-plugin-sdd",
-            "stars": 36,
+            "stars": 37,
             "topics": [
               "canonical-github"
             ]
@@ -817,7 +817,7 @@
             "id": 1246780166,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T13:26:40Z",
+            "last_commit": "2026-11-08T15:48:00Z",
             "open_issues": 1,
             "owner": "moyaspace",
             "repo": "openspec-superpowers-opencode",
@@ -906,6 +906,33 @@
         },
         {
           "node_type": "item",
+          "title": "intellij-openspec",
+          "description": "IntelliJ IDEA plugin for OpenSpec, available on the JetBrains Marketplace.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "IntelliJ IDEA plugin for the OpenSpec spec-driven development framework",
+            "homepage": "https://plugins.jetbrains.com/plugin/30678-openspec",
+            "id": 1186733149,
+            "language": "Java",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-31T15:27:11Z",
+            "open_issues": 1,
+            "owner": "johnnyblabs",
+            "repo": "intellij-openspec",
+            "stars": 10,
+            "topics": [
+              "ai-tools",
+              "intellij-plugin",
+              "jetbrains",
+              "openspec",
+              "spec-driven-development"
+            ]
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
+        },
+        {
+          "node_type": "item",
           "title": "openspec.nvim",
           "description": "Neovim control surface for OpenSpec workflows.",
           "children": [],
@@ -931,33 +958,6 @@
               "openspec",
               "spec-driven-development",
               "workflow"
-            ]
-          },
-          "first_seen": "2026-08-29T01:48:50.081Z"
-        },
-        {
-          "node_type": "item",
-          "title": "intellij-openspec",
-          "description": "IntelliJ IDEA plugin for OpenSpec, available on the JetBrains Marketplace.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "IntelliJ IDEA plugin for the OpenSpec spec-driven development framework",
-            "homepage": "https://plugins.jetbrains.com/plugin/30678-openspec",
-            "id": 1186733149,
-            "language": "Java",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-31T15:27:11Z",
-            "open_issues": 1,
-            "owner": "johnnyblabs",
-            "repo": "intellij-openspec",
-            "stars": 9,
-            "topics": [
-              "ai-tools",
-              "intellij-plugin",
-              "jetbrains",
-              "openspec",
-              "spec-driven-development"
             ]
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1230,7 +1230,7 @@
             "open_issues": 1,
             "owner": "rihebty",
             "repo": "flow-kit",
-            "stars": 410,
+            "stars": 411,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1589,8 +1589,8 @@
             "id": 1138511910,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T08:48:47Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-08T18:06:51Z",
+            "open_issues": 4,
             "owner": "YuDefine",
             "repo": "nuxt-supabase-starter",
             "stars": 44,
@@ -1744,7 +1744,7 @@
             "open_issues": 6,
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 165,
+            "stars": 167,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1765,7 +1765,7 @@
             "open_issues": 6,
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 165,
+            "stars": 167,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1980,10 +1980,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-07T04:09:22Z",
-            "open_issues": 201,
+            "open_issues": 214,
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 148406,
+            "stars": 148683,
             "topics": [
               "ai",
               "copilot",
@@ -2012,7 +2012,7 @@
             "open_issues": 0,
             "owner": "gsd-build",
             "repo": "get-shit-done",
-            "stars": 64158,
+            "stars": 64155,
             "topics": [
               "claude-code",
               "context-engineering",
@@ -2034,11 +2034,11 @@
             "id": 965615190,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T04:03:39Z",
-            "open_issues": 96,
+            "last_commit": "2026-11-08T03:41:31Z",
+            "open_issues": 95,
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 55110,
+            "stars": 55132,
             "topics": [
               "agile",
               "ai",
@@ -2062,7 +2062,7 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-11-05T17:16:02Z",
-            "open_issues": 1588,
+            "open_issues": 1592,
             "owner": "kirodotdev",
             "repo": "Kiro",
             "stars": 4452,
@@ -2087,8 +2087,8 @@
             "id": 1072945981,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-07T21:06:49Z",
-            "open_issues": 1101,
+            "last_commit": "2026-11-08T22:03:22Z",
+            "open_issues": 869,
             "owner": "spec-kitty",
             "repo": "spec-kitty",
             "stars": 1717,
@@ -2350,7 +2350,7 @@
             "open_issues": 66,
             "owner": "eltociear",
             "repo": "awesome-AI-driven-development",
-            "stars": 572,
+            "stars": 573,
             "topics": [
               "agent",
               "ai",
@@ -2401,7 +2401,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T22:07:55.459Z",
+    "last_updated": "2026-11-08T22:18:01.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome OpenSpec resources and some genereric Spec-Driven-Development resources.",
