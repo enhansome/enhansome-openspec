@@ -15,11 +15,11 @@
             "id": 1032459340,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T23:11:28Z",
+            "last_commit": "2026-11-11T22:42:08Z",
             "open_issues": 201,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 74547,
+            "stars": 74636,
             "topics": [
               "ai",
               "context-engineering",
@@ -47,11 +47,11 @@
             "id": 1032459340,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T23:11:28Z",
+            "last_commit": "2026-11-11T22:42:08Z",
             "open_issues": 201,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 74547,
+            "stars": 74636,
             "topics": [
               "ai",
               "context-engineering",
@@ -198,11 +198,11 @@
                 "id": 1103589952,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-07T15:53:51Z",
+                "last_commit": "2026-11-11T13:12:49Z",
                 "open_issues": 3,
                 "owner": "jixoai",
                 "repo": "openspecui",
-                "stars": 134,
+                "stars": 135,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:48:50.081Z"
@@ -223,7 +223,7 @@
                 "open_issues": 3,
                 "owner": "spekhq",
                 "repo": "spek",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "agentcoding",
                   "openspec",
@@ -239,19 +239,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Web dashboard for OpenSpec — one kanban board across every repo, showing which artifact is next and what is blocked. OpenSpec 1.6 compatible.",
-                "homepage": null,
+                "description": "Web dashboard for OpenSpec: a live kanban board of changes across all your repos. Local, read-only, checked against the OpenSpec CLI weekly.",
+                "homepage": "https://toruai.github.io/openspec-ui/",
                 "id": 1125776334,
-                "language": "TypeScript",
+                "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-07-27T00:29:56Z",
+                "last_commit": "2026-11-11T16:11:36Z",
                 "open_issues": 0,
                 "owner": "ToruAI",
                 "repo": "openspec-ui",
-                "stars": 40,
+                "stars": 42,
                 "topics": [
                   "ai-agents",
                   "claude-code",
+                  "codex",
+                  "cursor",
                   "dashboard",
                   "developer-tools",
                   "kanban",
@@ -259,7 +261,8 @@
                   "react",
                   "rust",
                   "sdd",
-                  "spec-driven-development"
+                  "spec-driven-development",
+                  "web-ui"
                 ]
               },
               "first_seen": "2026-08-29T01:48:50.081Z"
@@ -415,7 +418,7 @@
             "open_issues": 0,
             "owner": "clay-good",
             "repo": "OpenLore",
-            "stars": 362,
+            "stars": 363,
             "topics": [
               "adr",
               "agentic-workflows",
@@ -555,7 +558,7 @@
             "id": 1192537344,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T16:39:36Z",
+            "last_commit": "2026-11-11T01:02:11Z",
             "open_issues": 1,
             "owner": "wxhou",
             "repo": "openspec-playwright",
@@ -738,27 +741,6 @@
         },
         {
           "node_type": "item",
-          "title": "Flokay",
-          "description": "Claude Code and Cursor plugin with plan-then-implement workflow and subagent dispatch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Codagent Agent Skills is a plugin that provides a set of focused skills for each stage of software development.",
-            "homepage": null,
-            "id": 1160520597,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-10-27T01:54:42Z",
-            "open_issues": 5,
-            "owner": "Codagent-AI",
-            "repo": "agent-skills",
-            "stars": 31,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:48:50.081Z"
-        },
-        {
-          "node_type": "item",
           "title": "openspec-mcp",
           "description": "MCP server exposing the OpenSpec CLI as tools, with a Kanban web dashboard.",
           "children": [],
@@ -773,6 +755,27 @@
             "open_issues": 2,
             "owner": "Lumiaqian",
             "repo": "openspec-mcp",
+            "stars": 32,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:48:50.081Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Flokay",
+          "description": "Claude Code and Cursor plugin with plan-then-implement workflow and subagent dispatch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Codagent Agent Skills is a plugin that provides a set of focused skills for each stage of software development.",
+            "homepage": null,
+            "id": 1160520597,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-10-27T01:54:42Z",
+            "open_issues": 5,
+            "owner": "Codagent-AI",
+            "repo": "agent-skills",
             "stars": 31,
             "topics": []
           },
@@ -821,7 +824,7 @@
             "open_issues": 0,
             "owner": "moyaspace",
             "repo": "openspec-superpowers-opencode",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "ai-coding",
               "bridge",
@@ -857,7 +860,7 @@
             "open_issues": 0,
             "owner": "uwzis",
             "repo": "OpenSpec-Zed",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1189,7 +1192,7 @@
             "open_issues": 6,
             "owner": "MageByte-Zero",
             "repo": "spec-superflow",
-            "stars": 884,
+            "stars": 885,
             "topics": [
               "ai-coding",
               "amazon-q",
@@ -1230,7 +1233,7 @@
             "open_issues": 1,
             "owner": "rihebty",
             "repo": "flow-kit",
-            "stars": 411,
+            "stars": 413,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1251,7 +1254,7 @@
             "open_issues": 6,
             "owner": "JiangWay",
             "repo": "openspec-schemas",
-            "stars": 236,
+            "stars": 237,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1364,7 +1367,7 @@
             "open_issues": 0,
             "owner": "danielhanold",
             "repo": "superspec",
-            "stars": 92,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1619,8 +1622,8 @@
             "id": 1226309398,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-07T14:11:28Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-11T23:13:00Z",
+            "open_issues": 4,
             "owner": "PlainConceptsPlatform",
             "repo": "agent-harness",
             "stars": 5,
@@ -1680,7 +1683,7 @@
             "open_issues": 2,
             "owner": "felipefontoura",
             "repo": "spec-driven-development-book",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "agentic-ai",
               "ai-agents",
@@ -1720,7 +1723,7 @@
             "open_issues": 1,
             "owner": "ForceInjection",
             "repo": "OpenSpec-practise",
-            "stars": 646,
+            "stars": 648,
             "topics": [
               "sdd",
               "spec-driven-development"
@@ -1744,7 +1747,7 @@
             "open_issues": 6,
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 170,
+            "stars": 172,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1765,7 +1768,7 @@
             "open_issues": 6,
             "owner": "cameronsjo",
             "repo": "spec-compare",
-            "stars": 170,
+            "stars": 172,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:50.081Z"
@@ -1807,7 +1810,7 @@
             "open_issues": 0,
             "owner": "radebit",
             "repo": "OpenSpec-Docs-zh",
-            "stars": 92,
+            "stars": 93,
             "topics": [
               "ai-coding",
               "docs",
@@ -1979,11 +1982,11 @@
             "id": 1042367133,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T23:14:57Z",
-            "open_issues": 209,
+            "last_commit": "2026-11-11T22:53:42Z",
+            "open_issues": 220,
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 149199,
+            "stars": 149362,
             "topics": [
               "ai",
               "copilot",
@@ -2012,7 +2015,7 @@
             "open_issues": 0,
             "owner": "gsd-build",
             "repo": "get-shit-done",
-            "stars": 64160,
+            "stars": 64157,
             "topics": [
               "claude-code",
               "context-engineering",
@@ -2034,11 +2037,11 @@
             "id": 965615190,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T03:41:31Z",
-            "open_issues": 97,
+            "last_commit": "2026-11-12T00:07:47Z",
+            "open_issues": 99,
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 55232,
+            "stars": 55273,
             "topics": [
               "agile",
               "ai",
@@ -2062,10 +2065,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-11-05T17:16:02Z",
-            "open_issues": 1564,
+            "open_issues": 1592,
             "owner": "kirodotdev",
             "repo": "Kiro",
-            "stars": 4455,
+            "stars": 4458,
             "topics": [
               "ai",
               "ide",
@@ -2087,8 +2090,8 @@
             "id": 1072945981,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T19:16:50Z",
-            "open_issues": 864,
+            "last_commit": "2026-11-11T22:14:14Z",
+            "open_issues": 890,
             "owner": "spec-kitty",
             "repo": "spec-kitty",
             "stars": 1720,
@@ -2185,7 +2188,7 @@
             "open_issues": 0,
             "owner": "felipefontoura",
             "repo": "pi-sdd-kit",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -2347,10 +2350,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-11-09T12:10:09Z",
-            "open_issues": 73,
+            "open_issues": 75,
             "owner": "eltociear",
             "repo": "awesome-AI-driven-development",
-            "stars": 574,
+            "stars": 575,
             "topics": [
               "agent",
               "ai",
@@ -2383,7 +2386,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-11-04T23:10:31Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "Engineering4AI",
             "repo": "awesome-spec-driven-development",
             "stars": 320,
@@ -2401,7 +2404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T23:36:38.435Z",
+    "last_updated": "2026-11-12T00:53:26.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome OpenSpec resources and some genereric Spec-Driven-Development resources.",
